@@ -1,0 +1,9 @@
+,scoring classification,score
+0,explained variance score,0.7103702410742629
+1,Mean Absolute Error,6.423310659289554
+2,Mean Squared Error,79.698520533844
+3,Root Mean Squared Error,8.927402787700576
+4,R-Squared,0.7056151840783282
+5,Percent of standard deviation explained,0.5425724061557792
+6,Mean AdultWeekend price,59.34366936440826
+7,Standard Deviation,17.263302606909342
