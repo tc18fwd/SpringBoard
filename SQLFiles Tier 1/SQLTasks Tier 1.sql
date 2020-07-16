@@ -101,14 +101,13 @@ Include in your output the name of the court, and the name of the member
 formatted as a single column. Ensure no duplicate data, and order by
 the member name. */
 
-SELECT f.name, CONCAT(m.surname, ' ', m.firstname) AS fullname
+SELECT DISTINCT CONCAT( m.surname, ' ', m.firstname ) AS fullname, f.name
 FROM `Bookings` AS b
-INNER JOIN `Members` AS m 
-ON b.memid = m.memid 
-INNER JOIN `Facilities` AS f
-ON f.facid = b.facid
-WHERE b.facid IN (0,1)
-GROUP BY fullname;
+INNER JOIN `Members` AS m ON b.memid = m.memid
+INNER JOIN `Facilities` AS f ON f.facid = b.facid
+WHERE b.facid
+IN ( 0, 1 )
+ORDER BY fullname, f.name
 
 
 

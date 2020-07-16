@@ -37,7 +37,7 @@ def select_all_tasks(conn):
 
 
 def main():
-    database = "sqlite\db\pythonsqlite.db"
+    database = "sqlite_db_pythonsqlite.db"
  
     # create a database connection
     conn = create_connection(database)

@@ -1,0 +1,24 @@
+﻿Practice Interview Questions
+SQL
+* What are the benefits of performing in-database analytics?
+	A: 
+   * Check out our Introduction to SQL and Databases article to help you with this. 
+* Under what conditions would a window function be useful when doing data science with SQL?
+   * Check out the Intermediate SQL DataCamp course, particularly chapter 4, if you struggle with this. 
+* Explain the difference between databases, database management systems, and querying languages. 
+   * Check out our Introduction to SQL and Databases article to help you with this. 
+* Describe a situation where left join, but not a right join, is appropriate.
+   * Think of this map of the set theory underpinning join operations to help you. 
+* What are the main benefits of using a relational database over a large excel spreadsheet? 
+   * If you’re not quite clear on this, have a look at this article. 
+* Can you explain the difference between the WHERE and HAVING filters? Can you exemplify a situation where just one, but not the other, of these filters is appropriate?
+   * Think about the difference between filtering on results, and filtering on groups. 
+
+
+* What does the LIMIT command do?
+* How can you use the BETWEEN to select from a range of values? Can you provide an example and recode the same example using an AND statement?
+* How would you find records where the first name of an employee started with the letter P?
+* What are the wild card operators?
+* How would you select values NOT IN a query result given a where statement?
+* How could you find the number of unique neighborhoods that customers come from?
+* How would you concatenate two columns together to make a new column?
