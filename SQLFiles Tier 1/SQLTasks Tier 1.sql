@@ -176,11 +176,72 @@ QUESTIONS:
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
 
+learn_sql@springboard
+Bookings: facid, memid, slots, starttime
+Facilities: facid, name, membercost, guestcost
+Members: memid, surname, firstname
+
+SELECT f.name,
+    SUM(CASE WHEN b.memid = 0 THEN f.guestcost*b.slots
+         ELSE f.membercost*b.slots END) AS revenue
+FROM `Bookings` AS b
+INNER JOIN `Members` AS m 
+ON m.memid = b.memid 
+INNER JOIN `Facilities` AS f
+ON b.facid = f.facid
+GROUP BY f.name;
+HAVING revenue < 1000;
+
+
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
+
+SELECT m.surname, m.firstname,
+    CASE WHEN recommendedby = 1 THEN 'Darren Smith'
+         WHEN recommendedby = 11 THEN 'David Jones'
+         WHEN recommendedby = 13 THEN 'Jemima Farrel'
+         WHEN recommendedby = 15 THEN 'Florence Bader'
+         WHEN recommendedby = 16 THEN 'Timothy Baker'
+         WHEN recommendedby = 2 THEN 'Tracy Smith'
+         WHEN recommendedby = 20 THEN 'Matthew Genting'
+         WHEN recommendedby = 3 THEN 'Tim Rownam'
+         WHEN recommendedby = 30 THEN 'Millicent Purview'
+         WHEN recommendedby = 4 THEN 'Janice Joplette'
+         WHEN recommendedby = 5 THEN 'Gerald Butters'
+         WHEN recommendedby = 6 THEN 'Burton Tracy'
+         WHEN recommendedby = 9 THEN 'Ponder Stibbons'
+         ELSE 'None' END AS recommended_by
+FROM `Members` AS m
+ORDER BY surname, firstname;
+
 
 
 /* Q12: Find the facilities with their usage by member, but not guests */
 
+SELECT f.name, SUM(b.slots) AS mem_used
+FROM `Facilities` AS f
+INNER JOIN `Bookings` AS b
+ON f.facid = b.facid
+INNER JOIN `Members` AS m
+on b.memid = m.memid
+WHERE b.memid > 0
+GROUP BY f.name;
+
+
 
 /* Q13: Find the facilities usage by month, but not guests */
+
+SELECT CASE WHEN b.starttime LIKE '2012-07%' THEN '2012-07'
+            WHEN b.starttime LIKE '2012-08%' THEN '2012-08'
+            WHEN b.starttime LIKE '2012-09%' THEN '2012-09'
+            END AS month,
+f.name,
+SUM(b.slots) AS mem_used
+FROM `Facilities` AS f
+LEFT JOIN `Bookings` AS b
+ON f.facid = b.facid
+LEFT JOIN `Members` AS m
+on b.memid = m.memid
+WHERE b.memid > 0
+GROUP BY month, f.name;
+
 

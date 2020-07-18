@@ -1,24 +1,71 @@
 ﻿Practice Interview Questions
 SQL
 * What are the benefits of performing in-database analytics?
-	A: 
-   * Check out our Introduction to SQL and Databases article to help you with this. 
+     A: The key advantage of performing in-database analytics is that the necessity of moving data into an analytic tool is eliminated,
+	and we can obtain almost real-time results.
+
 * Under what conditions would a window function be useful when doing data science with SQL?
-   * Check out the Intermediate SQL DataCamp course, particularly chapter 4, if you struggle with this. 
+     A: SQL may use window functions on the windows (an already generated result), common window functions are aggregation functions like:
+	Sum, count, average of the results. There are also ranking (ordering) functions that makes the result neater/ordered in ways we would like.
+
 * Explain the difference between databases, database management systems, and querying languages. 
-   * Check out our Introduction to SQL and Databases article to help you with this. 
+     A: The most basic definition for databse is a colleciton of tables.
+	While a database management system (DBMS) is a software that runs on a dedicated machine; it can be a server else where or on your own magine (local server).
+	Query language is a language we can use both to manipulate the data within pre-existing data structures, and to create data structures themselves.
+
 * Describe a situation where left join, but not a right join, is appropriate.
-   * Think of this map of the set theory underpinning join operations to help you. 
+     A: Left join take all the data from the "left" table, with limitation on what to take from the "right" table by matching keys,
+	or on what to remove from the "left" table based on "right" table's key.
+	So in situations where left join is appropriate, but not right join, is when you want to manipulate the data from the left table.
+
 * What are the main benefits of using a relational database over a large excel spreadsheet? 
-   * If you’re not quite clear on this, have a look at this article. 
-* Can you explain the difference between the WHERE and HAVING filters? Can you exemplify a situation where just one, but not the other, of these filters is appropriate?
-   * Think about the difference between filtering on results, and filtering on groups. 
+     A: A large excel spreadsheet will become much slower when the amount of data gets larger,
+	and it become harder to form key connections between different datasets.
 
+* Can you explain the difference between the WHERE and HAVING filters?
+	A: WHERE is the filter used BEFORE GROUP BY the results, while HAVING is the filter used AFTER GROUP BY the results.
+	*Can you exemplify a situation where just one, but not the other, of these filters is appropriate?
+	A: Since HAVING is used AFTER GROUP BY, it can filter the ending result while WHERE cannot. Example
+	if we have a data table of a gamematch with following columns: homename, awayname, date, homescore, awayscore
+	we can add an additional column called totalscore by 
+	SELECT (homesocre + awayscore) AS totalscore
+	FROM gamematch
+	GROUP BY date
+	HAVING totalscore > 10;
+	this will give us a table of the dates and and total score of that day, but only data where the total score > 10 will be produced
 
+	SELECT (homesocre + awayscore) AS totalscore
+	FROM gamematch
+	WHERE (homesocre + awayscore) > 10
+	GROUP BY date;
+	this will give the same result as previous query, but since total score wasn't calculated yet, we cannot use WHERE totalscore > 10.
+	
 * What does the LIMIT command do?
+     A: It gives the amount of data listed so we won't be overwhelmed with the amount of data.
+
 * How can you use the BETWEEN to select from a range of values? Can you provide an example and recode the same example using an AND statement?
+     A: We use BETWEEN to select values between A AND B example using the gamematch table earlier
+	SELECT (homesocre + awayscore) AS totalscore
+	FROM gamematch
+	GROUP BY date
+	HAVING totalscore BETWEEN 5 AND 15;
+	this will generate results where the total score is betwen 5 and 15!
+
 * How would you find records where the first name of an employee started with the letter P?
+     A: use the where filter: WHERE firstname LIKE "P%"
+
 * What are the wild card operators?
+     A: '%' = any amount of any character, '_' or '?' = any 1 character, '[abc]' = any one characters in the bracket in this case a, b, c,
+	[1-9] or [a-d] for ranges between (inclusive), '!' or '^' for not in the bracket e.g. h[!oa]t may give hit but not hot/hat.
+	'#' for any one number.
+
 * How would you select values NOT IN a query result given a where statement?
+     A: SELECT column_name1, column_name2, etc
+	FROM table_name
+	WHERE  column_name1 NOT IN (value1, value2, etc);
+
 * How could you find the number of unique neighborhoods that customers come from?
+     A: SELECT COUNT(DISTINCT neighborhood) as number_of_neighborhood
+	FROM table_name
 * How would you concatenate two columns together to make a new column?
+     A: SELECT CONCAT(column1, column2) AS new_column
