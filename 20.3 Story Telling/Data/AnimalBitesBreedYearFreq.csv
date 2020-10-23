@@ -1,0 +1,92 @@
+year,breed,counts
+2011,Unknown(Dog),483
+2012,Unknown(Dog),302
+2013,Unknown(Dog),335
+2014,Unknown(Dog),410
+2015,Unknown(Dog),132
+2016,Unknown(Dog),142
+2017,Unknown(Dog),119
+2011,Cat(No Breeds),212
+2012,Cat(No Breeds),140
+2013,Cat(No Breeds),174
+2014,Cat(No Breeds),181
+2015,Cat(No Breeds),116
+2016,Cat(No Breeds),105
+2017,Cat(No Breeds),71
+2011,Germ Shepherd,30
+2012,Germ Shepherd,42
+2013,Germ Shepherd,24
+2014,Germ Shepherd,40
+2015,Germ Shepherd,52
+2016,Germ Shepherd,62
+2017,Germ Shepherd,36
+2011,Dachshund,13
+2012,Dachshund,10
+2013,Dachshund,4
+2014,Dachshund,14
+2015,Dachshund,5
+2016,Dachshund,5
+2017,Dachshund,7
+2011,Pit Bull,108
+2012,Pit Bull,109
+2013,Pit Bull,130
+2014,Pit Bull,135
+2015,Pit Bull,147
+2016,Pit Bull,180
+2017,Pit Bull,150
+2011,Shih Tzu,23
+2012,Shih Tzu,9
+2013,Shih Tzu,18
+2014,Shih Tzu,13
+2015,Shih Tzu,21
+2016,Shih Tzu,13
+2017,Shih Tzu,8
+2011,Other(Dog),141
+2012,Other(Dog),138
+2013,Other(Dog),152
+2014,Other(Dog),166
+2015,Other(Dog),148
+2016,Other(Dog),174
+2017,Other(Dog),116
+2011,Chichauhua,20
+2012,Chichauhua,19
+2013,Chichauhua,19
+2014,Chichauhua,31
+2015,Chichauhua,20
+2016,Chichauhua,21
+2017,Chichauhua,15
+2011,Beagle,12
+2012,Beagle,17
+2013,Beagle,12
+2014,Beagle,7
+2015,Beagle,14
+2016,Beagle,14
+2017,Beagle,13
+2011,Boxer,23
+2012,Boxer,15
+2013,Boxer,21
+2014,Boxer,16
+2015,Boxer,34
+2016,Boxer,21
+2017,Boxer,30
+2011,Aaust. Terr.,4
+2012,Aaust. Terr.,9
+2013,Aaust. Terr.,11
+2014,Aaust. Terr.,7
+2015,Aaust. Terr.,17
+2016,Aaust. Terr.,6
+2017,Aaust. Terr.,13
+2011,Labrador Retriv,22
+2012,Labrador Retriv,23
+2013,Labrador Retriv,33
+2014,Labrador Retriv,31
+2015,Labrador Retriv,38
+2016,Labrador Retriv,38
+2017,Labrador Retriv,38
+2011,Rottweiler,11
+2012,Rottweiler,8
+2013,Rottweiler,12
+2014,Rottweiler,11
+2015,Rottweiler,12
+2016,Rottweiler,13
+2017,Rottweiler,5
