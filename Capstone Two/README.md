@@ -84,7 +84,9 @@ This model uses the results from TBATS then multiply the reslt by a ratio calcul
 ## 6. Which Dataset to choose and how long for training data?
 
 It is recommened to have 3 years or more of data for a proper time series analysis. Which trains the first 2 years and test on the 3rd year. However, we only have 2 years of data! Also, I have already tried several training/testing periods, because auto_arima with exog variables may consum a lot of memeory, the hourly models were mainly train=2016, and predict the 2017 to compare with the test. And from the result of training/testing various models, we have concluded earlier that TBATSxR is most suited for this project. And fortunately, TBATS doesn't take as much time and memory as auto_arima, so it was able to train the whole two years of data.
-But as for the missing 3rd year's data, I used the average of 2016 and 2017's data based on hour and day of week starting with Monday's 00:00.
+But as for the missing 3rd year's data, I used the average of 2016 and 2017's data based on hour and day of week starting with Monday's 00:00. The result was much better than 2017's predictions, which had MAE of 15.xx.
+
+![](https://github.com/tc18fwd/SpringBoard/blob/master/Capstone%20Two/Readme/TBATSxTR2018%20metric%20score.png)
 
 ## 7. Predictions
 
