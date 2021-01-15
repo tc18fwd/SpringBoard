@@ -1,0 +1,2 @@
+,model,RMSE,MAE,fit_time(min)
+0,auto_arima_d2,115372.7706550792,57421.290627165625,27

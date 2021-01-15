@@ -1,0 +1,2 @@
+model,RMSE,MAE,fit_time(min)
+auto_arima_5,386516.60227618803,275795.1517671518,149
