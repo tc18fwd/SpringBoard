@@ -1,0 +1,30 @@
+Ultimate Challange Part2 - Experiment and metrics design
+1. What would you choose as the key measure of success of this experiment in
+   encouraging driver partners to serve both cities, and why would you choose this metric?
+A: Since there's a two-way toll. We can gather information regarding the number of vehicles
+   passing through each toll, e.g. a toll that indicates entering Ultimate Gotham, and the
+   other toll indicating entering Ultimate Metropolis. So the key measure of success will be
+   increasing the number of tolls. However, since each city has different active time on weekdays,
+   we should pay attention to the specified active time for each city:
+          Metroplis' weekday mornings, and Gotham's weekday nights.
+
+2. Describe a practical experiment you would deisgn to compare the effectiveness of the 
+   proposed change in relation to the key measure of success. Please provide details on:
+     a. how you will implement the experiment: we must first gather information regarding
+        the current toll information; hourly entries to each city. If this is already done,
+        we should decide a timeframe that will offer reimbursement to toll fees (and let the
+        residents know atleast 1 month ahead of time). It may be biased to have one entire
+        month since the activities may vary each month, so unless we have the toll information
+        for the experimental month from previous years, it is advised to use a different option.
+        Such as certain day(s) of week for 3 months, since it's much better to gather a specific
+        day's data than having a certain month's data that might yield biased result.
+     b. what statistical test(s) you will conduct to verify the significance of the 
+        observation: There should definitely be a 'significant' increase in the toll counts for
+        the timeframe that we wish to increase:
+            Metroplis' weekday mornings, and Gotham's weekday nights.
+        In this case, a Two Independent Samples t-Test will do.
+     c. how you would interpret the results and provide recommendations to the city
+        operations team along with any caveats.
+        We should provide the difference from before and after the implementation of the toll
+        reimbursement, and give special attention to the timeframe of interest:
+               Metroplis' weekday mornings, and Gotham's weekday nights
