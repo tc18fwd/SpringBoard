@@ -1,0 +1,23 @@
+1. Why do you want to be a data scientist/analyst?
+   A: I have always been good with numbers and a strong urge to find out how and why things work, what's the logic behind it?
+      Is there's a better/more efficient way to make it work? I actually did not know there was a profession that requires such
+      traits until I my badminton buddies told me to look it up and give it a try. And here I am.
+      
+
+2. Why do you want to work at this company?
+   A: Acknowledge the Company’s Uniqueness, Go Back to the Beginning (how u found it), Think Ahead, Offer a Personal Touch
+
+
+3. Tell me about a time you had to handle a conflict with your colleagues.
+   A: Everyone believes what they are doing is right, and are trying to make things work/better. Howewver, it's common to come to
+     disagreement when people have different point of view. When I was still a cafe owner, there was a conlfic between me and a 
+     shareholder regarding a recipe for a new snack. She was very excited that we are adding a new item to the menu, and had spent
+     a good amount of time and effort to come up with a unique recipe for the new item. However, I had to reject her proposal, and 
+     I gave her the reasons:
+     1. QC: The recipe was way too complex, she may be able to make it, but not necessary everyone kitchen staff can replicate the same thing.
+     2. The preparation is way too long, it is additional task for kitchen staff to prepare it.
+     3. The cooking time is also way too long, the current snack items were able to be made in 5 mins, but the new item requires 12.
+        This sudden long wait time will drive away impatient customers.
+     I told her that the new recipe she came up with is great, but it does not fit well with our current menu and kitchen (due to 
+     requiring addtional storage and prep). It would have been great to have it in a competition of delicacy, but not as a fast food snack.
+     So let's enjoy the new recipe ourselves, while think of another one that may fit the criteria mentioned earlier.
