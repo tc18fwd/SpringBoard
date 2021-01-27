@@ -1,0 +1,3377 @@
+Date,variable,value,measure_type,Bedrooms,Source
+1996-01-31,z_median_OneBR,125901,median,1,zillow
+1996-02-29,z_median_OneBR,125829,median,1,zillow
+1996-03-31,z_median_OneBR,126113,median,1,zillow
+1996-04-30,z_median_OneBR,126090,median,1,zillow
+1996-05-31,z_median_OneBR,124929,median,1,zillow
+1996-06-30,z_median_OneBR,124193,median,1,zillow
+1996-07-31,z_median_OneBR,123655,median,1,zillow
+1996-08-31,z_median_OneBR,123441,median,1,zillow
+1996-09-30,z_median_OneBR,123397,median,1,zillow
+1996-10-31,z_median_OneBR,123817,median,1,zillow
+1996-11-30,z_median_OneBR,124235,median,1,zillow
+1996-12-31,z_median_OneBR,123681,median,1,zillow
+1997-01-31,z_median_OneBR,122519,median,1,zillow
+1997-02-28,z_median_OneBR,123196,median,1,zillow
+1997-03-31,z_median_OneBR,123311,median,1,zillow
+1997-04-30,z_median_OneBR,123334,median,1,zillow
+1997-05-31,z_median_OneBR,123057,median,1,zillow
+1997-06-30,z_median_OneBR,123530,median,1,zillow
+1997-07-31,z_median_OneBR,123781,median,1,zillow
+1997-08-31,z_median_OneBR,124680,median,1,zillow
+1997-09-30,z_median_OneBR,126094,median,1,zillow
+1997-10-31,z_median_OneBR,127368,median,1,zillow
+1997-11-30,z_median_OneBR,126996,median,1,zillow
+1997-12-31,z_median_OneBR,127305,median,1,zillow
+1998-01-31,z_median_OneBR,128411,median,1,zillow
+1998-02-28,z_median_OneBR,129723,median,1,zillow
+1998-03-31,z_median_OneBR,129844,median,1,zillow
+1998-04-30,z_median_OneBR,130677,median,1,zillow
+1998-05-31,z_median_OneBR,131055,median,1,zillow
+1998-06-30,z_median_OneBR,131422,median,1,zillow
+1998-07-31,z_median_OneBR,131934,median,1,zillow
+1998-08-31,z_median_OneBR,132615,median,1,zillow
+1998-09-30,z_median_OneBR,133615,median,1,zillow
+1998-10-31,z_median_OneBR,135107,median,1,zillow
+1998-11-30,z_median_OneBR,136095,median,1,zillow
+1998-12-31,z_median_OneBR,136845,median,1,zillow
+1999-01-31,z_median_OneBR,137888,median,1,zillow
+1999-02-28,z_median_OneBR,137597,median,1,zillow
+1999-03-31,z_median_OneBR,138176,median,1,zillow
+1999-04-30,z_median_OneBR,140506,median,1,zillow
+1999-05-31,z_median_OneBR,141621,median,1,zillow
+1999-06-30,z_median_OneBR,143036,median,1,zillow
+1999-07-31,z_median_OneBR,144650,median,1,zillow
+1999-08-31,z_median_OneBR,145235,median,1,zillow
+1999-09-30,z_median_OneBR,145818,median,1,zillow
+1999-10-31,z_median_OneBR,146357,median,1,zillow
+1999-11-30,z_median_OneBR,148013,median,1,zillow
+1999-12-31,z_median_OneBR,149732,median,1,zillow
+2000-01-31,z_median_OneBR,151014,median,1,zillow
+2000-02-29,z_median_OneBR,152880,median,1,zillow
+2000-03-31,z_median_OneBR,154617,median,1,zillow
+2000-04-30,z_median_OneBR,156246,median,1,zillow
+2000-05-31,z_median_OneBR,158327,median,1,zillow
+2000-06-30,z_median_OneBR,159226,median,1,zillow
+2000-07-31,z_median_OneBR,161355,median,1,zillow
+2000-08-31,z_median_OneBR,163708,median,1,zillow
+2000-09-30,z_median_OneBR,164427,median,1,zillow
+2000-10-31,z_median_OneBR,167018,median,1,zillow
+2000-11-30,z_median_OneBR,169062,median,1,zillow
+2000-12-31,z_median_OneBR,170998,median,1,zillow
+2001-01-31,z_median_OneBR,172965,median,1,zillow
+2001-02-28,z_median_OneBR,175337,median,1,zillow
+2001-03-31,z_median_OneBR,176168,median,1,zillow
+2001-04-30,z_median_OneBR,178554,median,1,zillow
+2001-05-31,z_median_OneBR,180818,median,1,zillow
+2001-06-30,z_median_OneBR,183032,median,1,zillow
+2001-07-31,z_median_OneBR,185315,median,1,zillow
+2001-08-31,z_median_OneBR,186769,median,1,zillow
+2001-09-30,z_median_OneBR,187721,median,1,zillow
+2001-10-31,z_median_OneBR,189385,median,1,zillow
+2001-11-30,z_median_OneBR,189898,median,1,zillow
+2001-12-31,z_median_OneBR,190251,median,1,zillow
+2002-01-31,z_median_OneBR,190769,median,1,zillow
+2002-02-28,z_median_OneBR,192991,median,1,zillow
+2002-03-31,z_median_OneBR,195802,median,1,zillow
+2002-04-30,z_median_OneBR,197758,median,1,zillow
+2002-05-31,z_median_OneBR,200512,median,1,zillow
+2002-06-30,z_median_OneBR,204281,median,1,zillow
+2002-07-31,z_median_OneBR,208225,median,1,zillow
+2002-08-31,z_median_OneBR,211934,median,1,zillow
+2002-09-30,z_median_OneBR,215828,median,1,zillow
+2002-10-31,z_median_OneBR,218137,median,1,zillow
+2002-11-30,z_median_OneBR,221916,median,1,zillow
+2002-12-31,z_median_OneBR,223330,median,1,zillow
+2003-01-31,z_median_OneBR,227252,median,1,zillow
+2003-02-28,z_median_OneBR,229923,median,1,zillow
+2003-03-31,z_median_OneBR,231699,median,1,zillow
+2003-04-30,z_median_OneBR,234729,median,1,zillow
+2003-05-31,z_median_OneBR,238504,median,1,zillow
+2003-06-30,z_median_OneBR,239937,median,1,zillow
+2003-07-31,z_median_OneBR,242917,median,1,zillow
+2003-08-31,z_median_OneBR,246711,median,1,zillow
+2003-09-30,z_median_OneBR,251529,median,1,zillow
+2003-10-31,z_median_OneBR,254436,median,1,zillow
+2003-11-30,z_median_OneBR,261061,median,1,zillow
+2003-12-31,z_median_OneBR,265360,median,1,zillow
+2004-01-31,z_median_OneBR,269617,median,1,zillow
+2004-02-29,z_median_OneBR,273738,median,1,zillow
+2004-03-31,z_median_OneBR,277883,median,1,zillow
+2004-04-30,z_median_OneBR,282827,median,1,zillow
+2004-05-31,z_median_OneBR,288058,median,1,zillow
+2004-06-30,z_median_OneBR,293668,median,1,zillow
+2004-07-31,z_median_OneBR,300411,median,1,zillow
+2004-08-31,z_median_OneBR,305006,median,1,zillow
+2004-09-30,z_median_OneBR,307821,median,1,zillow
+2004-10-31,z_median_OneBR,314166,median,1,zillow
+2004-11-30,z_median_OneBR,317459,median,1,zillow
+2004-12-31,z_median_OneBR,323638,median,1,zillow
+2005-01-31,z_median_OneBR,327383,median,1,zillow
+2005-02-28,z_median_OneBR,332360,median,1,zillow
+2005-03-31,z_median_OneBR,336713,median,1,zillow
+2005-04-30,z_median_OneBR,342024,median,1,zillow
+2005-05-31,z_median_OneBR,347278,median,1,zillow
+2005-06-30,z_median_OneBR,351264,median,1,zillow
+2005-07-31,z_median_OneBR,357587,median,1,zillow
+2005-08-31,z_median_OneBR,360587,median,1,zillow
+2005-09-30,z_median_OneBR,366246,median,1,zillow
+2005-10-31,z_median_OneBR,369729,median,1,zillow
+2005-11-30,z_median_OneBR,374093,median,1,zillow
+2005-12-31,z_median_OneBR,376270,median,1,zillow
+2006-01-31,z_median_OneBR,379543,median,1,zillow
+2006-02-28,z_median_OneBR,382648,median,1,zillow
+2006-03-31,z_median_OneBR,385965,median,1,zillow
+2006-04-30,z_median_OneBR,388554,median,1,zillow
+2006-05-31,z_median_OneBR,391244,median,1,zillow
+2006-06-30,z_median_OneBR,393231,median,1,zillow
+2006-07-31,z_median_OneBR,394506,median,1,zillow
+2006-08-31,z_median_OneBR,393873,median,1,zillow
+2006-09-30,z_median_OneBR,390707,median,1,zillow
+2006-10-31,z_median_OneBR,390633,median,1,zillow
+2006-11-30,z_median_OneBR,390610,median,1,zillow
+2006-12-31,z_median_OneBR,391382,median,1,zillow
+2007-01-31,z_median_OneBR,391936,median,1,zillow
+2007-02-28,z_median_OneBR,391340,median,1,zillow
+2007-03-31,z_median_OneBR,388578,median,1,zillow
+2007-04-30,z_median_OneBR,386749,median,1,zillow
+2007-05-31,z_median_OneBR,386716,median,1,zillow
+2007-06-30,z_median_OneBR,384196,median,1,zillow
+2007-07-31,z_median_OneBR,384320,median,1,zillow
+2007-08-31,z_median_OneBR,382838,median,1,zillow
+2007-09-30,z_median_OneBR,378448,median,1,zillow
+2007-10-31,z_median_OneBR,373811,median,1,zillow
+2007-11-30,z_median_OneBR,369500,median,1,zillow
+2007-12-31,z_median_OneBR,366084,median,1,zillow
+2008-01-31,z_median_OneBR,362202,median,1,zillow
+2008-02-29,z_median_OneBR,355473,median,1,zillow
+2008-03-31,z_median_OneBR,347726,median,1,zillow
+2008-04-30,z_median_OneBR,341760,median,1,zillow
+2008-05-31,z_median_OneBR,333933,median,1,zillow
+2008-06-30,z_median_OneBR,327959,median,1,zillow
+2008-07-31,z_median_OneBR,323741,median,1,zillow
+2008-08-31,z_median_OneBR,315221,median,1,zillow
+2008-09-30,z_median_OneBR,311161,median,1,zillow
+2008-10-31,z_median_OneBR,308279,median,1,zillow
+2008-11-30,z_median_OneBR,305547,median,1,zillow
+2008-12-31,z_median_OneBR,302437,median,1,zillow
+2009-01-31,z_median_OneBR,297183,median,1,zillow
+2009-02-28,z_median_OneBR,294240,median,1,zillow
+2009-03-31,z_median_OneBR,292239,median,1,zillow
+2009-04-30,z_median_OneBR,289440,median,1,zillow
+2009-05-31,z_median_OneBR,286650,median,1,zillow
+2009-06-30,z_median_OneBR,283663,median,1,zillow
+2009-07-31,z_median_OneBR,281266,median,1,zillow
+2009-08-31,z_median_OneBR,280366,median,1,zillow
+2009-09-30,z_median_OneBR,279380,median,1,zillow
+2009-10-31,z_median_OneBR,280866,median,1,zillow
+2009-11-30,z_median_OneBR,281491,median,1,zillow
+2009-12-31,z_median_OneBR,281633,median,1,zillow
+2010-01-31,z_median_OneBR,281790,median,1,zillow
+2010-02-28,z_median_OneBR,280730,median,1,zillow
+2010-03-31,z_median_OneBR,280853,median,1,zillow
+2010-04-30,z_median_OneBR,280810,median,1,zillow
+2010-05-31,z_median_OneBR,280399,median,1,zillow
+2010-06-30,z_median_OneBR,279609,median,1,zillow
+2010-07-31,z_median_OneBR,277275,median,1,zillow
+2010-08-31,z_median_OneBR,273555,median,1,zillow
+2010-09-30,z_median_OneBR,271929,median,1,zillow
+2010-10-31,z_median_OneBR,270013,median,1,zillow
+2010-11-30,z_median_OneBR,267346,median,1,zillow
+2010-12-31,z_median_OneBR,264708,median,1,zillow
+2011-01-31,z_median_OneBR,261997,median,1,zillow
+2011-02-28,z_median_OneBR,261371,median,1,zillow
+2011-03-31,z_median_OneBR,259479,median,1,zillow
+2011-04-30,z_median_OneBR,257758,median,1,zillow
+2011-05-31,z_median_OneBR,255421,median,1,zillow
+2011-06-30,z_median_OneBR,252709,median,1,zillow
+2011-07-31,z_median_OneBR,251945,median,1,zillow
+2011-08-31,z_median_OneBR,249987,median,1,zillow
+2011-09-30,z_median_OneBR,248545,median,1,zillow
+2011-10-31,z_median_OneBR,247781,median,1,zillow
+2011-11-30,z_median_OneBR,246423,median,1,zillow
+2011-12-31,z_median_OneBR,245425,median,1,zillow
+2012-01-31,z_median_OneBR,242955,median,1,zillow
+2012-02-29,z_median_OneBR,242524,median,1,zillow
+2012-03-31,z_median_OneBR,241685,median,1,zillow
+2012-04-30,z_median_OneBR,241509,median,1,zillow
+2012-05-31,z_median_OneBR,241477,median,1,zillow
+2012-06-30,z_median_OneBR,242690,median,1,zillow
+2012-07-31,z_median_OneBR,245221,median,1,zillow
+2012-08-31,z_median_OneBR,248121,median,1,zillow
+2012-09-30,z_median_OneBR,249644,median,1,zillow
+2012-10-31,z_median_OneBR,252777,median,1,zillow
+2012-11-30,z_median_OneBR,254721,median,1,zillow
+2012-12-31,z_median_OneBR,259035,median,1,zillow
+2013-01-31,z_median_OneBR,263365,median,1,zillow
+2013-02-28,z_median_OneBR,268621,median,1,zillow
+2013-03-31,z_median_OneBR,273065,median,1,zillow
+2013-04-30,z_median_OneBR,278909,median,1,zillow
+2013-05-31,z_median_OneBR,284503,median,1,zillow
+2013-06-30,z_median_OneBR,290841,median,1,zillow
+2013-07-31,z_median_OneBR,293681,median,1,zillow
+2013-08-31,z_median_OneBR,299008,median,1,zillow
+2013-09-30,z_median_OneBR,303456,median,1,zillow
+2013-10-31,z_median_OneBR,306877,median,1,zillow
+2013-11-30,z_median_OneBR,309645,median,1,zillow
+2013-12-31,z_median_OneBR,313874,median,1,zillow
+2014-01-31,z_median_OneBR,316473,median,1,zillow
+2014-02-28,z_median_OneBR,319702,median,1,zillow
+2014-03-31,z_median_OneBR,323291,median,1,zillow
+2014-04-30,z_median_OneBR,326262,median,1,zillow
+2014-05-31,z_median_OneBR,328027,median,1,zillow
+2014-06-30,z_median_OneBR,328763,median,1,zillow
+2014-07-31,z_median_OneBR,329852,median,1,zillow
+2014-08-31,z_median_OneBR,331029,median,1,zillow
+2014-09-30,z_median_OneBR,333884,median,1,zillow
+2014-10-31,z_median_OneBR,334718,median,1,zillow
+2014-11-30,z_median_OneBR,336351,median,1,zillow
+2014-12-31,z_median_OneBR,339627,median,1,zillow
+2015-01-31,z_median_OneBR,342206,median,1,zillow
+2015-02-28,z_median_OneBR,344291,median,1,zillow
+2015-03-31,z_median_OneBR,347241,median,1,zillow
+2015-04-30,z_median_OneBR,349328,median,1,zillow
+2015-05-31,z_median_OneBR,353506,median,1,zillow
+2015-06-30,z_median_OneBR,355713,median,1,zillow
+2015-07-31,z_median_OneBR,357157,median,1,zillow
+2015-08-31,z_median_OneBR,358038,median,1,zillow
+2015-09-30,z_median_OneBR,359843,median,1,zillow
+2015-10-31,z_median_OneBR,367150,median,1,zillow
+2015-11-30,z_median_OneBR,369991,median,1,zillow
+2015-12-31,z_median_OneBR,373819,median,1,zillow
+2016-01-31,z_median_OneBR,374828,median,1,zillow
+2016-02-29,z_median_OneBR,378168,median,1,zillow
+2016-03-31,z_median_OneBR,379637,median,1,zillow
+2016-04-30,z_median_OneBR,383436,median,1,zillow
+2016-05-31,z_median_OneBR,386212,median,1,zillow
+2016-06-30,z_median_OneBR,388116,median,1,zillow
+2016-07-31,z_median_OneBR,390001,median,1,zillow
+2016-08-31,z_median_OneBR,390669,median,1,zillow
+2016-09-30,z_median_OneBR,390774,median,1,zillow
+2016-10-31,z_median_OneBR,395329,median,1,zillow
+2016-11-30,z_median_OneBR,397402,median,1,zillow
+2016-12-31,z_median_OneBR,400963,median,1,zillow
+2017-01-31,z_median_OneBR,401923,median,1,zillow
+2017-02-28,z_median_OneBR,403224,median,1,zillow
+2017-03-31,z_median_OneBR,404480,median,1,zillow
+2017-04-30,z_median_OneBR,406580,median,1,zillow
+2017-05-31,z_median_OneBR,411768,median,1,zillow
+2017-06-30,z_median_OneBR,417565,median,1,zillow
+2017-07-31,z_median_OneBR,420429,median,1,zillow
+2017-08-31,z_median_OneBR,422579,median,1,zillow
+2017-09-30,z_median_OneBR,426774,median,1,zillow
+2017-10-31,z_median_OneBR,426973,median,1,zillow
+2017-11-30,z_median_OneBR,432279,median,1,zillow
+2017-12-31,z_median_OneBR,436895,median,1,zillow
+2018-01-31,z_median_OneBR,440572,median,1,zillow
+2018-02-28,z_median_OneBR,446282,median,1,zillow
+2018-03-31,z_median_OneBR,449462,median,1,zillow
+2018-04-30,z_median_OneBR,453026,median,1,zillow
+2018-05-31,z_median_OneBR,455757,median,1,zillow
+2018-06-30,z_median_OneBR,457690,median,1,zillow
+2018-07-31,z_median_OneBR,461012,median,1,zillow
+2018-08-31,z_median_OneBR,463421,median,1,zillow
+2018-09-30,z_median_OneBR,464333,median,1,zillow
+2018-10-31,z_median_OneBR,466114,median,1,zillow
+2018-11-30,z_median_OneBR,466550,median,1,zillow
+2018-12-31,z_median_OneBR,464586,median,1,zillow
+2019-01-31,z_median_OneBR,464857,median,1,zillow
+2019-02-28,z_median_OneBR,461902,median,1,zillow
+2019-03-31,z_median_OneBR,459935,median,1,zillow
+2019-04-30,z_median_OneBR,459114,median,1,zillow
+2019-05-31,z_median_OneBR,461070,median,1,zillow
+2019-06-30,z_median_OneBR,464024,median,1,zillow
+2019-07-31,z_median_OneBR,462797,median,1,zillow
+2019-08-31,z_median_OneBR,461449,median,1,zillow
+2019-09-30,z_median_OneBR,461424,median,1,zillow
+2019-10-31,z_median_OneBR,462366,median,1,zillow
+2019-11-30,z_median_OneBR,462462,median,1,zillow
+2019-12-31,z_median_OneBR,465206,median,1,zillow
+2020-01-31,z_median_OneBR,468361,median,1,zillow
+2020-02-29,z_median_OneBR,472867,median,1,zillow
+2020-03-31,z_median_OneBR,474130,median,1,zillow
+2020-04-30,z_median_OneBR,476383,median,1,zillow
+2020-05-31,z_median_OneBR,474146,median,1,zillow
+2020-06-30,z_median_OneBR,472943,median,1,zillow
+2020-07-31,z_median_OneBR,475322,median,1,zillow
+2020-08-31,z_median_OneBR,478685,median,1,zillow
+2020-09-30,z_median_OneBR,482584,median,1,zillow
+2020-10-31,z_median_OneBR,486718,median,1,zillow
+2020-11-30,z_median_OneBR,490368,median,1,zillow
+2020-12-31,z_median_OneBR,493525,median,1,zillow
+1996-01-31,z_median_TwoBR,151923,median,2,zillow
+1996-02-29,z_median_TwoBR,152268,median,2,zillow
+1996-03-31,z_median_TwoBR,152178,median,2,zillow
+1996-04-30,z_median_TwoBR,151813,median,2,zillow
+1996-05-31,z_median_TwoBR,150196,median,2,zillow
+1996-06-30,z_median_TwoBR,150541,median,2,zillow
+1996-07-31,z_median_TwoBR,150915,median,2,zillow
+1996-08-31,z_median_TwoBR,150459,median,2,zillow
+1996-09-30,z_median_TwoBR,150242,median,2,zillow
+1996-10-31,z_median_TwoBR,150581,median,2,zillow
+1996-11-30,z_median_TwoBR,151199,median,2,zillow
+1996-12-31,z_median_TwoBR,151908,median,2,zillow
+1997-01-31,z_median_TwoBR,151335,median,2,zillow
+1997-02-28,z_median_TwoBR,150991,median,2,zillow
+1997-03-31,z_median_TwoBR,150531,median,2,zillow
+1997-04-30,z_median_TwoBR,150758,median,2,zillow
+1997-05-31,z_median_TwoBR,150908,median,2,zillow
+1997-06-30,z_median_TwoBR,151552,median,2,zillow
+1997-07-31,z_median_TwoBR,153600,median,2,zillow
+1997-08-31,z_median_TwoBR,154205,median,2,zillow
+1997-09-30,z_median_TwoBR,155808,median,2,zillow
+1997-10-31,z_median_TwoBR,157005,median,2,zillow
+1997-11-30,z_median_TwoBR,157521,median,2,zillow
+1997-12-31,z_median_TwoBR,157808,median,2,zillow
+1998-01-31,z_median_TwoBR,158716,median,2,zillow
+1998-02-28,z_median_TwoBR,161474,median,2,zillow
+1998-03-31,z_median_TwoBR,161592,median,2,zillow
+1998-04-30,z_median_TwoBR,163002,median,2,zillow
+1998-05-31,z_median_TwoBR,163495,median,2,zillow
+1998-06-30,z_median_TwoBR,164490,median,2,zillow
+1998-07-31,z_median_TwoBR,165662,median,2,zillow
+1998-08-31,z_median_TwoBR,167598,median,2,zillow
+1998-09-30,z_median_TwoBR,168847,median,2,zillow
+1998-10-31,z_median_TwoBR,169314,median,2,zillow
+1998-11-30,z_median_TwoBR,171039,median,2,zillow
+1998-12-31,z_median_TwoBR,171985,median,2,zillow
+1999-01-31,z_median_TwoBR,173163,median,2,zillow
+1999-02-28,z_median_TwoBR,175021,median,2,zillow
+1999-03-31,z_median_TwoBR,175823,median,2,zillow
+1999-04-30,z_median_TwoBR,177225,median,2,zillow
+1999-05-31,z_median_TwoBR,179780,median,2,zillow
+1999-06-30,z_median_TwoBR,181157,median,2,zillow
+1999-07-31,z_median_TwoBR,182212,median,2,zillow
+1999-08-31,z_median_TwoBR,182839,median,2,zillow
+1999-09-30,z_median_TwoBR,183799,median,2,zillow
+1999-10-31,z_median_TwoBR,184248,median,2,zillow
+1999-11-30,z_median_TwoBR,186881,median,2,zillow
+1999-12-31,z_median_TwoBR,189420,median,2,zillow
+2000-01-31,z_median_TwoBR,190985,median,2,zillow
+2000-02-29,z_median_TwoBR,194170,median,2,zillow
+2000-03-31,z_median_TwoBR,196205,median,2,zillow
+2000-04-30,z_median_TwoBR,197469,median,2,zillow
+2000-05-31,z_median_TwoBR,199239,median,2,zillow
+2000-06-30,z_median_TwoBR,202331,median,2,zillow
+2000-07-31,z_median_TwoBR,205229,median,2,zillow
+2000-08-31,z_median_TwoBR,207185,median,2,zillow
+2000-09-30,z_median_TwoBR,210782,median,2,zillow
+2000-10-31,z_median_TwoBR,213185,median,2,zillow
+2000-11-30,z_median_TwoBR,216668,median,2,zillow
+2000-12-31,z_median_TwoBR,219271,median,2,zillow
+2001-01-31,z_median_TwoBR,222403,median,2,zillow
+2001-02-28,z_median_TwoBR,225625,median,2,zillow
+2001-03-31,z_median_TwoBR,229172,median,2,zillow
+2001-04-30,z_median_TwoBR,232149,median,2,zillow
+2001-05-31,z_median_TwoBR,234107,median,2,zillow
+2001-06-30,z_median_TwoBR,236801,median,2,zillow
+2001-07-31,z_median_TwoBR,237954,median,2,zillow
+2001-08-31,z_median_TwoBR,240302,median,2,zillow
+2001-09-30,z_median_TwoBR,242649,median,2,zillow
+2001-10-31,z_median_TwoBR,245150,median,2,zillow
+2001-11-30,z_median_TwoBR,247173,median,2,zillow
+2001-12-31,z_median_TwoBR,248172,median,2,zillow
+2002-01-31,z_median_TwoBR,250389,median,2,zillow
+2002-02-28,z_median_TwoBR,252318,median,2,zillow
+2002-03-31,z_median_TwoBR,254179,median,2,zillow
+2002-04-30,z_median_TwoBR,257196,median,2,zillow
+2002-05-31,z_median_TwoBR,259763,median,2,zillow
+2002-06-30,z_median_TwoBR,264430,median,2,zillow
+2002-07-31,z_median_TwoBR,267560,median,2,zillow
+2002-08-31,z_median_TwoBR,271575,median,2,zillow
+2002-09-30,z_median_TwoBR,275984,median,2,zillow
+2002-10-31,z_median_TwoBR,280310,median,2,zillow
+2002-11-30,z_median_TwoBR,285353,median,2,zillow
+2002-12-31,z_median_TwoBR,288887,median,2,zillow
+2003-01-31,z_median_TwoBR,293617,median,2,zillow
+2003-02-28,z_median_TwoBR,298005,median,2,zillow
+2003-03-31,z_median_TwoBR,301891,median,2,zillow
+2003-04-30,z_median_TwoBR,304665,median,2,zillow
+2003-05-31,z_median_TwoBR,307113,median,2,zillow
+2003-06-30,z_median_TwoBR,309600,median,2,zillow
+2003-07-31,z_median_TwoBR,312029,median,2,zillow
+2003-08-31,z_median_TwoBR,315010,median,2,zillow
+2003-09-30,z_median_TwoBR,319961,median,2,zillow
+2003-10-31,z_median_TwoBR,324919,median,2,zillow
+2003-11-30,z_median_TwoBR,330804,median,2,zillow
+2003-12-31,z_median_TwoBR,336674,median,2,zillow
+2004-01-31,z_median_TwoBR,341882,median,2,zillow
+2004-02-29,z_median_TwoBR,347836,median,2,zillow
+2004-03-31,z_median_TwoBR,355381,median,2,zillow
+2004-04-30,z_median_TwoBR,362590,median,2,zillow
+2004-05-31,z_median_TwoBR,370467,median,2,zillow
+2004-06-30,z_median_TwoBR,380800,median,2,zillow
+2004-07-31,z_median_TwoBR,388273,median,2,zillow
+2004-08-31,z_median_TwoBR,395505,median,2,zillow
+2004-09-30,z_median_TwoBR,401617,median,2,zillow
+2004-10-31,z_median_TwoBR,407397,median,2,zillow
+2004-11-30,z_median_TwoBR,412662,median,2,zillow
+2004-12-31,z_median_TwoBR,418818,median,2,zillow
+2005-01-31,z_median_TwoBR,423553,median,2,zillow
+2005-02-28,z_median_TwoBR,429969,median,2,zillow
+2005-03-31,z_median_TwoBR,435483,median,2,zillow
+2005-04-30,z_median_TwoBR,441107,median,2,zillow
+2005-05-31,z_median_TwoBR,446743,median,2,zillow
+2005-06-30,z_median_TwoBR,449444,median,2,zillow
+2005-07-31,z_median_TwoBR,455847,median,2,zillow
+2005-08-31,z_median_TwoBR,461119,median,2,zillow
+2005-09-30,z_median_TwoBR,467342,median,2,zillow
+2005-10-31,z_median_TwoBR,472872,median,2,zillow
+2005-11-30,z_median_TwoBR,478414,median,2,zillow
+2005-12-31,z_median_TwoBR,481691,median,2,zillow
+2006-01-31,z_median_TwoBR,486091,median,2,zillow
+2006-02-28,z_median_TwoBR,489685,median,2,zillow
+2006-03-31,z_median_TwoBR,490876,median,2,zillow
+2006-04-30,z_median_TwoBR,492460,median,2,zillow
+2006-05-31,z_median_TwoBR,497268,median,2,zillow
+2006-06-30,z_median_TwoBR,499583,median,2,zillow
+2006-07-31,z_median_TwoBR,501354,median,2,zillow
+2006-08-31,z_median_TwoBR,501114,median,2,zillow
+2006-09-30,z_median_TwoBR,498806,median,2,zillow
+2006-10-31,z_median_TwoBR,498093,median,2,zillow
+2006-11-30,z_median_TwoBR,498165,median,2,zillow
+2006-12-31,z_median_TwoBR,494288,median,2,zillow
+2007-01-31,z_median_TwoBR,493372,median,2,zillow
+2007-02-28,z_median_TwoBR,491607,median,2,zillow
+2007-03-31,z_median_TwoBR,491684,median,2,zillow
+2007-04-30,z_median_TwoBR,490223,median,2,zillow
+2007-05-31,z_median_TwoBR,488777,median,2,zillow
+2007-06-30,z_median_TwoBR,487066,median,2,zillow
+2007-07-31,z_median_TwoBR,484375,median,2,zillow
+2007-08-31,z_median_TwoBR,481451,median,2,zillow
+2007-09-30,z_median_TwoBR,475388,median,2,zillow
+2007-10-31,z_median_TwoBR,469470,median,2,zillow
+2007-11-30,z_median_TwoBR,465068,median,2,zillow
+2007-12-31,z_median_TwoBR,459999,median,2,zillow
+2008-01-31,z_median_TwoBR,453842,median,2,zillow
+2008-02-29,z_median_TwoBR,444531,median,2,zillow
+2008-03-31,z_median_TwoBR,435825,median,2,zillow
+2008-04-30,z_median_TwoBR,427007,median,2,zillow
+2008-05-31,z_median_TwoBR,419465,median,2,zillow
+2008-06-30,z_median_TwoBR,409777,median,2,zillow
+2008-07-31,z_median_TwoBR,404710,median,2,zillow
+2008-08-31,z_median_TwoBR,398046,median,2,zillow
+2008-09-30,z_median_TwoBR,392937,median,2,zillow
+2008-10-31,z_median_TwoBR,387685,median,2,zillow
+2008-11-30,z_median_TwoBR,380489,median,2,zillow
+2008-12-31,z_median_TwoBR,371396,median,2,zillow
+2009-01-31,z_median_TwoBR,365663,median,2,zillow
+2009-02-28,z_median_TwoBR,365083,median,2,zillow
+2009-03-31,z_median_TwoBR,364523,median,2,zillow
+2009-04-30,z_median_TwoBR,360954,median,2,zillow
+2009-05-31,z_median_TwoBR,357744,median,2,zillow
+2009-06-30,z_median_TwoBR,356035,median,2,zillow
+2009-07-31,z_median_TwoBR,355812,median,2,zillow
+2009-08-31,z_median_TwoBR,355884,median,2,zillow
+2009-09-30,z_median_TwoBR,354449,median,2,zillow
+2009-10-31,z_median_TwoBR,353944,median,2,zillow
+2009-11-30,z_median_TwoBR,355805,median,2,zillow
+2009-12-31,z_median_TwoBR,359693,median,2,zillow
+2010-01-31,z_median_TwoBR,360098,median,2,zillow
+2010-02-28,z_median_TwoBR,358954,median,2,zillow
+2010-03-31,z_median_TwoBR,359383,median,2,zillow
+2010-04-30,z_median_TwoBR,359510,median,2,zillow
+2010-05-31,z_median_TwoBR,362987,median,2,zillow
+2010-06-30,z_median_TwoBR,362664,median,2,zillow
+2010-07-31,z_median_TwoBR,359712,median,2,zillow
+2010-08-31,z_median_TwoBR,354242,median,2,zillow
+2010-09-30,z_median_TwoBR,352422,median,2,zillow
+2010-10-31,z_median_TwoBR,350677,median,2,zillow
+2010-11-30,z_median_TwoBR,348165,median,2,zillow
+2010-12-31,z_median_TwoBR,345730,median,2,zillow
+2011-01-31,z_median_TwoBR,342126,median,2,zillow
+2011-02-28,z_median_TwoBR,341145,median,2,zillow
+2011-03-31,z_median_TwoBR,338172,median,2,zillow
+2011-04-30,z_median_TwoBR,335782,median,2,zillow
+2011-05-31,z_median_TwoBR,332259,median,2,zillow
+2011-06-30,z_median_TwoBR,330595,median,2,zillow
+2011-07-31,z_median_TwoBR,331037,median,2,zillow
+2011-08-31,z_median_TwoBR,326465,median,2,zillow
+2011-09-30,z_median_TwoBR,322808,median,2,zillow
+2011-10-31,z_median_TwoBR,319541,median,2,zillow
+2011-11-30,z_median_TwoBR,318495,median,2,zillow
+2011-12-31,z_median_TwoBR,316894,median,2,zillow
+2012-01-31,z_median_TwoBR,315350,median,2,zillow
+2012-02-29,z_median_TwoBR,313338,median,2,zillow
+2012-03-31,z_median_TwoBR,311376,median,2,zillow
+2012-04-30,z_median_TwoBR,313264,median,2,zillow
+2012-05-31,z_median_TwoBR,316582,median,2,zillow
+2012-06-30,z_median_TwoBR,320361,median,2,zillow
+2012-07-31,z_median_TwoBR,321409,median,2,zillow
+2012-08-31,z_median_TwoBR,321962,median,2,zillow
+2012-09-30,z_median_TwoBR,324771,median,2,zillow
+2012-10-31,z_median_TwoBR,329410,median,2,zillow
+2012-11-30,z_median_TwoBR,331501,median,2,zillow
+2012-12-31,z_median_TwoBR,338584,median,2,zillow
+2013-01-31,z_median_TwoBR,344518,median,2,zillow
+2013-02-28,z_median_TwoBR,352344,median,2,zillow
+2013-03-31,z_median_TwoBR,359074,median,2,zillow
+2013-04-30,z_median_TwoBR,368600,median,2,zillow
+2013-05-31,z_median_TwoBR,374312,median,2,zillow
+2013-06-30,z_median_TwoBR,381174,median,2,zillow
+2013-07-31,z_median_TwoBR,386529,median,2,zillow
+2013-08-31,z_median_TwoBR,394837,median,2,zillow
+2013-09-30,z_median_TwoBR,402050,median,2,zillow
+2013-10-31,z_median_TwoBR,407655,median,2,zillow
+2013-11-30,z_median_TwoBR,411273,median,2,zillow
+2013-12-31,z_median_TwoBR,412786,median,2,zillow
+2014-01-31,z_median_TwoBR,416111,median,2,zillow
+2014-02-28,z_median_TwoBR,420137,median,2,zillow
+2014-03-31,z_median_TwoBR,424408,median,2,zillow
+2014-04-30,z_median_TwoBR,427279,median,2,zillow
+2014-05-31,z_median_TwoBR,428700,median,2,zillow
+2014-06-30,z_median_TwoBR,430206,median,2,zillow
+2014-07-31,z_median_TwoBR,431674,median,2,zillow
+2014-08-31,z_median_TwoBR,432371,median,2,zillow
+2014-09-30,z_median_TwoBR,432376,median,2,zillow
+2014-10-31,z_median_TwoBR,432205,median,2,zillow
+2014-11-30,z_median_TwoBR,433886,median,2,zillow
+2014-12-31,z_median_TwoBR,437759,median,2,zillow
+2015-01-31,z_median_TwoBR,440753,median,2,zillow
+2015-02-28,z_median_TwoBR,445527,median,2,zillow
+2015-03-31,z_median_TwoBR,449954,median,2,zillow
+2015-04-30,z_median_TwoBR,449900,median,2,zillow
+2015-05-31,z_median_TwoBR,450145,median,2,zillow
+2015-06-30,z_median_TwoBR,452284,median,2,zillow
+2015-07-31,z_median_TwoBR,458879,median,2,zillow
+2015-08-31,z_median_TwoBR,463041,median,2,zillow
+2015-09-30,z_median_TwoBR,466390,median,2,zillow
+2015-10-31,z_median_TwoBR,472157,median,2,zillow
+2015-11-30,z_median_TwoBR,476000,median,2,zillow
+2015-12-31,z_median_TwoBR,479811,median,2,zillow
+2016-01-31,z_median_TwoBR,482837,median,2,zillow
+2016-02-29,z_median_TwoBR,488913,median,2,zillow
+2016-03-31,z_median_TwoBR,489697,median,2,zillow
+2016-04-30,z_median_TwoBR,491605,median,2,zillow
+2016-05-31,z_median_TwoBR,496197,median,2,zillow
+2016-06-30,z_median_TwoBR,502655,median,2,zillow
+2016-07-31,z_median_TwoBR,504956,median,2,zillow
+2016-08-31,z_median_TwoBR,508392,median,2,zillow
+2016-09-30,z_median_TwoBR,511023,median,2,zillow
+2016-10-31,z_median_TwoBR,514380,median,2,zillow
+2016-11-30,z_median_TwoBR,518002,median,2,zillow
+2016-12-31,z_median_TwoBR,520262,median,2,zillow
+2017-01-31,z_median_TwoBR,522115,median,2,zillow
+2017-02-28,z_median_TwoBR,524578,median,2,zillow
+2017-03-31,z_median_TwoBR,526948,median,2,zillow
+2017-04-30,z_median_TwoBR,529246,median,2,zillow
+2017-05-31,z_median_TwoBR,532010,median,2,zillow
+2017-06-30,z_median_TwoBR,535974,median,2,zillow
+2017-07-31,z_median_TwoBR,539127,median,2,zillow
+2017-08-31,z_median_TwoBR,543029,median,2,zillow
+2017-09-30,z_median_TwoBR,547060,median,2,zillow
+2017-10-31,z_median_TwoBR,551891,median,2,zillow
+2017-11-30,z_median_TwoBR,557194,median,2,zillow
+2017-12-31,z_median_TwoBR,566190,median,2,zillow
+2018-01-31,z_median_TwoBR,569811,median,2,zillow
+2018-02-28,z_median_TwoBR,573061,median,2,zillow
+2018-03-31,z_median_TwoBR,576498,median,2,zillow
+2018-04-30,z_median_TwoBR,579702,median,2,zillow
+2018-05-31,z_median_TwoBR,583731,median,2,zillow
+2018-06-30,z_median_TwoBR,589391,median,2,zillow
+2018-07-31,z_median_TwoBR,592672,median,2,zillow
+2018-08-31,z_median_TwoBR,594261,median,2,zillow
+2018-09-30,z_median_TwoBR,596048,median,2,zillow
+2018-10-31,z_median_TwoBR,595097,median,2,zillow
+2018-11-30,z_median_TwoBR,594450,median,2,zillow
+2018-12-31,z_median_TwoBR,593985,median,2,zillow
+2019-01-31,z_median_TwoBR,594521,median,2,zillow
+2019-02-28,z_median_TwoBR,591423,median,2,zillow
+2019-03-31,z_median_TwoBR,588910,median,2,zillow
+2019-04-30,z_median_TwoBR,587730,median,2,zillow
+2019-05-31,z_median_TwoBR,591063,median,2,zillow
+2019-06-30,z_median_TwoBR,595064,median,2,zillow
+2019-07-31,z_median_TwoBR,593814,median,2,zillow
+2019-08-31,z_median_TwoBR,592665,median,2,zillow
+2019-09-30,z_median_TwoBR,591740,median,2,zillow
+2019-10-31,z_median_TwoBR,590321,median,2,zillow
+2019-11-30,z_median_TwoBR,592884,median,2,zillow
+2019-12-31,z_median_TwoBR,593392,median,2,zillow
+2020-01-31,z_median_TwoBR,598231,median,2,zillow
+2020-02-29,z_median_TwoBR,599964,median,2,zillow
+2020-03-31,z_median_TwoBR,605225,median,2,zillow
+2020-04-30,z_median_TwoBR,606234,median,2,zillow
+2020-05-31,z_median_TwoBR,608455,median,2,zillow
+2020-06-30,z_median_TwoBR,607577,median,2,zillow
+2020-07-31,z_median_TwoBR,611471,median,2,zillow
+2020-08-31,z_median_TwoBR,616310,median,2,zillow
+2020-09-30,z_median_TwoBR,625590,median,2,zillow
+2020-10-31,z_median_TwoBR,630690,median,2,zillow
+2020-11-30,z_median_TwoBR,633221,median,2,zillow
+2020-12-31,z_median_TwoBR,639766,median,2,zillow
+1996-01-31,z_median_ThreeBR,195092,median,3,zillow
+1996-02-29,z_median_ThreeBR,194358,median,3,zillow
+1996-03-31,z_median_ThreeBR,194002,median,3,zillow
+1996-04-30,z_median_ThreeBR,193447,median,3,zillow
+1996-05-31,z_median_ThreeBR,192628,median,3,zillow
+1996-06-30,z_median_ThreeBR,192482,median,3,zillow
+1996-07-31,z_median_ThreeBR,192080,median,3,zillow
+1996-08-31,z_median_ThreeBR,191696,median,3,zillow
+1996-09-30,z_median_ThreeBR,191670,median,3,zillow
+1996-10-31,z_median_ThreeBR,192034,median,3,zillow
+1996-11-30,z_median_ThreeBR,192623,median,3,zillow
+1996-12-31,z_median_ThreeBR,193190,median,3,zillow
+1997-01-31,z_median_ThreeBR,193262,median,3,zillow
+1997-02-28,z_median_ThreeBR,193273,median,3,zillow
+1997-03-31,z_median_ThreeBR,193524,median,3,zillow
+1997-04-30,z_median_ThreeBR,194708,median,3,zillow
+1997-05-31,z_median_ThreeBR,195358,median,3,zillow
+1997-06-30,z_median_ThreeBR,196843,median,3,zillow
+1997-07-31,z_median_ThreeBR,197799,median,3,zillow
+1997-08-31,z_median_ThreeBR,198860,median,3,zillow
+1997-09-30,z_median_ThreeBR,199875,median,3,zillow
+1997-10-31,z_median_ThreeBR,200657,median,3,zillow
+1997-11-30,z_median_ThreeBR,201614,median,3,zillow
+1997-12-31,z_median_ThreeBR,203421,median,3,zillow
+1998-01-31,z_median_ThreeBR,206187,median,3,zillow
+1998-02-28,z_median_ThreeBR,208723,median,3,zillow
+1998-03-31,z_median_ThreeBR,211235,median,3,zillow
+1998-04-30,z_median_ThreeBR,212869,median,3,zillow
+1998-05-31,z_median_ThreeBR,214119,median,3,zillow
+1998-06-30,z_median_ThreeBR,215775,median,3,zillow
+1998-07-31,z_median_ThreeBR,217575,median,3,zillow
+1998-08-31,z_median_ThreeBR,220302,median,3,zillow
+1998-09-30,z_median_ThreeBR,221864,median,3,zillow
+1998-10-31,z_median_ThreeBR,224281,median,3,zillow
+1998-11-30,z_median_ThreeBR,225568,median,3,zillow
+1998-12-31,z_median_ThreeBR,227435,median,3,zillow
+1999-01-31,z_median_ThreeBR,228969,median,3,zillow
+1999-02-28,z_median_ThreeBR,229900,median,3,zillow
+1999-03-31,z_median_ThreeBR,231732,median,3,zillow
+1999-04-30,z_median_ThreeBR,233627,median,3,zillow
+1999-05-31,z_median_ThreeBR,235223,median,3,zillow
+1999-06-30,z_median_ThreeBR,237517,median,3,zillow
+1999-07-31,z_median_ThreeBR,239689,median,3,zillow
+1999-08-31,z_median_ThreeBR,242171,median,3,zillow
+1999-09-30,z_median_ThreeBR,243156,median,3,zillow
+1999-10-31,z_median_ThreeBR,244346,median,3,zillow
+1999-11-30,z_median_ThreeBR,247672,median,3,zillow
+1999-12-31,z_median_ThreeBR,248907,median,3,zillow
+2000-01-31,z_median_ThreeBR,252895,median,3,zillow
+2000-02-29,z_median_ThreeBR,255538,median,3,zillow
+2000-03-31,z_median_ThreeBR,258186,median,3,zillow
+2000-04-30,z_median_ThreeBR,261075,median,3,zillow
+2000-05-31,z_median_ThreeBR,264833,median,3,zillow
+2000-06-30,z_median_ThreeBR,267653,median,3,zillow
+2000-07-31,z_median_ThreeBR,270150,median,3,zillow
+2000-08-31,z_median_ThreeBR,273835,median,3,zillow
+2000-09-30,z_median_ThreeBR,277815,median,3,zillow
+2000-10-31,z_median_ThreeBR,280805,median,3,zillow
+2000-11-30,z_median_ThreeBR,284710,median,3,zillow
+2000-12-31,z_median_ThreeBR,287887,median,3,zillow
+2001-01-31,z_median_ThreeBR,290263,median,3,zillow
+2001-02-28,z_median_ThreeBR,293228,median,3,zillow
+2001-03-31,z_median_ThreeBR,297322,median,3,zillow
+2001-04-30,z_median_ThreeBR,300099,median,3,zillow
+2001-05-31,z_median_ThreeBR,303736,median,3,zillow
+2001-06-30,z_median_ThreeBR,306475,median,3,zillow
+2001-07-31,z_median_ThreeBR,308911,median,3,zillow
+2001-08-31,z_median_ThreeBR,312372,median,3,zillow
+2001-09-30,z_median_ThreeBR,315101,median,3,zillow
+2001-10-31,z_median_ThreeBR,317007,median,3,zillow
+2001-11-30,z_median_ThreeBR,319632,median,3,zillow
+2001-12-31,z_median_ThreeBR,323504,median,3,zillow
+2002-01-31,z_median_ThreeBR,325506,median,3,zillow
+2002-02-28,z_median_ThreeBR,326206,median,3,zillow
+2002-03-31,z_median_ThreeBR,330874,median,3,zillow
+2002-04-30,z_median_ThreeBR,333534,median,3,zillow
+2002-05-31,z_median_ThreeBR,336609,median,3,zillow
+2002-06-30,z_median_ThreeBR,342304,median,3,zillow
+2002-07-31,z_median_ThreeBR,348406,median,3,zillow
+2002-08-31,z_median_ThreeBR,354946,median,3,zillow
+2002-09-30,z_median_ThreeBR,359635,median,3,zillow
+2002-10-31,z_median_ThreeBR,363003,median,3,zillow
+2002-11-30,z_median_ThreeBR,367556,median,3,zillow
+2002-12-31,z_median_ThreeBR,373209,median,3,zillow
+2003-01-31,z_median_ThreeBR,378780,median,3,zillow
+2003-02-28,z_median_ThreeBR,384032,median,3,zillow
+2003-03-31,z_median_ThreeBR,389740,median,3,zillow
+2003-04-30,z_median_ThreeBR,393611,median,3,zillow
+2003-05-31,z_median_ThreeBR,399875,median,3,zillow
+2003-06-30,z_median_ThreeBR,401553,median,3,zillow
+2003-07-31,z_median_ThreeBR,406455,median,3,zillow
+2003-08-31,z_median_ThreeBR,410088,median,3,zillow
+2003-09-30,z_median_ThreeBR,414440,median,3,zillow
+2003-10-31,z_median_ThreeBR,420325,median,3,zillow
+2003-11-30,z_median_ThreeBR,426383,median,3,zillow
+2003-12-31,z_median_ThreeBR,432239,median,3,zillow
+2004-01-31,z_median_ThreeBR,441261,median,3,zillow
+2004-02-29,z_median_ThreeBR,449307,median,3,zillow
+2004-03-31,z_median_ThreeBR,457320,median,3,zillow
+2004-04-30,z_median_ThreeBR,466170,median,3,zillow
+2004-05-31,z_median_ThreeBR,477061,median,3,zillow
+2004-06-30,z_median_ThreeBR,486940,median,3,zillow
+2004-07-31,z_median_ThreeBR,495376,median,3,zillow
+2004-08-31,z_median_ThreeBR,504860,median,3,zillow
+2004-09-30,z_median_ThreeBR,513065,median,3,zillow
+2004-10-31,z_median_ThreeBR,521255,median,3,zillow
+2004-11-30,z_median_ThreeBR,529724,median,3,zillow
+2004-12-31,z_median_ThreeBR,536483,median,3,zillow
+2005-01-31,z_median_ThreeBR,544856,median,3,zillow
+2005-02-28,z_median_ThreeBR,553023,median,3,zillow
+2005-03-31,z_median_ThreeBR,559799,median,3,zillow
+2005-04-30,z_median_ThreeBR,567877,median,3,zillow
+2005-05-31,z_median_ThreeBR,572632,median,3,zillow
+2005-06-30,z_median_ThreeBR,579208,median,3,zillow
+2005-07-31,z_median_ThreeBR,586475,median,3,zillow
+2005-08-31,z_median_ThreeBR,591566,median,3,zillow
+2005-09-30,z_median_ThreeBR,596585,median,3,zillow
+2005-10-31,z_median_ThreeBR,603651,median,3,zillow
+2005-11-30,z_median_ThreeBR,609379,median,3,zillow
+2005-12-31,z_median_ThreeBR,615075,median,3,zillow
+2006-01-31,z_median_ThreeBR,620016,median,3,zillow
+2006-02-28,z_median_ThreeBR,623702,median,3,zillow
+2006-03-31,z_median_ThreeBR,629638,median,3,zillow
+2006-04-30,z_median_ThreeBR,633320,median,3,zillow
+2006-05-31,z_median_ThreeBR,634354,median,3,zillow
+2006-06-30,z_median_ThreeBR,633958,median,3,zillow
+2006-07-31,z_median_ThreeBR,631940,median,3,zillow
+2006-08-31,z_median_ThreeBR,631561,median,3,zillow
+2006-09-30,z_median_ThreeBR,626808,median,3,zillow
+2006-10-31,z_median_ThreeBR,624061,median,3,zillow
+2006-11-30,z_median_ThreeBR,622630,median,3,zillow
+2006-12-31,z_median_ThreeBR,620476,median,3,zillow
+2007-01-31,z_median_ThreeBR,618435,median,3,zillow
+2007-02-28,z_median_ThreeBR,614976,median,3,zillow
+2007-03-31,z_median_ThreeBR,611529,median,3,zillow
+2007-04-30,z_median_ThreeBR,608047,median,3,zillow
+2007-05-31,z_median_ThreeBR,605450,median,3,zillow
+2007-06-30,z_median_ThreeBR,603224,median,3,zillow
+2007-07-31,z_median_ThreeBR,598846,median,3,zillow
+2007-08-31,z_median_ThreeBR,594982,median,3,zillow
+2007-09-30,z_median_ThreeBR,589256,median,3,zillow
+2007-10-31,z_median_ThreeBR,582808,median,3,zillow
+2007-11-30,z_median_ThreeBR,577204,median,3,zillow
+2007-12-31,z_median_ThreeBR,570489,median,3,zillow
+2008-01-31,z_median_ThreeBR,560660,median,3,zillow
+2008-02-29,z_median_ThreeBR,550887,median,3,zillow
+2008-03-31,z_median_ThreeBR,540288,median,3,zillow
+2008-04-30,z_median_ThreeBR,529040,median,3,zillow
+2008-05-31,z_median_ThreeBR,518782,median,3,zillow
+2008-06-30,z_median_ThreeBR,512428,median,3,zillow
+2008-07-31,z_median_ThreeBR,504122,median,3,zillow
+2008-08-31,z_median_ThreeBR,494928,median,3,zillow
+2008-09-30,z_median_ThreeBR,490660,median,3,zillow
+2008-10-31,z_median_ThreeBR,485802,median,3,zillow
+2008-11-30,z_median_ThreeBR,479674,median,3,zillow
+2008-12-31,z_median_ThreeBR,469886,median,3,zillow
+2009-01-31,z_median_ThreeBR,467044,median,3,zillow
+2009-02-28,z_median_ThreeBR,462793,median,3,zillow
+2009-03-31,z_median_ThreeBR,462147,median,3,zillow
+2009-04-30,z_median_ThreeBR,460561,median,3,zillow
+2009-05-31,z_median_ThreeBR,459987,median,3,zillow
+2009-06-30,z_median_ThreeBR,457474,median,3,zillow
+2009-07-31,z_median_ThreeBR,461998,median,3,zillow
+2009-08-31,z_median_ThreeBR,461632,median,3,zillow
+2009-09-30,z_median_ThreeBR,463370,median,3,zillow
+2009-10-31,z_median_ThreeBR,465036,median,3,zillow
+2009-11-30,z_median_ThreeBR,470129,median,3,zillow
+2009-12-31,z_median_ThreeBR,473032,median,3,zillow
+2010-01-31,z_median_ThreeBR,474876,median,3,zillow
+2010-02-28,z_median_ThreeBR,476143,median,3,zillow
+2010-03-31,z_median_ThreeBR,481436,median,3,zillow
+2010-04-30,z_median_ThreeBR,483630,median,3,zillow
+2010-05-31,z_median_ThreeBR,487503,median,3,zillow
+2010-06-30,z_median_ThreeBR,483042,median,3,zillow
+2010-07-31,z_median_ThreeBR,479791,median,3,zillow
+2010-08-31,z_median_ThreeBR,477814,median,3,zillow
+2010-09-30,z_median_ThreeBR,477591,median,3,zillow
+2010-10-31,z_median_ThreeBR,476893,median,3,zillow
+2010-11-30,z_median_ThreeBR,472792,median,3,zillow
+2010-12-31,z_median_ThreeBR,467633,median,3,zillow
+2011-01-31,z_median_ThreeBR,464665,median,3,zillow
+2011-02-28,z_median_ThreeBR,462866,median,3,zillow
+2011-03-31,z_median_ThreeBR,459527,median,3,zillow
+2011-04-30,z_median_ThreeBR,451787,median,3,zillow
+2011-05-31,z_median_ThreeBR,444971,median,3,zillow
+2011-06-30,z_median_ThreeBR,443120,median,3,zillow
+2011-07-31,z_median_ThreeBR,440056,median,3,zillow
+2011-08-31,z_median_ThreeBR,439858,median,3,zillow
+2011-09-30,z_median_ThreeBR,437601,median,3,zillow
+2011-10-31,z_median_ThreeBR,436124,median,3,zillow
+2011-11-30,z_median_ThreeBR,436792,median,3,zillow
+2011-12-31,z_median_ThreeBR,435588,median,3,zillow
+2012-01-31,z_median_ThreeBR,432826,median,3,zillow
+2012-02-29,z_median_ThreeBR,430595,median,3,zillow
+2012-03-31,z_median_ThreeBR,430247,median,3,zillow
+2012-04-30,z_median_ThreeBR,431903,median,3,zillow
+2012-05-31,z_median_ThreeBR,436907,median,3,zillow
+2012-06-30,z_median_ThreeBR,440016,median,3,zillow
+2012-07-31,z_median_ThreeBR,442892,median,3,zillow
+2012-08-31,z_median_ThreeBR,447156,median,3,zillow
+2012-09-30,z_median_ThreeBR,448485,median,3,zillow
+2012-10-31,z_median_ThreeBR,451505,median,3,zillow
+2012-11-30,z_median_ThreeBR,457488,median,3,zillow
+2012-12-31,z_median_ThreeBR,466057,median,3,zillow
+2013-01-31,z_median_ThreeBR,473171,median,3,zillow
+2013-02-28,z_median_ThreeBR,482298,median,3,zillow
+2013-03-31,z_median_ThreeBR,491675,median,3,zillow
+2013-04-30,z_median_ThreeBR,504751,median,3,zillow
+2013-05-31,z_median_ThreeBR,515070,median,3,zillow
+2013-06-30,z_median_ThreeBR,522682,median,3,zillow
+2013-07-31,z_median_ThreeBR,531325,median,3,zillow
+2013-08-31,z_median_ThreeBR,540455,median,3,zillow
+2013-09-30,z_median_ThreeBR,548529,median,3,zillow
+2013-10-31,z_median_ThreeBR,552649,median,3,zillow
+2013-11-30,z_median_ThreeBR,555319,median,3,zillow
+2013-12-31,z_median_ThreeBR,558560,median,3,zillow
+2014-01-31,z_median_ThreeBR,562635,median,3,zillow
+2014-02-28,z_median_ThreeBR,567870,median,3,zillow
+2014-03-31,z_median_ThreeBR,574379,median,3,zillow
+2014-04-30,z_median_ThreeBR,577643,median,3,zillow
+2014-05-31,z_median_ThreeBR,576509,median,3,zillow
+2014-06-30,z_median_ThreeBR,573621,median,3,zillow
+2014-07-31,z_median_ThreeBR,573432,median,3,zillow
+2014-08-31,z_median_ThreeBR,576126,median,3,zillow
+2014-09-30,z_median_ThreeBR,580750,median,3,zillow
+2014-10-31,z_median_ThreeBR,583472,median,3,zillow
+2014-11-30,z_median_ThreeBR,585929,median,3,zillow
+2014-12-31,z_median_ThreeBR,589095,median,3,zillow
+2015-01-31,z_median_ThreeBR,591029,median,3,zillow
+2015-02-28,z_median_ThreeBR,595450,median,3,zillow
+2015-03-31,z_median_ThreeBR,599955,median,3,zillow
+2015-04-30,z_median_ThreeBR,605583,median,3,zillow
+2015-05-31,z_median_ThreeBR,611694,median,3,zillow
+2015-06-30,z_median_ThreeBR,617685,median,3,zillow
+2015-07-31,z_median_ThreeBR,621066,median,3,zillow
+2015-08-31,z_median_ThreeBR,622729,median,3,zillow
+2015-09-30,z_median_ThreeBR,629276,median,3,zillow
+2015-10-31,z_median_ThreeBR,633373,median,3,zillow
+2015-11-30,z_median_ThreeBR,635841,median,3,zillow
+2015-12-31,z_median_ThreeBR,640426,median,3,zillow
+2016-01-31,z_median_ThreeBR,642279,median,3,zillow
+2016-02-29,z_median_ThreeBR,648107,median,3,zillow
+2016-03-31,z_median_ThreeBR,648328,median,3,zillow
+2016-04-30,z_median_ThreeBR,654216,median,3,zillow
+2016-05-31,z_median_ThreeBR,658663,median,3,zillow
+2016-06-30,z_median_ThreeBR,660103,median,3,zillow
+2016-07-31,z_median_ThreeBR,662418,median,3,zillow
+2016-08-31,z_median_ThreeBR,667477,median,3,zillow
+2016-09-30,z_median_ThreeBR,669117,median,3,zillow
+2016-10-31,z_median_ThreeBR,671022,median,3,zillow
+2016-11-30,z_median_ThreeBR,673225,median,3,zillow
+2016-12-31,z_median_ThreeBR,675870,median,3,zillow
+2017-01-31,z_median_ThreeBR,679595,median,3,zillow
+2017-02-28,z_median_ThreeBR,684741,median,3,zillow
+2017-03-31,z_median_ThreeBR,689543,median,3,zillow
+2017-04-30,z_median_ThreeBR,693910,median,3,zillow
+2017-05-31,z_median_ThreeBR,697982,median,3,zillow
+2017-06-30,z_median_ThreeBR,700696,median,3,zillow
+2017-07-31,z_median_ThreeBR,707037,median,3,zillow
+2017-08-31,z_median_ThreeBR,713905,median,3,zillow
+2017-09-30,z_median_ThreeBR,722596,median,3,zillow
+2017-10-31,z_median_ThreeBR,725035,median,3,zillow
+2017-11-30,z_median_ThreeBR,730306,median,3,zillow
+2017-12-31,z_median_ThreeBR,735348,median,3,zillow
+2018-01-31,z_median_ThreeBR,740833,median,3,zillow
+2018-02-28,z_median_ThreeBR,748280,median,3,zillow
+2018-03-31,z_median_ThreeBR,751988,median,3,zillow
+2018-04-30,z_median_ThreeBR,756799,median,3,zillow
+2018-05-31,z_median_ThreeBR,759976,median,3,zillow
+2018-06-30,z_median_ThreeBR,762496,median,3,zillow
+2018-07-31,z_median_ThreeBR,766998,median,3,zillow
+2018-08-31,z_median_ThreeBR,767853,median,3,zillow
+2018-09-30,z_median_ThreeBR,767163,median,3,zillow
+2018-10-31,z_median_ThreeBR,766733,median,3,zillow
+2018-11-30,z_median_ThreeBR,767658,median,3,zillow
+2018-12-31,z_median_ThreeBR,769101,median,3,zillow
+2019-01-31,z_median_ThreeBR,767517,median,3,zillow
+2019-02-28,z_median_ThreeBR,763796,median,3,zillow
+2019-03-31,z_median_ThreeBR,761488,median,3,zillow
+2019-04-30,z_median_ThreeBR,763312,median,3,zillow
+2019-05-31,z_median_ThreeBR,765294,median,3,zillow
+2019-06-30,z_median_ThreeBR,768046,median,3,zillow
+2019-07-31,z_median_ThreeBR,770612,median,3,zillow
+2019-08-31,z_median_ThreeBR,769852,median,3,zillow
+2019-09-30,z_median_ThreeBR,769724,median,3,zillow
+2019-10-31,z_median_ThreeBR,772994,median,3,zillow
+2019-11-30,z_median_ThreeBR,772172,median,3,zillow
+2019-12-31,z_median_ThreeBR,773444,median,3,zillow
+2020-01-31,z_median_ThreeBR,781630,median,3,zillow
+2020-02-29,z_median_ThreeBR,786198,median,3,zillow
+2020-03-31,z_median_ThreeBR,790711,median,3,zillow
+2020-04-30,z_median_ThreeBR,793343,median,3,zillow
+2020-05-31,z_median_ThreeBR,793308,median,3,zillow
+2020-06-30,z_median_ThreeBR,793699,median,3,zillow
+2020-07-31,z_median_ThreeBR,794265,median,3,zillow
+2020-08-31,z_median_ThreeBR,802427,median,3,zillow
+2020-09-30,z_median_ThreeBR,812492,median,3,zillow
+2020-10-31,z_median_ThreeBR,819124,median,3,zillow
+2020-11-30,z_median_ThreeBR,828453,median,3,zillow
+2020-12-31,z_median_ThreeBR,834104,median,3,zillow
+1996-01-31,z_median_FourBR,237768,median,4,zillow
+1996-02-29,z_median_FourBR,236915,median,4,zillow
+1996-03-31,z_median_FourBR,236543,median,4,zillow
+1996-04-30,z_median_FourBR,236667,median,4,zillow
+1996-05-31,z_median_FourBR,237128,median,4,zillow
+1996-06-30,z_median_FourBR,238026,median,4,zillow
+1996-07-31,z_median_FourBR,237657,median,4,zillow
+1996-08-31,z_median_FourBR,237156,median,4,zillow
+1996-09-30,z_median_FourBR,237340,median,4,zillow
+1996-10-31,z_median_FourBR,238194,median,4,zillow
+1996-11-30,z_median_FourBR,237932,median,4,zillow
+1996-12-31,z_median_FourBR,237634,median,4,zillow
+1997-01-31,z_median_FourBR,237415,median,4,zillow
+1997-02-28,z_median_FourBR,237372,median,4,zillow
+1997-03-31,z_median_FourBR,238661,median,4,zillow
+1997-04-30,z_median_FourBR,239982,median,4,zillow
+1997-05-31,z_median_FourBR,241562,median,4,zillow
+1997-06-30,z_median_FourBR,243193,median,4,zillow
+1997-07-31,z_median_FourBR,244689,median,4,zillow
+1997-08-31,z_median_FourBR,246602,median,4,zillow
+1997-09-30,z_median_FourBR,247259,median,4,zillow
+1997-10-31,z_median_FourBR,248958,median,4,zillow
+1997-11-30,z_median_FourBR,249792,median,4,zillow
+1997-12-31,z_median_FourBR,251278,median,4,zillow
+1998-01-31,z_median_FourBR,253761,median,4,zillow
+1998-02-28,z_median_FourBR,257177,median,4,zillow
+1998-03-31,z_median_FourBR,260044,median,4,zillow
+1998-04-30,z_median_FourBR,262763,median,4,zillow
+1998-05-31,z_median_FourBR,264463,median,4,zillow
+1998-06-30,z_median_FourBR,269476,median,4,zillow
+1998-07-31,z_median_FourBR,272027,median,4,zillow
+1998-08-31,z_median_FourBR,273083,median,4,zillow
+1998-09-30,z_median_FourBR,275800,median,4,zillow
+1998-10-31,z_median_FourBR,278223,median,4,zillow
+1998-11-30,z_median_FourBR,281918,median,4,zillow
+1998-12-31,z_median_FourBR,284098,median,4,zillow
+1999-01-31,z_median_FourBR,286380,median,4,zillow
+1999-02-28,z_median_FourBR,288588,median,4,zillow
+1999-03-31,z_median_FourBR,291339,median,4,zillow
+1999-04-30,z_median_FourBR,293941,median,4,zillow
+1999-05-31,z_median_FourBR,295757,median,4,zillow
+1999-06-30,z_median_FourBR,297263,median,4,zillow
+1999-07-31,z_median_FourBR,300201,median,4,zillow
+1999-08-31,z_median_FourBR,301570,median,4,zillow
+1999-09-30,z_median_FourBR,303762,median,4,zillow
+1999-10-31,z_median_FourBR,305668,median,4,zillow
+1999-11-30,z_median_FourBR,308465,median,4,zillow
+1999-12-31,z_median_FourBR,313157,median,4,zillow
+2000-01-31,z_median_FourBR,316528,median,4,zillow
+2000-02-29,z_median_FourBR,319630,median,4,zillow
+2000-03-31,z_median_FourBR,323613,median,4,zillow
+2000-04-30,z_median_FourBR,327443,median,4,zillow
+2000-05-31,z_median_FourBR,329462,median,4,zillow
+2000-06-30,z_median_FourBR,333584,median,4,zillow
+2000-07-31,z_median_FourBR,337485,median,4,zillow
+2000-08-31,z_median_FourBR,340652,median,4,zillow
+2000-09-30,z_median_FourBR,345482,median,4,zillow
+2000-10-31,z_median_FourBR,349273,median,4,zillow
+2000-11-30,z_median_FourBR,352295,median,4,zillow
+2000-12-31,z_median_FourBR,356403,median,4,zillow
+2001-01-31,z_median_FourBR,360985,median,4,zillow
+2001-02-28,z_median_FourBR,366483,median,4,zillow
+2001-03-31,z_median_FourBR,372341,median,4,zillow
+2001-04-30,z_median_FourBR,376634,median,4,zillow
+2001-05-31,z_median_FourBR,380895,median,4,zillow
+2001-06-30,z_median_FourBR,384739,median,4,zillow
+2001-07-31,z_median_FourBR,387408,median,4,zillow
+2001-08-31,z_median_FourBR,390077,median,4,zillow
+2001-09-30,z_median_FourBR,392375,median,4,zillow
+2001-10-31,z_median_FourBR,394514,median,4,zillow
+2001-11-30,z_median_FourBR,396147,median,4,zillow
+2001-12-31,z_median_FourBR,399605,median,4,zillow
+2002-01-31,z_median_FourBR,402935,median,4,zillow
+2002-02-28,z_median_FourBR,404374,median,4,zillow
+2002-03-31,z_median_FourBR,407053,median,4,zillow
+2002-04-30,z_median_FourBR,409407,median,4,zillow
+2002-05-31,z_median_FourBR,411546,median,4,zillow
+2002-06-30,z_median_FourBR,416016,median,4,zillow
+2002-07-31,z_median_FourBR,423240,median,4,zillow
+2002-08-31,z_median_FourBR,429765,median,4,zillow
+2002-09-30,z_median_FourBR,434134,median,4,zillow
+2002-10-31,z_median_FourBR,438982,median,4,zillow
+2002-11-30,z_median_FourBR,444654,median,4,zillow
+2002-12-31,z_median_FourBR,448781,median,4,zillow
+2003-01-31,z_median_FourBR,454124,median,4,zillow
+2003-02-28,z_median_FourBR,459614,median,4,zillow
+2003-03-31,z_median_FourBR,465219,median,4,zillow
+2003-04-30,z_median_FourBR,469413,median,4,zillow
+2003-05-31,z_median_FourBR,475014,median,4,zillow
+2003-06-30,z_median_FourBR,479446,median,4,zillow
+2003-07-31,z_median_FourBR,483943,median,4,zillow
+2003-08-31,z_median_FourBR,486133,median,4,zillow
+2003-09-30,z_median_FourBR,493256,median,4,zillow
+2003-10-31,z_median_FourBR,500312,median,4,zillow
+2003-11-30,z_median_FourBR,507391,median,4,zillow
+2003-12-31,z_median_FourBR,515027,median,4,zillow
+2004-01-31,z_median_FourBR,521807,median,4,zillow
+2004-02-29,z_median_FourBR,528265,median,4,zillow
+2004-03-31,z_median_FourBR,537380,median,4,zillow
+2004-04-30,z_median_FourBR,546015,median,4,zillow
+2004-05-31,z_median_FourBR,555669,median,4,zillow
+2004-06-30,z_median_FourBR,566073,median,4,zillow
+2004-07-31,z_median_FourBR,577211,median,4,zillow
+2004-08-31,z_median_FourBR,587217,median,4,zillow
+2004-09-30,z_median_FourBR,598998,median,4,zillow
+2004-10-31,z_median_FourBR,609399,median,4,zillow
+2004-11-30,z_median_FourBR,615932,median,4,zillow
+2004-12-31,z_median_FourBR,623875,median,4,zillow
+2005-01-31,z_median_FourBR,635131,median,4,zillow
+2005-02-28,z_median_FourBR,643889,median,4,zillow
+2005-03-31,z_median_FourBR,647527,median,4,zillow
+2005-04-30,z_median_FourBR,658920,median,4,zillow
+2005-05-31,z_median_FourBR,667891,median,4,zillow
+2005-06-30,z_median_FourBR,672659,median,4,zillow
+2005-07-31,z_median_FourBR,679091,median,4,zillow
+2005-08-31,z_median_FourBR,688506,median,4,zillow
+2005-09-30,z_median_FourBR,699145,median,4,zillow
+2005-10-31,z_median_FourBR,711042,median,4,zillow
+2005-11-30,z_median_FourBR,719071,median,4,zillow
+2005-12-31,z_median_FourBR,723756,median,4,zillow
+2006-01-31,z_median_FourBR,730861,median,4,zillow
+2006-02-28,z_median_FourBR,731233,median,4,zillow
+2006-03-31,z_median_FourBR,735585,median,4,zillow
+2006-04-30,z_median_FourBR,737378,median,4,zillow
+2006-05-31,z_median_FourBR,742381,median,4,zillow
+2006-06-30,z_median_FourBR,743209,median,4,zillow
+2006-07-31,z_median_FourBR,739706,median,4,zillow
+2006-08-31,z_median_FourBR,743058,median,4,zillow
+2006-09-30,z_median_FourBR,737376,median,4,zillow
+2006-10-31,z_median_FourBR,732385,median,4,zillow
+2006-11-30,z_median_FourBR,730601,median,4,zillow
+2006-12-31,z_median_FourBR,727533,median,4,zillow
+2007-01-31,z_median_FourBR,727501,median,4,zillow
+2007-02-28,z_median_FourBR,725217,median,4,zillow
+2007-03-31,z_median_FourBR,719860,median,4,zillow
+2007-04-30,z_median_FourBR,718417,median,4,zillow
+2007-05-31,z_median_FourBR,715902,median,4,zillow
+2007-06-30,z_median_FourBR,711095,median,4,zillow
+2007-07-31,z_median_FourBR,707668,median,4,zillow
+2007-08-31,z_median_FourBR,702601,median,4,zillow
+2007-09-30,z_median_FourBR,698550,median,4,zillow
+2007-10-31,z_median_FourBR,691686,median,4,zillow
+2007-11-30,z_median_FourBR,686436,median,4,zillow
+2007-12-31,z_median_FourBR,681400,median,4,zillow
+2008-01-31,z_median_FourBR,677540,median,4,zillow
+2008-02-29,z_median_FourBR,666581,median,4,zillow
+2008-03-31,z_median_FourBR,653252,median,4,zillow
+2008-04-30,z_median_FourBR,640361,median,4,zillow
+2008-05-31,z_median_FourBR,631301,median,4,zillow
+2008-06-30,z_median_FourBR,620567,median,4,zillow
+2008-07-31,z_median_FourBR,610058,median,4,zillow
+2008-08-31,z_median_FourBR,601456,median,4,zillow
+2008-09-30,z_median_FourBR,592789,median,4,zillow
+2008-10-31,z_median_FourBR,584599,median,4,zillow
+2008-11-30,z_median_FourBR,579046,median,4,zillow
+2008-12-31,z_median_FourBR,571475,median,4,zillow
+2009-01-31,z_median_FourBR,566387,median,4,zillow
+2009-02-28,z_median_FourBR,569550,median,4,zillow
+2009-03-31,z_median_FourBR,563812,median,4,zillow
+2009-04-30,z_median_FourBR,560147,median,4,zillow
+2009-05-31,z_median_FourBR,557395,median,4,zillow
+2009-06-30,z_median_FourBR,555282,median,4,zillow
+2009-07-31,z_median_FourBR,554016,median,4,zillow
+2009-08-31,z_median_FourBR,558518,median,4,zillow
+2009-09-30,z_median_FourBR,555898,median,4,zillow
+2009-10-31,z_median_FourBR,556139,median,4,zillow
+2009-11-30,z_median_FourBR,560803,median,4,zillow
+2009-12-31,z_median_FourBR,568483,median,4,zillow
+2010-01-31,z_median_FourBR,572872,median,4,zillow
+2010-02-28,z_median_FourBR,572339,median,4,zillow
+2010-03-31,z_median_FourBR,570179,median,4,zillow
+2010-04-30,z_median_FourBR,571947,median,4,zillow
+2010-05-31,z_median_FourBR,575319,median,4,zillow
+2010-06-30,z_median_FourBR,572281,median,4,zillow
+2010-07-31,z_median_FourBR,571441,median,4,zillow
+2010-08-31,z_median_FourBR,567920,median,4,zillow
+2010-09-30,z_median_FourBR,568792,median,4,zillow
+2010-10-31,z_median_FourBR,566682,median,4,zillow
+2010-11-30,z_median_FourBR,564407,median,4,zillow
+2010-12-31,z_median_FourBR,558619,median,4,zillow
+2011-01-31,z_median_FourBR,556960,median,4,zillow
+2011-02-28,z_median_FourBR,552028,median,4,zillow
+2011-03-31,z_median_FourBR,549633,median,4,zillow
+2011-04-30,z_median_FourBR,546909,median,4,zillow
+2011-05-31,z_median_FourBR,548284,median,4,zillow
+2011-06-30,z_median_FourBR,544175,median,4,zillow
+2011-07-31,z_median_FourBR,541426,median,4,zillow
+2011-08-31,z_median_FourBR,539894,median,4,zillow
+2011-09-30,z_median_FourBR,535280,median,4,zillow
+2011-10-31,z_median_FourBR,532477,median,4,zillow
+2011-11-30,z_median_FourBR,533173,median,4,zillow
+2011-12-31,z_median_FourBR,533926,median,4,zillow
+2012-01-31,z_median_FourBR,533919,median,4,zillow
+2012-02-29,z_median_FourBR,535549,median,4,zillow
+2012-03-31,z_median_FourBR,535761,median,4,zillow
+2012-04-30,z_median_FourBR,536664,median,4,zillow
+2012-05-31,z_median_FourBR,539410,median,4,zillow
+2012-06-30,z_median_FourBR,541639,median,4,zillow
+2012-07-31,z_median_FourBR,547363,median,4,zillow
+2012-08-31,z_median_FourBR,548027,median,4,zillow
+2012-09-30,z_median_FourBR,551108,median,4,zillow
+2012-10-31,z_median_FourBR,557810,median,4,zillow
+2012-11-30,z_median_FourBR,565413,median,4,zillow
+2012-12-31,z_median_FourBR,574736,median,4,zillow
+2013-01-31,z_median_FourBR,583027,median,4,zillow
+2013-02-28,z_median_FourBR,592001,median,4,zillow
+2013-03-31,z_median_FourBR,603772,median,4,zillow
+2013-04-30,z_median_FourBR,614131,median,4,zillow
+2013-05-31,z_median_FourBR,624665,median,4,zillow
+2013-06-30,z_median_FourBR,634049,median,4,zillow
+2013-07-31,z_median_FourBR,644083,median,4,zillow
+2013-08-31,z_median_FourBR,655925,median,4,zillow
+2013-09-30,z_median_FourBR,661701,median,4,zillow
+2013-10-31,z_median_FourBR,667260,median,4,zillow
+2013-11-30,z_median_FourBR,672058,median,4,zillow
+2013-12-31,z_median_FourBR,677526,median,4,zillow
+2014-01-31,z_median_FourBR,683584,median,4,zillow
+2014-02-28,z_median_FourBR,689418,median,4,zillow
+2014-03-31,z_median_FourBR,691915,median,4,zillow
+2014-04-30,z_median_FourBR,692979,median,4,zillow
+2014-05-31,z_median_FourBR,694260,median,4,zillow
+2014-06-30,z_median_FourBR,696569,median,4,zillow
+2014-07-31,z_median_FourBR,697823,median,4,zillow
+2014-08-31,z_median_FourBR,696572,median,4,zillow
+2014-09-30,z_median_FourBR,698655,median,4,zillow
+2014-10-31,z_median_FourBR,704763,median,4,zillow
+2014-11-30,z_median_FourBR,707800,median,4,zillow
+2014-12-31,z_median_FourBR,711740,median,4,zillow
+2015-01-31,z_median_FourBR,717130,median,4,zillow
+2015-02-28,z_median_FourBR,722117,median,4,zillow
+2015-03-31,z_median_FourBR,726694,median,4,zillow
+2015-04-30,z_median_FourBR,727208,median,4,zillow
+2015-05-31,z_median_FourBR,731970,median,4,zillow
+2015-06-30,z_median_FourBR,737685,median,4,zillow
+2015-07-31,z_median_FourBR,738272,median,4,zillow
+2015-08-31,z_median_FourBR,742952,median,4,zillow
+2015-09-30,z_median_FourBR,750245,median,4,zillow
+2015-10-31,z_median_FourBR,755377,median,4,zillow
+2015-11-30,z_median_FourBR,760252,median,4,zillow
+2015-12-31,z_median_FourBR,766723,median,4,zillow
+2016-01-31,z_median_FourBR,772152,median,4,zillow
+2016-02-29,z_median_FourBR,781530,median,4,zillow
+2016-03-31,z_median_FourBR,785195,median,4,zillow
+2016-04-30,z_median_FourBR,786551,median,4,zillow
+2016-05-31,z_median_FourBR,792115,median,4,zillow
+2016-06-30,z_median_FourBR,794049,median,4,zillow
+2016-07-31,z_median_FourBR,794486,median,4,zillow
+2016-08-31,z_median_FourBR,800350,median,4,zillow
+2016-09-30,z_median_FourBR,801186,median,4,zillow
+2016-10-31,z_median_FourBR,803482,median,4,zillow
+2016-11-30,z_median_FourBR,806278,median,4,zillow
+2016-12-31,z_median_FourBR,809159,median,4,zillow
+2017-01-31,z_median_FourBR,814319,median,4,zillow
+2017-02-28,z_median_FourBR,816571,median,4,zillow
+2017-03-31,z_median_FourBR,821794,median,4,zillow
+2017-04-30,z_median_FourBR,823754,median,4,zillow
+2017-05-31,z_median_FourBR,826791,median,4,zillow
+2017-06-30,z_median_FourBR,832863,median,4,zillow
+2017-07-31,z_median_FourBR,843803,median,4,zillow
+2017-08-31,z_median_FourBR,847962,median,4,zillow
+2017-09-30,z_median_FourBR,853021,median,4,zillow
+2017-10-31,z_median_FourBR,858149,median,4,zillow
+2017-11-30,z_median_FourBR,873803,median,4,zillow
+2017-12-31,z_median_FourBR,879235,median,4,zillow
+2018-01-31,z_median_FourBR,884526,median,4,zillow
+2018-02-28,z_median_FourBR,899937,median,4,zillow
+2018-03-31,z_median_FourBR,907902,median,4,zillow
+2018-04-30,z_median_FourBR,915019,median,4,zillow
+2018-05-31,z_median_FourBR,917637,median,4,zillow
+2018-06-30,z_median_FourBR,919539,median,4,zillow
+2018-07-31,z_median_FourBR,922773,median,4,zillow
+2018-08-31,z_median_FourBR,923388,median,4,zillow
+2018-09-30,z_median_FourBR,921010,median,4,zillow
+2018-10-31,z_median_FourBR,922588,median,4,zillow
+2018-11-30,z_median_FourBR,919897,median,4,zillow
+2018-12-31,z_median_FourBR,918658,median,4,zillow
+2019-01-31,z_median_FourBR,915595,median,4,zillow
+2019-02-28,z_median_FourBR,909100,median,4,zillow
+2019-03-31,z_median_FourBR,909837,median,4,zillow
+2019-04-30,z_median_FourBR,915408,median,4,zillow
+2019-05-31,z_median_FourBR,919350,median,4,zillow
+2019-06-30,z_median_FourBR,927710,median,4,zillow
+2019-07-31,z_median_FourBR,935120,median,4,zillow
+2019-08-31,z_median_FourBR,929586,median,4,zillow
+2019-09-30,z_median_FourBR,929043,median,4,zillow
+2019-10-31,z_median_FourBR,927592,median,4,zillow
+2019-11-30,z_median_FourBR,925127,median,4,zillow
+2019-12-31,z_median_FourBR,930354,median,4,zillow
+2020-01-31,z_median_FourBR,940559,median,4,zillow
+2020-02-29,z_median_FourBR,944875,median,4,zillow
+2020-03-31,z_median_FourBR,950107,median,4,zillow
+2020-04-30,z_median_FourBR,953107,median,4,zillow
+2020-05-31,z_median_FourBR,956060,median,4,zillow
+2020-06-30,z_median_FourBR,958388,median,4,zillow
+2020-07-31,z_median_FourBR,964944,median,4,zillow
+2020-08-31,z_median_FourBR,972791,median,4,zillow
+2020-09-30,z_median_FourBR,984515,median,4,zillow
+2020-10-31,z_median_FourBR,998445,median,4,zillow
+2020-11-30,z_median_FourBR,1005517,median,4,zillow
+2020-12-31,z_median_FourBR,1013955,median,4,zillow
+1996-01-31,z_mean_OneBR,140433,mean,1,zillow
+1996-02-29,z_mean_OneBR,140193,mean,1,zillow
+1996-03-31,z_mean_OneBR,140060,mean,1,zillow
+1996-04-30,z_mean_OneBR,139764,mean,1,zillow
+1996-05-31,z_mean_OneBR,139552,mean,1,zillow
+1996-06-30,z_mean_OneBR,139377,mean,1,zillow
+1996-07-31,z_mean_OneBR,139232,mean,1,zillow
+1996-08-31,z_mean_OneBR,139150,mean,1,zillow
+1996-09-30,z_mean_OneBR,139056,mean,1,zillow
+1996-10-31,z_mean_OneBR,139059,mean,1,zillow
+1996-11-30,z_mean_OneBR,139103,mean,1,zillow
+1996-12-31,z_mean_OneBR,139271,mean,1,zillow
+1997-01-31,z_mean_OneBR,139460,mean,1,zillow
+1997-02-28,z_mean_OneBR,139736,mean,1,zillow
+1997-03-31,z_mean_OneBR,140022,mean,1,zillow
+1997-04-30,z_mean_OneBR,140411,mean,1,zillow
+1997-05-31,z_mean_OneBR,140895,mean,1,zillow
+1997-06-30,z_mean_OneBR,141384,mean,1,zillow
+1997-07-31,z_mean_OneBR,142060,mean,1,zillow
+1997-08-31,z_mean_OneBR,142790,mean,1,zillow
+1997-09-30,z_mean_OneBR,143705,mean,1,zillow
+1997-10-31,z_mean_OneBR,144584,mean,1,zillow
+1997-11-30,z_mean_OneBR,145521,mean,1,zillow
+1997-12-31,z_mean_OneBR,146507,mean,1,zillow
+1998-01-31,z_mean_OneBR,147482,mean,1,zillow
+1998-02-28,z_mean_OneBR,148538,mean,1,zillow
+1998-03-31,z_mean_OneBR,149554,mean,1,zillow
+1998-04-30,z_mean_OneBR,150612,mean,1,zillow
+1998-05-31,z_mean_OneBR,151582,mean,1,zillow
+1998-06-30,z_mean_OneBR,152687,mean,1,zillow
+1998-07-31,z_mean_OneBR,153683,mean,1,zillow
+1998-08-31,z_mean_OneBR,154784,mean,1,zillow
+1998-09-30,z_mean_OneBR,155936,mean,1,zillow
+1998-10-31,z_mean_OneBR,157112,mean,1,zillow
+1998-11-30,z_mean_OneBR,158286,mean,1,zillow
+1998-12-31,z_mean_OneBR,159220,mean,1,zillow
+1999-01-31,z_mean_OneBR,160335,mean,1,zillow
+1999-02-28,z_mean_OneBR,161526,mean,1,zillow
+1999-03-31,z_mean_OneBR,162842,mean,1,zillow
+1999-04-30,z_mean_OneBR,164130,mean,1,zillow
+1999-05-31,z_mean_OneBR,165448,mean,1,zillow
+1999-06-30,z_mean_OneBR,166912,mean,1,zillow
+1999-07-31,z_mean_OneBR,168401,mean,1,zillow
+1999-08-31,z_mean_OneBR,169698,mean,1,zillow
+1999-09-30,z_mean_OneBR,170839,mean,1,zillow
+1999-10-31,z_mean_OneBR,172235,mean,1,zillow
+1999-11-30,z_mean_OneBR,173862,mean,1,zillow
+1999-12-31,z_mean_OneBR,175797,mean,1,zillow
+2000-01-31,z_mean_OneBR,177839,mean,1,zillow
+2000-02-29,z_mean_OneBR,179810,mean,1,zillow
+2000-03-31,z_mean_OneBR,181774,mean,1,zillow
+2000-04-30,z_mean_OneBR,183739,mean,1,zillow
+2000-05-31,z_mean_OneBR,185962,mean,1,zillow
+2000-06-30,z_mean_OneBR,188439,mean,1,zillow
+2000-07-31,z_mean_OneBR,191016,mean,1,zillow
+2000-08-31,z_mean_OneBR,193744,mean,1,zillow
+2000-09-30,z_mean_OneBR,196536,mean,1,zillow
+2000-10-31,z_mean_OneBR,199298,mean,1,zillow
+2000-11-30,z_mean_OneBR,202182,mean,1,zillow
+2000-12-31,z_mean_OneBR,205130,mean,1,zillow
+2001-01-31,z_mean_OneBR,207993,mean,1,zillow
+2001-02-28,z_mean_OneBR,210777,mean,1,zillow
+2001-03-31,z_mean_OneBR,213478,mean,1,zillow
+2001-04-30,z_mean_OneBR,216061,mean,1,zillow
+2001-05-31,z_mean_OneBR,218195,mean,1,zillow
+2001-06-30,z_mean_OneBR,219763,mean,1,zillow
+2001-07-31,z_mean_OneBR,221022,mean,1,zillow
+2001-08-31,z_mean_OneBR,222366,mean,1,zillow
+2001-09-30,z_mean_OneBR,223748,mean,1,zillow
+2001-10-31,z_mean_OneBR,225081,mean,1,zillow
+2001-11-30,z_mean_OneBR,225974,mean,1,zillow
+2001-12-31,z_mean_OneBR,226717,mean,1,zillow
+2002-01-31,z_mean_OneBR,227422,mean,1,zillow
+2002-02-28,z_mean_OneBR,228505,mean,1,zillow
+2002-03-31,z_mean_OneBR,229883,mean,1,zillow
+2002-04-30,z_mean_OneBR,231705,mean,1,zillow
+2002-05-31,z_mean_OneBR,233851,mean,1,zillow
+2002-06-30,z_mean_OneBR,236441,mean,1,zillow
+2002-07-31,z_mean_OneBR,239401,mean,1,zillow
+2002-08-31,z_mean_OneBR,242367,mean,1,zillow
+2002-09-30,z_mean_OneBR,245148,mean,1,zillow
+2002-10-31,z_mean_OneBR,247901,mean,1,zillow
+2002-11-30,z_mean_OneBR,250992,mean,1,zillow
+2002-12-31,z_mean_OneBR,254081,mean,1,zillow
+2003-01-31,z_mean_OneBR,256915,mean,1,zillow
+2003-02-28,z_mean_OneBR,259471,mean,1,zillow
+2003-03-31,z_mean_OneBR,262059,mean,1,zillow
+2003-04-30,z_mean_OneBR,264490,mean,1,zillow
+2003-05-31,z_mean_OneBR,266750,mean,1,zillow
+2003-06-30,z_mean_OneBR,268816,mean,1,zillow
+2003-07-31,z_mean_OneBR,271348,mean,1,zillow
+2003-08-31,z_mean_OneBR,274205,mean,1,zillow
+2003-09-30,z_mean_OneBR,277440,mean,1,zillow
+2003-10-31,z_mean_OneBR,280539,mean,1,zillow
+2003-11-30,z_mean_OneBR,284118,mean,1,zillow
+2003-12-31,z_mean_OneBR,287973,mean,1,zillow
+2004-01-31,z_mean_OneBR,292768,mean,1,zillow
+2004-02-29,z_mean_OneBR,297625,mean,1,zillow
+2004-03-31,z_mean_OneBR,302554,mean,1,zillow
+2004-04-30,z_mean_OneBR,307638,mean,1,zillow
+2004-05-31,z_mean_OneBR,313252,mean,1,zillow
+2004-06-30,z_mean_OneBR,319176,mean,1,zillow
+2004-07-31,z_mean_OneBR,324706,mean,1,zillow
+2004-08-31,z_mean_OneBR,329881,mean,1,zillow
+2004-09-30,z_mean_OneBR,335337,mean,1,zillow
+2004-10-31,z_mean_OneBR,340878,mean,1,zillow
+2004-11-30,z_mean_OneBR,346035,mean,1,zillow
+2004-12-31,z_mean_OneBR,351105,mean,1,zillow
+2005-01-31,z_mean_OneBR,355657,mean,1,zillow
+2005-02-28,z_mean_OneBR,360766,mean,1,zillow
+2005-03-31,z_mean_OneBR,365769,mean,1,zillow
+2005-04-30,z_mean_OneBR,370999,mean,1,zillow
+2005-05-31,z_mean_OneBR,375813,mean,1,zillow
+2005-06-30,z_mean_OneBR,380541,mean,1,zillow
+2005-07-31,z_mean_OneBR,385346,mean,1,zillow
+2005-08-31,z_mean_OneBR,390216,mean,1,zillow
+2005-09-30,z_mean_OneBR,394908,mean,1,zillow
+2005-10-31,z_mean_OneBR,399577,mean,1,zillow
+2005-11-30,z_mean_OneBR,403236,mean,1,zillow
+2005-12-31,z_mean_OneBR,406459,mean,1,zillow
+2006-01-31,z_mean_OneBR,409072,mean,1,zillow
+2006-02-28,z_mean_OneBR,411129,mean,1,zillow
+2006-03-31,z_mean_OneBR,413059,mean,1,zillow
+2006-04-30,z_mean_OneBR,414252,mean,1,zillow
+2006-05-31,z_mean_OneBR,415692,mean,1,zillow
+2006-06-30,z_mean_OneBR,416367,mean,1,zillow
+2006-07-31,z_mean_OneBR,416633,mean,1,zillow
+2006-08-31,z_mean_OneBR,416251,mean,1,zillow
+2006-09-30,z_mean_OneBR,415078,mean,1,zillow
+2006-10-31,z_mean_OneBR,413873,mean,1,zillow
+2006-11-30,z_mean_OneBR,412891,mean,1,zillow
+2006-12-31,z_mean_OneBR,412113,mean,1,zillow
+2007-01-31,z_mean_OneBR,411016,mean,1,zillow
+2007-02-28,z_mean_OneBR,409970,mean,1,zillow
+2007-03-31,z_mean_OneBR,408961,mean,1,zillow
+2007-04-30,z_mean_OneBR,408274,mean,1,zillow
+2007-05-31,z_mean_OneBR,406899,mean,1,zillow
+2007-06-30,z_mean_OneBR,405101,mean,1,zillow
+2007-07-31,z_mean_OneBR,402661,mean,1,zillow
+2007-08-31,z_mean_OneBR,400054,mean,1,zillow
+2007-09-30,z_mean_OneBR,397014,mean,1,zillow
+2007-10-31,z_mean_OneBR,393478,mean,1,zillow
+2007-11-30,z_mean_OneBR,390068,mean,1,zillow
+2007-12-31,z_mean_OneBR,386137,mean,1,zillow
+2008-01-31,z_mean_OneBR,382340,mean,1,zillow
+2008-02-29,z_mean_OneBR,377480,mean,1,zillow
+2008-03-31,z_mean_OneBR,372064,mean,1,zillow
+2008-04-30,z_mean_OneBR,366407,mean,1,zillow
+2008-05-31,z_mean_OneBR,360614,mean,1,zillow
+2008-06-30,z_mean_OneBR,355623,mean,1,zillow
+2008-07-31,z_mean_OneBR,350441,mean,1,zillow
+2008-08-31,z_mean_OneBR,345889,mean,1,zillow
+2008-09-30,z_mean_OneBR,341834,mean,1,zillow
+2008-10-31,z_mean_OneBR,337834,mean,1,zillow
+2008-11-30,z_mean_OneBR,333186,mean,1,zillow
+2008-12-31,z_mean_OneBR,328196,mean,1,zillow
+2009-01-31,z_mean_OneBR,324226,mean,1,zillow
+2009-02-28,z_mean_OneBR,321464,mean,1,zillow
+2009-03-31,z_mean_OneBR,318753,mean,1,zillow
+2009-04-30,z_mean_OneBR,315561,mean,1,zillow
+2009-05-31,z_mean_OneBR,312820,mean,1,zillow
+2009-06-30,z_mean_OneBR,310959,mean,1,zillow
+2009-07-31,z_mean_OneBR,310178,mean,1,zillow
+2009-08-31,z_mean_OneBR,309398,mean,1,zillow
+2009-09-30,z_mean_OneBR,308624,mean,1,zillow
+2009-10-31,z_mean_OneBR,308219,mean,1,zillow
+2009-11-30,z_mean_OneBR,309031,mean,1,zillow
+2009-12-31,z_mean_OneBR,310400,mean,1,zillow
+2010-01-31,z_mean_OneBR,310949,mean,1,zillow
+2010-02-28,z_mean_OneBR,310429,mean,1,zillow
+2010-03-31,z_mean_OneBR,310468,mean,1,zillow
+2010-04-30,z_mean_OneBR,310753,mean,1,zillow
+2010-05-31,z_mean_OneBR,311337,mean,1,zillow
+2010-06-30,z_mean_OneBR,309838,mean,1,zillow
+2010-07-31,z_mean_OneBR,307604,mean,1,zillow
+2010-08-31,z_mean_OneBR,305269,mean,1,zillow
+2010-09-30,z_mean_OneBR,303283,mean,1,zillow
+2010-10-31,z_mean_OneBR,301407,mean,1,zillow
+2010-11-30,z_mean_OneBR,298421,mean,1,zillow
+2010-12-31,z_mean_OneBR,295901,mean,1,zillow
+2011-01-31,z_mean_OneBR,293610,mean,1,zillow
+2011-02-28,z_mean_OneBR,292036,mean,1,zillow
+2011-03-31,z_mean_OneBR,289865,mean,1,zillow
+2011-04-30,z_mean_OneBR,287713,mean,1,zillow
+2011-05-31,z_mean_OneBR,284750,mean,1,zillow
+2011-06-30,z_mean_OneBR,283004,mean,1,zillow
+2011-07-31,z_mean_OneBR,281635,mean,1,zillow
+2011-08-31,z_mean_OneBR,280575,mean,1,zillow
+2011-09-30,z_mean_OneBR,279547,mean,1,zillow
+2011-10-31,z_mean_OneBR,278247,mean,1,zillow
+2011-11-30,z_mean_OneBR,277857,mean,1,zillow
+2011-12-31,z_mean_OneBR,276863,mean,1,zillow
+2012-01-31,z_mean_OneBR,276062,mean,1,zillow
+2012-02-29,z_mean_OneBR,275419,mean,1,zillow
+2012-03-31,z_mean_OneBR,275494,mean,1,zillow
+2012-04-30,z_mean_OneBR,276190,mean,1,zillow
+2012-05-31,z_mean_OneBR,277785,mean,1,zillow
+2012-06-30,z_mean_OneBR,279799,mean,1,zillow
+2012-07-31,z_mean_OneBR,282370,mean,1,zillow
+2012-08-31,z_mean_OneBR,284818,mean,1,zillow
+2012-09-30,z_mean_OneBR,287221,mean,1,zillow
+2012-10-31,z_mean_OneBR,290168,mean,1,zillow
+2012-11-30,z_mean_OneBR,293331,mean,1,zillow
+2012-12-31,z_mean_OneBR,297572,mean,1,zillow
+2013-01-31,z_mean_OneBR,301995,mean,1,zillow
+2013-02-28,z_mean_OneBR,306751,mean,1,zillow
+2013-03-31,z_mean_OneBR,311970,mean,1,zillow
+2013-04-30,z_mean_OneBR,317650,mean,1,zillow
+2013-05-31,z_mean_OneBR,323353,mean,1,zillow
+2013-06-30,z_mean_OneBR,328832,mean,1,zillow
+2013-07-31,z_mean_OneBR,333777,mean,1,zillow
+2013-08-31,z_mean_OneBR,339232,mean,1,zillow
+2013-09-30,z_mean_OneBR,344272,mean,1,zillow
+2013-10-31,z_mean_OneBR,348780,mean,1,zillow
+2013-11-30,z_mean_OneBR,352411,mean,1,zillow
+2013-12-31,z_mean_OneBR,355654,mean,1,zillow
+2014-01-31,z_mean_OneBR,359165,mean,1,zillow
+2014-02-28,z_mean_OneBR,362442,mean,1,zillow
+2014-03-31,z_mean_OneBR,364695,mean,1,zillow
+2014-04-30,z_mean_OneBR,366326,mean,1,zillow
+2014-05-31,z_mean_OneBR,367581,mean,1,zillow
+2014-06-30,z_mean_OneBR,369191,mean,1,zillow
+2014-07-31,z_mean_OneBR,371563,mean,1,zillow
+2014-08-31,z_mean_OneBR,372834,mean,1,zillow
+2014-09-30,z_mean_OneBR,374565,mean,1,zillow
+2014-10-31,z_mean_OneBR,376231,mean,1,zillow
+2014-11-30,z_mean_OneBR,379668,mean,1,zillow
+2014-12-31,z_mean_OneBR,382552,mean,1,zillow
+2015-01-31,z_mean_OneBR,384971,mean,1,zillow
+2015-02-28,z_mean_OneBR,387371,mean,1,zillow
+2015-03-31,z_mean_OneBR,391013,mean,1,zillow
+2015-04-30,z_mean_OneBR,394157,mean,1,zillow
+2015-05-31,z_mean_OneBR,397900,mean,1,zillow
+2015-06-30,z_mean_OneBR,400859,mean,1,zillow
+2015-07-31,z_mean_OneBR,403954,mean,1,zillow
+2015-08-31,z_mean_OneBR,407137,mean,1,zillow
+2015-09-30,z_mean_OneBR,410507,mean,1,zillow
+2015-10-31,z_mean_OneBR,414022,mean,1,zillow
+2015-11-30,z_mean_OneBR,416734,mean,1,zillow
+2015-12-31,z_mean_OneBR,420297,mean,1,zillow
+2016-01-31,z_mean_OneBR,423923,mean,1,zillow
+2016-02-29,z_mean_OneBR,427316,mean,1,zillow
+2016-03-31,z_mean_OneBR,429366,mean,1,zillow
+2016-04-30,z_mean_OneBR,432209,mean,1,zillow
+2016-05-31,z_mean_OneBR,434171,mean,1,zillow
+2016-06-30,z_mean_OneBR,436601,mean,1,zillow
+2016-07-31,z_mean_OneBR,437960,mean,1,zillow
+2016-08-31,z_mean_OneBR,440534,mean,1,zillow
+2016-09-30,z_mean_OneBR,443075,mean,1,zillow
+2016-10-31,z_mean_OneBR,446409,mean,1,zillow
+2016-11-30,z_mean_OneBR,448924,mean,1,zillow
+2016-12-31,z_mean_OneBR,451202,mean,1,zillow
+2017-01-31,z_mean_OneBR,453397,mean,1,zillow
+2017-02-28,z_mean_OneBR,455633,mean,1,zillow
+2017-03-31,z_mean_OneBR,457962,mean,1,zillow
+2017-04-30,z_mean_OneBR,460307,mean,1,zillow
+2017-05-31,z_mean_OneBR,463721,mean,1,zillow
+2017-06-30,z_mean_OneBR,467207,mean,1,zillow
+2017-07-31,z_mean_OneBR,470705,mean,1,zillow
+2017-08-31,z_mean_OneBR,474042,mean,1,zillow
+2017-09-30,z_mean_OneBR,478114,mean,1,zillow
+2017-10-31,z_mean_OneBR,482338,mean,1,zillow
+2017-11-30,z_mean_OneBR,487633,mean,1,zillow
+2017-12-31,z_mean_OneBR,493060,mean,1,zillow
+2018-01-31,z_mean_OneBR,498585,mean,1,zillow
+2018-02-28,z_mean_OneBR,503908,mean,1,zillow
+2018-03-31,z_mean_OneBR,509347,mean,1,zillow
+2018-04-30,z_mean_OneBR,514085,mean,1,zillow
+2018-05-31,z_mean_OneBR,518680,mean,1,zillow
+2018-06-30,z_mean_OneBR,523191,mean,1,zillow
+2018-07-31,z_mean_OneBR,527164,mean,1,zillow
+2018-08-31,z_mean_OneBR,529406,mean,1,zillow
+2018-09-30,z_mean_OneBR,529946,mean,1,zillow
+2018-10-31,z_mean_OneBR,530002,mean,1,zillow
+2018-11-30,z_mean_OneBR,529789,mean,1,zillow
+2018-12-31,z_mean_OneBR,528334,mean,1,zillow
+2019-01-31,z_mean_OneBR,526444,mean,1,zillow
+2019-02-28,z_mean_OneBR,524050,mean,1,zillow
+2019-03-31,z_mean_OneBR,522325,mean,1,zillow
+2019-04-30,z_mean_OneBR,522400,mean,1,zillow
+2019-05-31,z_mean_OneBR,524502,mean,1,zillow
+2019-06-30,z_mean_OneBR,526777,mean,1,zillow
+2019-07-31,z_mean_OneBR,527453,mean,1,zillow
+2019-08-31,z_mean_OneBR,526831,mean,1,zillow
+2019-09-30,z_mean_OneBR,527060,mean,1,zillow
+2019-10-31,z_mean_OneBR,527805,mean,1,zillow
+2019-11-30,z_mean_OneBR,528815,mean,1,zillow
+2019-12-31,z_mean_OneBR,530937,mean,1,zillow
+2020-01-31,z_mean_OneBR,534182,mean,1,zillow
+2020-02-29,z_mean_OneBR,537770,mean,1,zillow
+2020-03-31,z_mean_OneBR,540637,mean,1,zillow
+2020-04-30,z_mean_OneBR,542601,mean,1,zillow
+2020-05-31,z_mean_OneBR,543004,mean,1,zillow
+2020-06-30,z_mean_OneBR,543363,mean,1,zillow
+2020-07-31,z_mean_OneBR,545331,mean,1,zillow
+2020-08-31,z_mean_OneBR,549243,mean,1,zillow
+2020-09-30,z_mean_OneBR,553292,mean,1,zillow
+2020-10-31,z_mean_OneBR,557232,mean,1,zillow
+2020-11-30,z_mean_OneBR,560959,mean,1,zillow
+2020-12-31,z_mean_OneBR,564478,mean,1,zillow
+1996-01-31,z_mean_TwoBR,166677,mean,2,zillow
+1996-02-29,z_mean_TwoBR,166405,mean,2,zillow
+1996-03-31,z_mean_TwoBR,166230,mean,2,zillow
+1996-04-30,z_mean_TwoBR,165878,mean,2,zillow
+1996-05-31,z_mean_TwoBR,165625,mean,2,zillow
+1996-06-30,z_mean_TwoBR,165435,mean,2,zillow
+1996-07-31,z_mean_TwoBR,165292,mean,2,zillow
+1996-08-31,z_mean_TwoBR,165260,mean,2,zillow
+1996-09-30,z_mean_TwoBR,165281,mean,2,zillow
+1996-10-31,z_mean_TwoBR,165473,mean,2,zillow
+1996-11-30,z_mean_TwoBR,165728,mean,2,zillow
+1996-12-31,z_mean_TwoBR,166118,mean,2,zillow
+1997-01-31,z_mean_TwoBR,166406,mean,2,zillow
+1997-02-28,z_mean_TwoBR,166779,mean,2,zillow
+1997-03-31,z_mean_TwoBR,167216,mean,2,zillow
+1997-04-30,z_mean_TwoBR,167893,mean,2,zillow
+1997-05-31,z_mean_TwoBR,168698,mean,2,zillow
+1997-06-30,z_mean_TwoBR,169590,mean,2,zillow
+1997-07-31,z_mean_TwoBR,170678,mean,2,zillow
+1997-08-31,z_mean_TwoBR,171822,mean,2,zillow
+1997-09-30,z_mean_TwoBR,173038,mean,2,zillow
+1997-10-31,z_mean_TwoBR,174177,mean,2,zillow
+1997-11-30,z_mean_TwoBR,175429,mean,2,zillow
+1997-12-31,z_mean_TwoBR,176833,mean,2,zillow
+1998-01-31,z_mean_TwoBR,178480,mean,2,zillow
+1998-02-28,z_mean_TwoBR,180289,mean,2,zillow
+1998-03-31,z_mean_TwoBR,182060,mean,2,zillow
+1998-04-30,z_mean_TwoBR,183742,mean,2,zillow
+1998-05-31,z_mean_TwoBR,185331,mean,2,zillow
+1998-06-30,z_mean_TwoBR,186893,mean,2,zillow
+1998-07-31,z_mean_TwoBR,188339,mean,2,zillow
+1998-08-31,z_mean_TwoBR,189893,mean,2,zillow
+1998-09-30,z_mean_TwoBR,191672,mean,2,zillow
+1998-10-31,z_mean_TwoBR,193454,mean,2,zillow
+1998-11-30,z_mean_TwoBR,195116,mean,2,zillow
+1998-12-31,z_mean_TwoBR,196455,mean,2,zillow
+1999-01-31,z_mean_TwoBR,197945,mean,2,zillow
+1999-02-28,z_mean_TwoBR,199476,mean,2,zillow
+1999-03-31,z_mean_TwoBR,201092,mean,2,zillow
+1999-04-30,z_mean_TwoBR,202593,mean,2,zillow
+1999-05-31,z_mean_TwoBR,204162,mean,2,zillow
+1999-06-30,z_mean_TwoBR,206063,mean,2,zillow
+1999-07-31,z_mean_TwoBR,208134,mean,2,zillow
+1999-08-31,z_mean_TwoBR,209959,mean,2,zillow
+1999-09-30,z_mean_TwoBR,211566,mean,2,zillow
+1999-10-31,z_mean_TwoBR,213450,mean,2,zillow
+1999-11-30,z_mean_TwoBR,215736,mean,2,zillow
+1999-12-31,z_mean_TwoBR,218275,mean,2,zillow
+2000-01-31,z_mean_TwoBR,220934,mean,2,zillow
+2000-02-29,z_mean_TwoBR,223521,mean,2,zillow
+2000-03-31,z_mean_TwoBR,226252,mean,2,zillow
+2000-04-30,z_mean_TwoBR,229093,mean,2,zillow
+2000-05-31,z_mean_TwoBR,232241,mean,2,zillow
+2000-06-30,z_mean_TwoBR,235559,mean,2,zillow
+2000-07-31,z_mean_TwoBR,238872,mean,2,zillow
+2000-08-31,z_mean_TwoBR,242339,mean,2,zillow
+2000-09-30,z_mean_TwoBR,245907,mean,2,zillow
+2000-10-31,z_mean_TwoBR,249535,mean,2,zillow
+2000-11-30,z_mean_TwoBR,253336,mean,2,zillow
+2000-12-31,z_mean_TwoBR,257295,mean,2,zillow
+2001-01-31,z_mean_TwoBR,260960,mean,2,zillow
+2001-02-28,z_mean_TwoBR,264457,mean,2,zillow
+2001-03-31,z_mean_TwoBR,267679,mean,2,zillow
+2001-04-30,z_mean_TwoBR,270806,mean,2,zillow
+2001-05-31,z_mean_TwoBR,273279,mean,2,zillow
+2001-06-30,z_mean_TwoBR,275182,mean,2,zillow
+2001-07-31,z_mean_TwoBR,276669,mean,2,zillow
+2001-08-31,z_mean_TwoBR,278268,mean,2,zillow
+2001-09-30,z_mean_TwoBR,279825,mean,2,zillow
+2001-10-31,z_mean_TwoBR,281338,mean,2,zillow
+2001-11-30,z_mean_TwoBR,282365,mean,2,zillow
+2001-12-31,z_mean_TwoBR,283253,mean,2,zillow
+2002-01-31,z_mean_TwoBR,284208,mean,2,zillow
+2002-02-28,z_mean_TwoBR,285639,mean,2,zillow
+2002-03-31,z_mean_TwoBR,287479,mean,2,zillow
+2002-04-30,z_mean_TwoBR,289881,mean,2,zillow
+2002-05-31,z_mean_TwoBR,292716,mean,2,zillow
+2002-06-30,z_mean_TwoBR,296131,mean,2,zillow
+2002-07-31,z_mean_TwoBR,300022,mean,2,zillow
+2002-08-31,z_mean_TwoBR,304032,mean,2,zillow
+2002-09-30,z_mean_TwoBR,307795,mean,2,zillow
+2002-10-31,z_mean_TwoBR,311493,mean,2,zillow
+2002-11-30,z_mean_TwoBR,315430,mean,2,zillow
+2002-12-31,z_mean_TwoBR,319426,mean,2,zillow
+2003-01-31,z_mean_TwoBR,323129,mean,2,zillow
+2003-02-28,z_mean_TwoBR,326609,mean,2,zillow
+2003-03-31,z_mean_TwoBR,330077,mean,2,zillow
+2003-04-30,z_mean_TwoBR,333260,mean,2,zillow
+2003-05-31,z_mean_TwoBR,336173,mean,2,zillow
+2003-06-30,z_mean_TwoBR,338692,mean,2,zillow
+2003-07-31,z_mean_TwoBR,341873,mean,2,zillow
+2003-08-31,z_mean_TwoBR,345513,mean,2,zillow
+2003-09-30,z_mean_TwoBR,349746,mean,2,zillow
+2003-10-31,z_mean_TwoBR,353731,mean,2,zillow
+2003-11-30,z_mean_TwoBR,358334,mean,2,zillow
+2003-12-31,z_mean_TwoBR,363054,mean,2,zillow
+2004-01-31,z_mean_TwoBR,368950,mean,2,zillow
+2004-02-29,z_mean_TwoBR,374866,mean,2,zillow
+2004-03-31,z_mean_TwoBR,381079,mean,2,zillow
+2004-04-30,z_mean_TwoBR,387584,mean,2,zillow
+2004-05-31,z_mean_TwoBR,395078,mean,2,zillow
+2004-06-30,z_mean_TwoBR,403074,mean,2,zillow
+2004-07-31,z_mean_TwoBR,410482,mean,2,zillow
+2004-08-31,z_mean_TwoBR,417155,mean,2,zillow
+2004-09-30,z_mean_TwoBR,424102,mean,2,zillow
+2004-10-31,z_mean_TwoBR,431252,mean,2,zillow
+2004-11-30,z_mean_TwoBR,437973,mean,2,zillow
+2004-12-31,z_mean_TwoBR,444676,mean,2,zillow
+2005-01-31,z_mean_TwoBR,450632,mean,2,zillow
+2005-02-28,z_mean_TwoBR,457325,mean,2,zillow
+2005-03-31,z_mean_TwoBR,463779,mean,2,zillow
+2005-04-30,z_mean_TwoBR,470492,mean,2,zillow
+2005-05-31,z_mean_TwoBR,476334,mean,2,zillow
+2005-06-30,z_mean_TwoBR,481965,mean,2,zillow
+2005-07-31,z_mean_TwoBR,487878,mean,2,zillow
+2005-08-31,z_mean_TwoBR,493980,mean,2,zillow
+2005-09-30,z_mean_TwoBR,500071,mean,2,zillow
+2005-10-31,z_mean_TwoBR,506041,mean,2,zillow
+2005-11-30,z_mean_TwoBR,510690,mean,2,zillow
+2005-12-31,z_mean_TwoBR,514623,mean,2,zillow
+2006-01-31,z_mean_TwoBR,517773,mean,2,zillow
+2006-02-28,z_mean_TwoBR,520168,mean,2,zillow
+2006-03-31,z_mean_TwoBR,522434,mean,2,zillow
+2006-04-30,z_mean_TwoBR,523787,mean,2,zillow
+2006-05-31,z_mean_TwoBR,525647,mean,2,zillow
+2006-06-30,z_mean_TwoBR,526510,mean,2,zillow
+2006-07-31,z_mean_TwoBR,526557,mean,2,zillow
+2006-08-31,z_mean_TwoBR,525891,mean,2,zillow
+2006-09-30,z_mean_TwoBR,524093,mean,2,zillow
+2006-10-31,z_mean_TwoBR,522308,mean,2,zillow
+2006-11-30,z_mean_TwoBR,520767,mean,2,zillow
+2006-12-31,z_mean_TwoBR,519895,mean,2,zillow
+2007-01-31,z_mean_TwoBR,518778,mean,2,zillow
+2007-02-28,z_mean_TwoBR,517700,mean,2,zillow
+2007-03-31,z_mean_TwoBR,516445,mean,2,zillow
+2007-04-30,z_mean_TwoBR,515652,mean,2,zillow
+2007-05-31,z_mean_TwoBR,513933,mean,2,zillow
+2007-06-30,z_mean_TwoBR,511828,mean,2,zillow
+2007-07-31,z_mean_TwoBR,508957,mean,2,zillow
+2007-08-31,z_mean_TwoBR,505874,mean,2,zillow
+2007-09-30,z_mean_TwoBR,502052,mean,2,zillow
+2007-10-31,z_mean_TwoBR,497544,mean,2,zillow
+2007-11-30,z_mean_TwoBR,493225,mean,2,zillow
+2007-12-31,z_mean_TwoBR,487951,mean,2,zillow
+2008-01-31,z_mean_TwoBR,482686,mean,2,zillow
+2008-02-29,z_mean_TwoBR,475834,mean,2,zillow
+2008-03-31,z_mean_TwoBR,468292,mean,2,zillow
+2008-04-30,z_mean_TwoBR,460356,mean,2,zillow
+2008-05-31,z_mean_TwoBR,452144,mean,2,zillow
+2008-06-30,z_mean_TwoBR,445101,mean,2,zillow
+2008-07-31,z_mean_TwoBR,437924,mean,2,zillow
+2008-08-31,z_mean_TwoBR,431672,mean,2,zillow
+2008-09-30,z_mean_TwoBR,426085,mean,2,zillow
+2008-10-31,z_mean_TwoBR,420509,mean,2,zillow
+2008-11-30,z_mean_TwoBR,413913,mean,2,zillow
+2008-12-31,z_mean_TwoBR,406977,mean,2,zillow
+2009-01-31,z_mean_TwoBR,401600,mean,2,zillow
+2009-02-28,z_mean_TwoBR,398440,mean,2,zillow
+2009-03-31,z_mean_TwoBR,395347,mean,2,zillow
+2009-04-30,z_mean_TwoBR,391434,mean,2,zillow
+2009-05-31,z_mean_TwoBR,388084,mean,2,zillow
+2009-06-30,z_mean_TwoBR,385808,mean,2,zillow
+2009-07-31,z_mean_TwoBR,385192,mean,2,zillow
+2009-08-31,z_mean_TwoBR,384470,mean,2,zillow
+2009-09-30,z_mean_TwoBR,384063,mean,2,zillow
+2009-10-31,z_mean_TwoBR,384402,mean,2,zillow
+2009-11-30,z_mean_TwoBR,386428,mean,2,zillow
+2009-12-31,z_mean_TwoBR,389094,mean,2,zillow
+2010-01-31,z_mean_TwoBR,390316,mean,2,zillow
+2010-02-28,z_mean_TwoBR,389859,mean,2,zillow
+2010-03-31,z_mean_TwoBR,390390,mean,2,zillow
+2010-04-30,z_mean_TwoBR,391582,mean,2,zillow
+2010-05-31,z_mean_TwoBR,393401,mean,2,zillow
+2010-06-30,z_mean_TwoBR,392114,mean,2,zillow
+2010-07-31,z_mean_TwoBR,389629,mean,2,zillow
+2010-08-31,z_mean_TwoBR,387028,mean,2,zillow
+2010-09-30,z_mean_TwoBR,384787,mean,2,zillow
+2010-10-31,z_mean_TwoBR,382381,mean,2,zillow
+2010-11-30,z_mean_TwoBR,378699,mean,2,zillow
+2010-12-31,z_mean_TwoBR,375646,mean,2,zillow
+2011-01-31,z_mean_TwoBR,373235,mean,2,zillow
+2011-02-28,z_mean_TwoBR,371355,mean,2,zillow
+2011-03-31,z_mean_TwoBR,368716,mean,2,zillow
+2011-04-30,z_mean_TwoBR,366030,mean,2,zillow
+2011-05-31,z_mean_TwoBR,362110,mean,2,zillow
+2011-06-30,z_mean_TwoBR,360079,mean,2,zillow
+2011-07-31,z_mean_TwoBR,358454,mean,2,zillow
+2011-08-31,z_mean_TwoBR,357172,mean,2,zillow
+2011-09-30,z_mean_TwoBR,355531,mean,2,zillow
+2011-10-31,z_mean_TwoBR,353628,mean,2,zillow
+2011-11-30,z_mean_TwoBR,352996,mean,2,zillow
+2011-12-31,z_mean_TwoBR,351777,mean,2,zillow
+2012-01-31,z_mean_TwoBR,350817,mean,2,zillow
+2012-02-29,z_mean_TwoBR,350303,mean,2,zillow
+2012-03-31,z_mean_TwoBR,350648,mean,2,zillow
+2012-04-30,z_mean_TwoBR,351790,mean,2,zillow
+2012-05-31,z_mean_TwoBR,354174,mean,2,zillow
+2012-06-30,z_mean_TwoBR,357117,mean,2,zillow
+2012-07-31,z_mean_TwoBR,360726,mean,2,zillow
+2012-08-31,z_mean_TwoBR,364180,mean,2,zillow
+2012-09-30,z_mean_TwoBR,368031,mean,2,zillow
+2012-10-31,z_mean_TwoBR,372813,mean,2,zillow
+2012-11-30,z_mean_TwoBR,377747,mean,2,zillow
+2012-12-31,z_mean_TwoBR,383920,mean,2,zillow
+2013-01-31,z_mean_TwoBR,390174,mean,2,zillow
+2013-02-28,z_mean_TwoBR,397061,mean,2,zillow
+2013-03-31,z_mean_TwoBR,404578,mean,2,zillow
+2013-04-30,z_mean_TwoBR,412668,mean,2,zillow
+2013-05-31,z_mean_TwoBR,420843,mean,2,zillow
+2013-06-30,z_mean_TwoBR,428636,mean,2,zillow
+2013-07-31,z_mean_TwoBR,435878,mean,2,zillow
+2013-08-31,z_mean_TwoBR,443560,mean,2,zillow
+2013-09-30,z_mean_TwoBR,450286,mean,2,zillow
+2013-10-31,z_mean_TwoBR,455986,mean,2,zillow
+2013-11-30,z_mean_TwoBR,460644,mean,2,zillow
+2013-12-31,z_mean_TwoBR,465020,mean,2,zillow
+2014-01-31,z_mean_TwoBR,469710,mean,2,zillow
+2014-02-28,z_mean_TwoBR,473648,mean,2,zillow
+2014-03-31,z_mean_TwoBR,476033,mean,2,zillow
+2014-04-30,z_mean_TwoBR,477625,mean,2,zillow
+2014-05-31,z_mean_TwoBR,478865,mean,2,zillow
+2014-06-30,z_mean_TwoBR,480526,mean,2,zillow
+2014-07-31,z_mean_TwoBR,483194,mean,2,zillow
+2014-08-31,z_mean_TwoBR,484414,mean,2,zillow
+2014-09-30,z_mean_TwoBR,486577,mean,2,zillow
+2014-10-31,z_mean_TwoBR,488852,mean,2,zillow
+2014-11-30,z_mean_TwoBR,493513,mean,2,zillow
+2014-12-31,z_mean_TwoBR,497165,mean,2,zillow
+2015-01-31,z_mean_TwoBR,500287,mean,2,zillow
+2015-02-28,z_mean_TwoBR,503806,mean,2,zillow
+2015-03-31,z_mean_TwoBR,508981,mean,2,zillow
+2015-04-30,z_mean_TwoBR,513297,mean,2,zillow
+2015-05-31,z_mean_TwoBR,517861,mean,2,zillow
+2015-06-30,z_mean_TwoBR,521528,mean,2,zillow
+2015-07-31,z_mean_TwoBR,525373,mean,2,zillow
+2015-08-31,z_mean_TwoBR,529930,mean,2,zillow
+2015-09-30,z_mean_TwoBR,534770,mean,2,zillow
+2015-10-31,z_mean_TwoBR,539691,mean,2,zillow
+2015-11-30,z_mean_TwoBR,543064,mean,2,zillow
+2015-12-31,z_mean_TwoBR,547332,mean,2,zillow
+2016-01-31,z_mean_TwoBR,551706,mean,2,zillow
+2016-02-29,z_mean_TwoBR,555567,mean,2,zillow
+2016-03-31,z_mean_TwoBR,557772,mean,2,zillow
+2016-04-30,z_mean_TwoBR,561069,mean,2,zillow
+2016-05-31,z_mean_TwoBR,563582,mean,2,zillow
+2016-06-30,z_mean_TwoBR,566748,mean,2,zillow
+2016-07-31,z_mean_TwoBR,568469,mean,2,zillow
+2016-08-31,z_mean_TwoBR,571562,mean,2,zillow
+2016-09-30,z_mean_TwoBR,574422,mean,2,zillow
+2016-10-31,z_mean_TwoBR,578421,mean,2,zillow
+2016-11-30,z_mean_TwoBR,581534,mean,2,zillow
+2016-12-31,z_mean_TwoBR,584853,mean,2,zillow
+2017-01-31,z_mean_TwoBR,588104,mean,2,zillow
+2017-02-28,z_mean_TwoBR,591421,mean,2,zillow
+2017-03-31,z_mean_TwoBR,594710,mean,2,zillow
+2017-04-30,z_mean_TwoBR,598085,mean,2,zillow
+2017-05-31,z_mean_TwoBR,602826,mean,2,zillow
+2017-06-30,z_mean_TwoBR,607594,mean,2,zillow
+2017-07-31,z_mean_TwoBR,612445,mean,2,zillow
+2017-08-31,z_mean_TwoBR,617085,mean,2,zillow
+2017-09-30,z_mean_TwoBR,622800,mean,2,zillow
+2017-10-31,z_mean_TwoBR,628586,mean,2,zillow
+2017-11-30,z_mean_TwoBR,635977,mean,2,zillow
+2017-12-31,z_mean_TwoBR,643194,mean,2,zillow
+2018-01-31,z_mean_TwoBR,650412,mean,2,zillow
+2018-02-28,z_mean_TwoBR,657246,mean,2,zillow
+2018-03-31,z_mean_TwoBR,664312,mean,2,zillow
+2018-04-30,z_mean_TwoBR,670316,mean,2,zillow
+2018-05-31,z_mean_TwoBR,675997,mean,2,zillow
+2018-06-30,z_mean_TwoBR,681392,mean,2,zillow
+2018-07-31,z_mean_TwoBR,686213,mean,2,zillow
+2018-08-31,z_mean_TwoBR,688625,mean,2,zillow
+2018-09-30,z_mean_TwoBR,688805,mean,2,zillow
+2018-10-31,z_mean_TwoBR,688317,mean,2,zillow
+2018-11-30,z_mean_TwoBR,687458,mean,2,zillow
+2018-12-31,z_mean_TwoBR,685128,mean,2,zillow
+2019-01-31,z_mean_TwoBR,682263,mean,2,zillow
+2019-02-28,z_mean_TwoBR,678668,mean,2,zillow
+2019-03-31,z_mean_TwoBR,675684,mean,2,zillow
+2019-04-30,z_mean_TwoBR,675592,mean,2,zillow
+2019-05-31,z_mean_TwoBR,678577,mean,2,zillow
+2019-06-30,z_mean_TwoBR,682066,mean,2,zillow
+2019-07-31,z_mean_TwoBR,682741,mean,2,zillow
+2019-08-31,z_mean_TwoBR,681442,mean,2,zillow
+2019-09-30,z_mean_TwoBR,681229,mean,2,zillow
+2019-10-31,z_mean_TwoBR,682472,mean,2,zillow
+2019-11-30,z_mean_TwoBR,684347,mean,2,zillow
+2019-12-31,z_mean_TwoBR,687570,mean,2,zillow
+2020-01-31,z_mean_TwoBR,691876,mean,2,zillow
+2020-02-29,z_mean_TwoBR,696615,mean,2,zillow
+2020-03-31,z_mean_TwoBR,700958,mean,2,zillow
+2020-04-30,z_mean_TwoBR,703777,mean,2,zillow
+2020-05-31,z_mean_TwoBR,704340,mean,2,zillow
+2020-06-30,z_mean_TwoBR,704800,mean,2,zillow
+2020-07-31,z_mean_TwoBR,707954,mean,2,zillow
+2020-08-31,z_mean_TwoBR,714004,mean,2,zillow
+2020-09-30,z_mean_TwoBR,720295,mean,2,zillow
+2020-10-31,z_mean_TwoBR,725937,mean,2,zillow
+2020-11-30,z_mean_TwoBR,731109,mean,2,zillow
+2020-12-31,z_mean_TwoBR,736188,mean,2,zillow
+1996-01-31,z_mean_ThreeBR,215648,mean,3,zillow
+1996-02-29,z_mean_ThreeBR,215368,mean,3,zillow
+1996-03-31,z_mean_ThreeBR,215228,mean,3,zillow
+1996-04-30,z_mean_ThreeBR,214940,mean,3,zillow
+1996-05-31,z_mean_ThreeBR,214747,mean,3,zillow
+1996-06-30,z_mean_ThreeBR,214626,mean,3,zillow
+1996-07-31,z_mean_ThreeBR,214575,mean,3,zillow
+1996-08-31,z_mean_ThreeBR,214666,mean,3,zillow
+1996-09-30,z_mean_ThreeBR,214826,mean,3,zillow
+1996-10-31,z_mean_ThreeBR,215216,mean,3,zillow
+1996-11-30,z_mean_ThreeBR,215714,mean,3,zillow
+1996-12-31,z_mean_ThreeBR,216358,mean,3,zillow
+1997-01-31,z_mean_ThreeBR,216842,mean,3,zillow
+1997-02-28,z_mean_ThreeBR,217463,mean,3,zillow
+1997-03-31,z_mean_ThreeBR,218143,mean,3,zillow
+1997-04-30,z_mean_ThreeBR,219117,mean,3,zillow
+1997-05-31,z_mean_ThreeBR,220268,mean,3,zillow
+1997-06-30,z_mean_ThreeBR,221514,mean,3,zillow
+1997-07-31,z_mean_ThreeBR,222998,mean,3,zillow
+1997-08-31,z_mean_ThreeBR,224550,mean,3,zillow
+1997-09-30,z_mean_ThreeBR,226231,mean,3,zillow
+1997-10-31,z_mean_ThreeBR,227790,mean,3,zillow
+1997-11-30,z_mean_ThreeBR,229473,mean,3,zillow
+1997-12-31,z_mean_ThreeBR,231380,mean,3,zillow
+1998-01-31,z_mean_ThreeBR,233678,mean,3,zillow
+1998-02-28,z_mean_ThreeBR,236156,mean,3,zillow
+1998-03-31,z_mean_ThreeBR,238609,mean,3,zillow
+1998-04-30,z_mean_ThreeBR,240940,mean,3,zillow
+1998-05-31,z_mean_ThreeBR,243205,mean,3,zillow
+1998-06-30,z_mean_ThreeBR,245436,mean,3,zillow
+1998-07-31,z_mean_ThreeBR,247521,mean,3,zillow
+1998-08-31,z_mean_ThreeBR,249740,mean,3,zillow
+1998-09-30,z_mean_ThreeBR,252193,mean,3,zillow
+1998-10-31,z_mean_ThreeBR,254604,mean,3,zillow
+1998-11-30,z_mean_ThreeBR,256810,mean,3,zillow
+1998-12-31,z_mean_ThreeBR,258601,mean,3,zillow
+1999-01-31,z_mean_ThreeBR,260516,mean,3,zillow
+1999-02-28,z_mean_ThreeBR,262461,mean,3,zillow
+1999-03-31,z_mean_ThreeBR,264440,mean,3,zillow
+1999-04-30,z_mean_ThreeBR,266298,mean,3,zillow
+1999-05-31,z_mean_ThreeBR,268215,mean,3,zillow
+1999-06-30,z_mean_ThreeBR,270652,mean,3,zillow
+1999-07-31,z_mean_ThreeBR,273276,mean,3,zillow
+1999-08-31,z_mean_ThreeBR,275598,mean,3,zillow
+1999-09-30,z_mean_ThreeBR,277569,mean,3,zillow
+1999-10-31,z_mean_ThreeBR,280039,mean,3,zillow
+1999-11-30,z_mean_ThreeBR,283054,mean,3,zillow
+1999-12-31,z_mean_ThreeBR,286401,mean,3,zillow
+2000-01-31,z_mean_ThreeBR,289893,mean,3,zillow
+2000-02-29,z_mean_ThreeBR,293333,mean,3,zillow
+2000-03-31,z_mean_ThreeBR,297047,mean,3,zillow
+2000-04-30,z_mean_ThreeBR,300904,mean,3,zillow
+2000-05-31,z_mean_ThreeBR,305124,mean,3,zillow
+2000-06-30,z_mean_ThreeBR,309494,mean,3,zillow
+2000-07-31,z_mean_ThreeBR,313910,mean,3,zillow
+2000-08-31,z_mean_ThreeBR,318578,mean,3,zillow
+2000-09-30,z_mean_ThreeBR,323379,mean,3,zillow
+2000-10-31,z_mean_ThreeBR,328075,mean,3,zillow
+2000-11-30,z_mean_ThreeBR,332923,mean,3,zillow
+2000-12-31,z_mean_ThreeBR,337953,mean,3,zillow
+2001-01-31,z_mean_ThreeBR,342678,mean,3,zillow
+2001-02-28,z_mean_ThreeBR,347119,mean,3,zillow
+2001-03-31,z_mean_ThreeBR,351223,mean,3,zillow
+2001-04-30,z_mean_ThreeBR,355134,mean,3,zillow
+2001-05-31,z_mean_ThreeBR,358197,mean,3,zillow
+2001-06-30,z_mean_ThreeBR,360390,mean,3,zillow
+2001-07-31,z_mean_ThreeBR,362078,mean,3,zillow
+2001-08-31,z_mean_ThreeBR,363822,mean,3,zillow
+2001-09-30,z_mean_ThreeBR,365630,mean,3,zillow
+2001-10-31,z_mean_ThreeBR,367375,mean,3,zillow
+2001-11-30,z_mean_ThreeBR,368628,mean,3,zillow
+2001-12-31,z_mean_ThreeBR,369706,mean,3,zillow
+2002-01-31,z_mean_ThreeBR,370839,mean,3,zillow
+2002-02-28,z_mean_ThreeBR,372624,mean,3,zillow
+2002-03-31,z_mean_ThreeBR,374883,mean,3,zillow
+2002-04-30,z_mean_ThreeBR,377848,mean,3,zillow
+2002-05-31,z_mean_ThreeBR,381432,mean,3,zillow
+2002-06-30,z_mean_ThreeBR,385899,mean,3,zillow
+2002-07-31,z_mean_ThreeBR,390939,mean,3,zillow
+2002-08-31,z_mean_ThreeBR,396041,mean,3,zillow
+2002-09-30,z_mean_ThreeBR,400776,mean,3,zillow
+2002-10-31,z_mean_ThreeBR,405462,mean,3,zillow
+2002-11-30,z_mean_ThreeBR,410430,mean,3,zillow
+2002-12-31,z_mean_ThreeBR,415404,mean,3,zillow
+2003-01-31,z_mean_ThreeBR,420008,mean,3,zillow
+2003-02-28,z_mean_ThreeBR,424237,mean,3,zillow
+2003-03-31,z_mean_ThreeBR,428389,mean,3,zillow
+2003-04-30,z_mean_ThreeBR,432184,mean,3,zillow
+2003-05-31,z_mean_ThreeBR,435568,mean,3,zillow
+2003-06-30,z_mean_ThreeBR,438347,mean,3,zillow
+2003-07-31,z_mean_ThreeBR,441967,mean,3,zillow
+2003-08-31,z_mean_ThreeBR,446265,mean,3,zillow
+2003-09-30,z_mean_ThreeBR,451415,mean,3,zillow
+2003-10-31,z_mean_ThreeBR,456322,mean,3,zillow
+2003-11-30,z_mean_ThreeBR,462020,mean,3,zillow
+2003-12-31,z_mean_ThreeBR,467989,mean,3,zillow
+2004-01-31,z_mean_ThreeBR,475473,mean,3,zillow
+2004-02-29,z_mean_ThreeBR,483088,mean,3,zillow
+2004-03-31,z_mean_ThreeBR,491087,mean,3,zillow
+2004-04-30,z_mean_ThreeBR,499504,mean,3,zillow
+2004-05-31,z_mean_ThreeBR,509186,mean,3,zillow
+2004-06-30,z_mean_ThreeBR,519572,mean,3,zillow
+2004-07-31,z_mean_ThreeBR,529059,mean,3,zillow
+2004-08-31,z_mean_ThreeBR,537606,mean,3,zillow
+2004-09-30,z_mean_ThreeBR,546354,mean,3,zillow
+2004-10-31,z_mean_ThreeBR,555368,mean,3,zillow
+2004-11-30,z_mean_ThreeBR,563687,mean,3,zillow
+2004-12-31,z_mean_ThreeBR,571910,mean,3,zillow
+2005-01-31,z_mean_ThreeBR,579180,mean,3,zillow
+2005-02-28,z_mean_ThreeBR,587388,mean,3,zillow
+2005-03-31,z_mean_ThreeBR,595331,mean,3,zillow
+2005-04-30,z_mean_ThreeBR,603485,mean,3,zillow
+2005-05-31,z_mean_ThreeBR,610564,mean,3,zillow
+2005-06-30,z_mean_ThreeBR,617454,mean,3,zillow
+2005-07-31,z_mean_ThreeBR,624930,mean,3,zillow
+2005-08-31,z_mean_ThreeBR,632668,mean,3,zillow
+2005-09-30,z_mean_ThreeBR,640336,mean,3,zillow
+2005-10-31,z_mean_ThreeBR,647692,mean,3,zillow
+2005-11-30,z_mean_ThreeBR,653500,mean,3,zillow
+2005-12-31,z_mean_ThreeBR,658475,mean,3,zillow
+2006-01-31,z_mean_ThreeBR,662463,mean,3,zillow
+2006-02-28,z_mean_ThreeBR,665444,mean,3,zillow
+2006-03-31,z_mean_ThreeBR,668179,mean,3,zillow
+2006-04-30,z_mean_ThreeBR,669908,mean,3,zillow
+2006-05-31,z_mean_ThreeBR,672277,mean,3,zillow
+2006-06-30,z_mean_ThreeBR,673283,mean,3,zillow
+2006-07-31,z_mean_ThreeBR,673263,mean,3,zillow
+2006-08-31,z_mean_ThreeBR,672301,mean,3,zillow
+2006-09-30,z_mean_ThreeBR,670130,mean,3,zillow
+2006-10-31,z_mean_ThreeBR,668029,mean,3,zillow
+2006-11-30,z_mean_ThreeBR,666355,mean,3,zillow
+2006-12-31,z_mean_ThreeBR,665471,mean,3,zillow
+2007-01-31,z_mean_ThreeBR,664330,mean,3,zillow
+2007-02-28,z_mean_ThreeBR,663070,mean,3,zillow
+2007-03-31,z_mean_ThreeBR,661628,mean,3,zillow
+2007-04-30,z_mean_ThreeBR,660546,mean,3,zillow
+2007-05-31,z_mean_ThreeBR,658273,mean,3,zillow
+2007-06-30,z_mean_ThreeBR,655686,mean,3,zillow
+2007-07-31,z_mean_ThreeBR,652174,mean,3,zillow
+2007-08-31,z_mean_ThreeBR,648620,mean,3,zillow
+2007-09-30,z_mean_ThreeBR,644140,mean,3,zillow
+2007-10-31,z_mean_ThreeBR,638846,mean,3,zillow
+2007-11-30,z_mean_ThreeBR,633608,mean,3,zillow
+2007-12-31,z_mean_ThreeBR,626951,mean,3,zillow
+2008-01-31,z_mean_ThreeBR,620313,mean,3,zillow
+2008-02-29,z_mean_ThreeBR,611877,mean,3,zillow
+2008-03-31,z_mean_ThreeBR,602647,mean,3,zillow
+2008-04-30,z_mean_ThreeBR,592930,mean,3,zillow
+2008-05-31,z_mean_ThreeBR,582873,mean,3,zillow
+2008-06-30,z_mean_ThreeBR,574199,mean,3,zillow
+2008-07-31,z_mean_ThreeBR,565421,mean,3,zillow
+2008-08-31,z_mean_ThreeBR,557794,mean,3,zillow
+2008-09-30,z_mean_ThreeBR,550803,mean,3,zillow
+2008-10-31,z_mean_ThreeBR,543866,mean,3,zillow
+2008-11-30,z_mean_ThreeBR,535613,mean,3,zillow
+2008-12-31,z_mean_ThreeBR,527226,mean,3,zillow
+2009-01-31,z_mean_ThreeBR,520501,mean,3,zillow
+2009-02-28,z_mean_ThreeBR,516608,mean,3,zillow
+2009-03-31,z_mean_ThreeBR,512875,mean,3,zillow
+2009-04-30,z_mean_ThreeBR,508522,mean,3,zillow
+2009-05-31,z_mean_ThreeBR,505081,mean,3,zillow
+2009-06-30,z_mean_ThreeBR,502833,mean,3,zillow
+2009-07-31,z_mean_ThreeBR,502443,mean,3,zillow
+2009-08-31,z_mean_ThreeBR,501585,mean,3,zillow
+2009-09-30,z_mean_ThreeBR,501287,mean,3,zillow
+2009-10-31,z_mean_ThreeBR,502052,mean,3,zillow
+2009-11-30,z_mean_ThreeBR,505241,mean,3,zillow
+2009-12-31,z_mean_ThreeBR,509270,mean,3,zillow
+2010-01-31,z_mean_ThreeBR,511682,mean,3,zillow
+2010-02-28,z_mean_ThreeBR,511849,mean,3,zillow
+2010-03-31,z_mean_ThreeBR,513151,mean,3,zillow
+2010-04-30,z_mean_ThreeBR,515095,mean,3,zillow
+2010-05-31,z_mean_ThreeBR,517662,mean,3,zillow
+2010-06-30,z_mean_ThreeBR,516393,mean,3,zillow
+2010-07-31,z_mean_ThreeBR,513750,mean,3,zillow
+2010-08-31,z_mean_ThreeBR,511268,mean,3,zillow
+2010-09-30,z_mean_ThreeBR,509241,mean,3,zillow
+2010-10-31,z_mean_ThreeBR,506771,mean,3,zillow
+2010-11-30,z_mean_ThreeBR,502376,mean,3,zillow
+2010-12-31,z_mean_ThreeBR,498738,mean,3,zillow
+2011-01-31,z_mean_ThreeBR,495957,mean,3,zillow
+2011-02-28,z_mean_ThreeBR,493856,mean,3,zillow
+2011-03-31,z_mean_ThreeBR,490839,mean,3,zillow
+2011-04-30,z_mean_ThreeBR,487791,mean,3,zillow
+2011-05-31,z_mean_ThreeBR,483176,mean,3,zillow
+2011-06-30,z_mean_ThreeBR,481077,mean,3,zillow
+2011-07-31,z_mean_ThreeBR,479631,mean,3,zillow
+2011-08-31,z_mean_ThreeBR,478707,mean,3,zillow
+2011-09-30,z_mean_ThreeBR,477194,mean,3,zillow
+2011-10-31,z_mean_ThreeBR,475290,mean,3,zillow
+2011-11-30,z_mean_ThreeBR,475094,mean,3,zillow
+2011-12-31,z_mean_ThreeBR,473985,mean,3,zillow
+2012-01-31,z_mean_ThreeBR,473183,mean,3,zillow
+2012-02-29,z_mean_ThreeBR,473086,mean,3,zillow
+2012-03-31,z_mean_ThreeBR,474171,mean,3,zillow
+2012-04-30,z_mean_ThreeBR,476171,mean,3,zillow
+2012-05-31,z_mean_ThreeBR,479667,mean,3,zillow
+2012-06-30,z_mean_ThreeBR,483855,mean,3,zillow
+2012-07-31,z_mean_ThreeBR,488653,mean,3,zillow
+2012-08-31,z_mean_ThreeBR,493036,mean,3,zillow
+2012-09-30,z_mean_ThreeBR,497872,mean,3,zillow
+2012-10-31,z_mean_ThreeBR,504058,mean,3,zillow
+2012-11-30,z_mean_ThreeBR,510405,mean,3,zillow
+2012-12-31,z_mean_ThreeBR,518410,mean,3,zillow
+2013-01-31,z_mean_ThreeBR,526321,mean,3,zillow
+2013-02-28,z_mean_ThreeBR,534960,mean,3,zillow
+2013-03-31,z_mean_ThreeBR,544342,mean,3,zillow
+2013-04-30,z_mean_ThreeBR,554642,mean,3,zillow
+2013-05-31,z_mean_ThreeBR,565129,mean,3,zillow
+2013-06-30,z_mean_ThreeBR,574985,mean,3,zillow
+2013-07-31,z_mean_ThreeBR,583965,mean,3,zillow
+2013-08-31,z_mean_ThreeBR,593271,mean,3,zillow
+2013-09-30,z_mean_ThreeBR,601432,mean,3,zillow
+2013-10-31,z_mean_ThreeBR,608307,mean,3,zillow
+2013-11-30,z_mean_ThreeBR,614004,mean,3,zillow
+2013-12-31,z_mean_ThreeBR,619412,mean,3,zillow
+2014-01-31,z_mean_ThreeBR,625566,mean,3,zillow
+2014-02-28,z_mean_ThreeBR,630645,mean,3,zillow
+2014-03-31,z_mean_ThreeBR,633479,mean,3,zillow
+2014-04-30,z_mean_ThreeBR,635023,mean,3,zillow
+2014-05-31,z_mean_ThreeBR,635991,mean,3,zillow
+2014-06-30,z_mean_ThreeBR,637638,mean,3,zillow
+2014-07-31,z_mean_ThreeBR,640808,mean,3,zillow
+2014-08-31,z_mean_ThreeBR,642776,mean,3,zillow
+2014-09-30,z_mean_ThreeBR,646063,mean,3,zillow
+2014-10-31,z_mean_ThreeBR,649399,mean,3,zillow
+2014-11-30,z_mean_ThreeBR,655584,mean,3,zillow
+2014-12-31,z_mean_ThreeBR,660328,mean,3,zillow
+2015-01-31,z_mean_ThreeBR,664364,mean,3,zillow
+2015-02-28,z_mean_ThreeBR,668973,mean,3,zillow
+2015-03-31,z_mean_ThreeBR,675996,mean,3,zillow
+2015-04-30,z_mean_ThreeBR,681860,mean,3,zillow
+2015-05-31,z_mean_ThreeBR,688306,mean,3,zillow
+2015-06-30,z_mean_ThreeBR,693579,mean,3,zillow
+2015-07-31,z_mean_ThreeBR,699153,mean,3,zillow
+2015-08-31,z_mean_ThreeBR,705036,mean,3,zillow
+2015-09-30,z_mean_ThreeBR,711077,mean,3,zillow
+2015-10-31,z_mean_ThreeBR,717282,mean,3,zillow
+2015-11-30,z_mean_ThreeBR,721678,mean,3,zillow
+2015-12-31,z_mean_ThreeBR,727469,mean,3,zillow
+2016-01-31,z_mean_ThreeBR,733356,mean,3,zillow
+2016-02-29,z_mean_ThreeBR,738505,mean,3,zillow
+2016-03-31,z_mean_ThreeBR,741360,mean,3,zillow
+2016-04-30,z_mean_ThreeBR,745768,mean,3,zillow
+2016-05-31,z_mean_ThreeBR,749200,mean,3,zillow
+2016-06-30,z_mean_ThreeBR,753343,mean,3,zillow
+2016-07-31,z_mean_ThreeBR,755759,mean,3,zillow
+2016-08-31,z_mean_ThreeBR,759999,mean,3,zillow
+2016-09-30,z_mean_ThreeBR,764158,mean,3,zillow
+2016-10-31,z_mean_ThreeBR,769428,mean,3,zillow
+2016-11-30,z_mean_ThreeBR,773590,mean,3,zillow
+2016-12-31,z_mean_ThreeBR,777870,mean,3,zillow
+2017-01-31,z_mean_ThreeBR,782242,mean,3,zillow
+2017-02-28,z_mean_ThreeBR,786814,mean,3,zillow
+2017-03-31,z_mean_ThreeBR,791444,mean,3,zillow
+2017-04-30,z_mean_ThreeBR,796091,mean,3,zillow
+2017-05-31,z_mean_ThreeBR,802280,mean,3,zillow
+2017-06-30,z_mean_ThreeBR,808647,mean,3,zillow
+2017-07-31,z_mean_ThreeBR,814751,mean,3,zillow
+2017-08-31,z_mean_ThreeBR,820903,mean,3,zillow
+2017-09-30,z_mean_ThreeBR,828416,mean,3,zillow
+2017-10-31,z_mean_ThreeBR,836340,mean,3,zillow
+2017-11-30,z_mean_ThreeBR,846219,mean,3,zillow
+2017-12-31,z_mean_ThreeBR,855825,mean,3,zillow
+2018-01-31,z_mean_ThreeBR,865158,mean,3,zillow
+2018-02-28,z_mean_ThreeBR,873893,mean,3,zillow
+2018-03-31,z_mean_ThreeBR,882884,mean,3,zillow
+2018-04-30,z_mean_ThreeBR,890698,mean,3,zillow
+2018-05-31,z_mean_ThreeBR,898086,mean,3,zillow
+2018-06-30,z_mean_ThreeBR,904971,mean,3,zillow
+2018-07-31,z_mean_ThreeBR,911435,mean,3,zillow
+2018-08-31,z_mean_ThreeBR,914611,mean,3,zillow
+2018-09-30,z_mean_ThreeBR,914689,mean,3,zillow
+2018-10-31,z_mean_ThreeBR,913982,mean,3,zillow
+2018-11-30,z_mean_ThreeBR,912915,mean,3,zillow
+2018-12-31,z_mean_ThreeBR,910269,mean,3,zillow
+2019-01-31,z_mean_ThreeBR,906958,mean,3,zillow
+2019-02-28,z_mean_ThreeBR,902702,mean,3,zillow
+2019-03-31,z_mean_ThreeBR,899256,mean,3,zillow
+2019-04-30,z_mean_ThreeBR,899554,mean,3,zillow
+2019-05-31,z_mean_ThreeBR,904412,mean,3,zillow
+2019-06-30,z_mean_ThreeBR,910017,mean,3,zillow
+2019-07-31,z_mean_ThreeBR,911894,mean,3,zillow
+2019-08-31,z_mean_ThreeBR,910662,mean,3,zillow
+2019-09-30,z_mean_ThreeBR,911130,mean,3,zillow
+2019-10-31,z_mean_ThreeBR,913321,mean,3,zillow
+2019-11-30,z_mean_ThreeBR,916340,mean,3,zillow
+2019-12-31,z_mean_ThreeBR,920965,mean,3,zillow
+2020-01-31,z_mean_ThreeBR,927073,mean,3,zillow
+2020-02-29,z_mean_ThreeBR,934100,mean,3,zillow
+2020-03-31,z_mean_ThreeBR,940622,mean,3,zillow
+2020-04-30,z_mean_ThreeBR,945188,mean,3,zillow
+2020-05-31,z_mean_ThreeBR,946546,mean,3,zillow
+2020-06-30,z_mean_ThreeBR,947855,mean,3,zillow
+2020-07-31,z_mean_ThreeBR,952784,mean,3,zillow
+2020-08-31,z_mean_ThreeBR,962074,mean,3,zillow
+2020-09-30,z_mean_ThreeBR,971727,mean,3,zillow
+2020-10-31,z_mean_ThreeBR,980763,mean,3,zillow
+2020-11-30,z_mean_ThreeBR,989318,mean,3,zillow
+2020-12-31,z_mean_ThreeBR,997908,mean,3,zillow
+1996-01-31,z_mean_FourBR,270501,mean,4,zillow
+1996-02-29,z_mean_FourBR,270149,mean,4,zillow
+1996-03-31,z_mean_FourBR,269946,mean,4,zillow
+1996-04-30,z_mean_FourBR,269584,mean,4,zillow
+1996-05-31,z_mean_FourBR,269366,mean,4,zillow
+1996-06-30,z_mean_FourBR,269206,mean,4,zillow
+1996-07-31,z_mean_FourBR,269137,mean,4,zillow
+1996-08-31,z_mean_FourBR,269216,mean,4,zillow
+1996-09-30,z_mean_FourBR,269446,mean,4,zillow
+1996-10-31,z_mean_FourBR,269904,mean,4,zillow
+1996-11-30,z_mean_FourBR,270505,mean,4,zillow
+1996-12-31,z_mean_FourBR,271298,mean,4,zillow
+1997-01-31,z_mean_FourBR,272109,mean,4,zillow
+1997-02-28,z_mean_FourBR,273066,mean,4,zillow
+1997-03-31,z_mean_FourBR,274163,mean,4,zillow
+1997-04-30,z_mean_FourBR,275423,mean,4,zillow
+1997-05-31,z_mean_FourBR,276895,mean,4,zillow
+1997-06-30,z_mean_FourBR,278526,mean,4,zillow
+1997-07-31,z_mean_FourBR,280468,mean,4,zillow
+1997-08-31,z_mean_FourBR,282583,mean,4,zillow
+1997-09-30,z_mean_FourBR,284784,mean,4,zillow
+1997-10-31,z_mean_FourBR,286863,mean,4,zillow
+1997-11-30,z_mean_FourBR,289063,mean,4,zillow
+1997-12-31,z_mean_FourBR,291502,mean,4,zillow
+1998-01-31,z_mean_FourBR,294159,mean,4,zillow
+1998-02-28,z_mean_FourBR,297044,mean,4,zillow
+1998-03-31,z_mean_FourBR,299801,mean,4,zillow
+1998-04-30,z_mean_FourBR,302606,mean,4,zillow
+1998-05-31,z_mean_FourBR,305311,mean,4,zillow
+1998-06-30,z_mean_FourBR,308054,mean,4,zillow
+1998-07-31,z_mean_FourBR,310604,mean,4,zillow
+1998-08-31,z_mean_FourBR,313264,mean,4,zillow
+1998-09-30,z_mean_FourBR,316200,mean,4,zillow
+1998-10-31,z_mean_FourBR,319205,mean,4,zillow
+1998-11-30,z_mean_FourBR,322002,mean,4,zillow
+1998-12-31,z_mean_FourBR,324313,mean,4,zillow
+1999-01-31,z_mean_FourBR,326628,mean,4,zillow
+1999-02-28,z_mean_FourBR,329018,mean,4,zillow
+1999-03-31,z_mean_FourBR,331563,mean,4,zillow
+1999-04-30,z_mean_FourBR,334045,mean,4,zillow
+1999-05-31,z_mean_FourBR,336582,mean,4,zillow
+1999-06-30,z_mean_FourBR,339618,mean,4,zillow
+1999-07-31,z_mean_FourBR,342831,mean,4,zillow
+1999-08-31,z_mean_FourBR,345607,mean,4,zillow
+1999-09-30,z_mean_FourBR,347963,mean,4,zillow
+1999-10-31,z_mean_FourBR,350895,mean,4,zillow
+1999-11-30,z_mean_FourBR,354499,mean,4,zillow
+1999-12-31,z_mean_FourBR,358565,mean,4,zillow
+2000-01-31,z_mean_FourBR,363016,mean,4,zillow
+2000-02-29,z_mean_FourBR,367361,mean,4,zillow
+2000-03-31,z_mean_FourBR,371904,mean,4,zillow
+2000-04-30,z_mean_FourBR,376429,mean,4,zillow
+2000-05-31,z_mean_FourBR,381463,mean,4,zillow
+2000-06-30,z_mean_FourBR,386843,mean,4,zillow
+2000-07-31,z_mean_FourBR,392440,mean,4,zillow
+2000-08-31,z_mean_FourBR,398440,mean,4,zillow
+2000-09-30,z_mean_FourBR,404553,mean,4,zillow
+2000-10-31,z_mean_FourBR,410360,mean,4,zillow
+2000-11-30,z_mean_FourBR,416281,mean,4,zillow
+2000-12-31,z_mean_FourBR,422334,mean,4,zillow
+2001-01-31,z_mean_FourBR,428118,mean,4,zillow
+2001-02-28,z_mean_FourBR,433603,mean,4,zillow
+2001-03-31,z_mean_FourBR,438876,mean,4,zillow
+2001-04-30,z_mean_FourBR,444059,mean,4,zillow
+2001-05-31,z_mean_FourBR,448218,mean,4,zillow
+2001-06-30,z_mean_FourBR,451160,mean,4,zillow
+2001-07-31,z_mean_FourBR,453245,mean,4,zillow
+2001-08-31,z_mean_FourBR,455331,mean,4,zillow
+2001-09-30,z_mean_FourBR,457581,mean,4,zillow
+2001-10-31,z_mean_FourBR,459964,mean,4,zillow
+2001-11-30,z_mean_FourBR,461787,mean,4,zillow
+2001-12-31,z_mean_FourBR,463321,mean,4,zillow
+2002-01-31,z_mean_FourBR,464756,mean,4,zillow
+2002-02-28,z_mean_FourBR,466912,mean,4,zillow
+2002-03-31,z_mean_FourBR,469500,mean,4,zillow
+2002-04-30,z_mean_FourBR,472726,mean,4,zillow
+2002-05-31,z_mean_FourBR,476717,mean,4,zillow
+2002-06-30,z_mean_FourBR,481789,mean,4,zillow
+2002-07-31,z_mean_FourBR,487707,mean,4,zillow
+2002-08-31,z_mean_FourBR,493620,mean,4,zillow
+2002-09-30,z_mean_FourBR,499112,mean,4,zillow
+2002-10-31,z_mean_FourBR,504501,mean,4,zillow
+2002-11-30,z_mean_FourBR,510225,mean,4,zillow
+2002-12-31,z_mean_FourBR,516084,mean,4,zillow
+2003-01-31,z_mean_FourBR,521517,mean,4,zillow
+2003-02-28,z_mean_FourBR,526514,mean,4,zillow
+2003-03-31,z_mean_FourBR,531432,mean,4,zillow
+2003-04-30,z_mean_FourBR,535991,mean,4,zillow
+2003-05-31,z_mean_FourBR,539947,mean,4,zillow
+2003-06-30,z_mean_FourBR,543179,mean,4,zillow
+2003-07-31,z_mean_FourBR,547473,mean,4,zillow
+2003-08-31,z_mean_FourBR,552648,mean,4,zillow
+2003-09-30,z_mean_FourBR,558717,mean,4,zillow
+2003-10-31,z_mean_FourBR,564331,mean,4,zillow
+2003-11-30,z_mean_FourBR,570950,mean,4,zillow
+2003-12-31,z_mean_FourBR,577782,mean,4,zillow
+2004-01-31,z_mean_FourBR,586459,mean,4,zillow
+2004-02-29,z_mean_FourBR,595208,mean,4,zillow
+2004-03-31,z_mean_FourBR,604443,mean,4,zillow
+2004-04-30,z_mean_FourBR,614189,mean,4,zillow
+2004-05-31,z_mean_FourBR,625344,mean,4,zillow
+2004-06-30,z_mean_FourBR,637370,mean,4,zillow
+2004-07-31,z_mean_FourBR,648148,mean,4,zillow
+2004-08-31,z_mean_FourBR,657968,mean,4,zillow
+2004-09-30,z_mean_FourBR,668041,mean,4,zillow
+2004-10-31,z_mean_FourBR,678554,mean,4,zillow
+2004-11-30,z_mean_FourBR,688205,mean,4,zillow
+2004-12-31,z_mean_FourBR,697815,mean,4,zillow
+2005-01-31,z_mean_FourBR,706305,mean,4,zillow
+2005-02-28,z_mean_FourBR,716041,mean,4,zillow
+2005-03-31,z_mean_FourBR,725514,mean,4,zillow
+2005-04-30,z_mean_FourBR,735298,mean,4,zillow
+2005-05-31,z_mean_FourBR,743974,mean,4,zillow
+2005-06-30,z_mean_FourBR,752308,mean,4,zillow
+2005-07-31,z_mean_FourBR,761371,mean,4,zillow
+2005-08-31,z_mean_FourBR,770410,mean,4,zillow
+2005-09-30,z_mean_FourBR,779565,mean,4,zillow
+2005-10-31,z_mean_FourBR,788460,mean,4,zillow
+2005-11-30,z_mean_FourBR,795564,mean,4,zillow
+2005-12-31,z_mean_FourBR,801637,mean,4,zillow
+2006-01-31,z_mean_FourBR,806530,mean,4,zillow
+2006-02-28,z_mean_FourBR,810288,mean,4,zillow
+2006-03-31,z_mean_FourBR,813636,mean,4,zillow
+2006-04-30,z_mean_FourBR,815716,mean,4,zillow
+2006-05-31,z_mean_FourBR,818523,mean,4,zillow
+2006-06-30,z_mean_FourBR,819989,mean,4,zillow
+2006-07-31,z_mean_FourBR,820307,mean,4,zillow
+2006-08-31,z_mean_FourBR,819785,mean,4,zillow
+2006-09-30,z_mean_FourBR,817709,mean,4,zillow
+2006-10-31,z_mean_FourBR,815820,mean,4,zillow
+2006-11-30,z_mean_FourBR,814398,mean,4,zillow
+2006-12-31,z_mean_FourBR,814130,mean,4,zillow
+2007-01-31,z_mean_FourBR,813450,mean,4,zillow
+2007-02-28,z_mean_FourBR,812343,mean,4,zillow
+2007-03-31,z_mean_FourBR,810882,mean,4,zillow
+2007-04-30,z_mean_FourBR,809866,mean,4,zillow
+2007-05-31,z_mean_FourBR,807471,mean,4,zillow
+2007-06-30,z_mean_FourBR,804592,mean,4,zillow
+2007-07-31,z_mean_FourBR,800574,mean,4,zillow
+2007-08-31,z_mean_FourBR,796566,mean,4,zillow
+2007-09-30,z_mean_FourBR,791503,mean,4,zillow
+2007-10-31,z_mean_FourBR,785645,mean,4,zillow
+2007-11-30,z_mean_FourBR,779991,mean,4,zillow
+2007-12-31,z_mean_FourBR,772591,mean,4,zillow
+2008-01-31,z_mean_FourBR,765216,mean,4,zillow
+2008-02-29,z_mean_FourBR,755894,mean,4,zillow
+2008-03-31,z_mean_FourBR,745777,mean,4,zillow
+2008-04-30,z_mean_FourBR,734975,mean,4,zillow
+2008-05-31,z_mean_FourBR,723636,mean,4,zillow
+2008-06-30,z_mean_FourBR,713816,mean,4,zillow
+2008-07-31,z_mean_FourBR,704014,mean,4,zillow
+2008-08-31,z_mean_FourBR,695850,mean,4,zillow
+2008-09-30,z_mean_FourBR,688644,mean,4,zillow
+2008-10-31,z_mean_FourBR,680831,mean,4,zillow
+2008-11-30,z_mean_FourBR,670896,mean,4,zillow
+2008-12-31,z_mean_FourBR,660467,mean,4,zillow
+2009-01-31,z_mean_FourBR,652462,mean,4,zillow
+2009-02-28,z_mean_FourBR,647991,mean,4,zillow
+2009-03-31,z_mean_FourBR,643845,mean,4,zillow
+2009-04-30,z_mean_FourBR,639053,mean,4,zillow
+2009-05-31,z_mean_FourBR,635435,mean,4,zillow
+2009-06-30,z_mean_FourBR,633507,mean,4,zillow
+2009-07-31,z_mean_FourBR,633708,mean,4,zillow
+2009-08-31,z_mean_FourBR,632837,mean,4,zillow
+2009-09-30,z_mean_FourBR,632116,mean,4,zillow
+2009-10-31,z_mean_FourBR,632885,mean,4,zillow
+2009-11-30,z_mean_FourBR,637116,mean,4,zillow
+2009-12-31,z_mean_FourBR,642580,mean,4,zillow
+2010-01-31,z_mean_FourBR,645694,mean,4,zillow
+2010-02-28,z_mean_FourBR,645965,mean,4,zillow
+2010-03-31,z_mean_FourBR,647420,mean,4,zillow
+2010-04-30,z_mean_FourBR,649665,mean,4,zillow
+2010-05-31,z_mean_FourBR,652799,mean,4,zillow
+2010-06-30,z_mean_FourBR,651324,mean,4,zillow
+2010-07-31,z_mean_FourBR,648301,mean,4,zillow
+2010-08-31,z_mean_FourBR,645391,mean,4,zillow
+2010-09-30,z_mean_FourBR,643287,mean,4,zillow
+2010-10-31,z_mean_FourBR,640811,mean,4,zillow
+2010-11-30,z_mean_FourBR,635887,mean,4,zillow
+2010-12-31,z_mean_FourBR,631762,mean,4,zillow
+2011-01-31,z_mean_FourBR,628695,mean,4,zillow
+2011-02-28,z_mean_FourBR,626479,mean,4,zillow
+2011-03-31,z_mean_FourBR,623433,mean,4,zillow
+2011-04-30,z_mean_FourBR,620312,mean,4,zillow
+2011-05-31,z_mean_FourBR,615167,mean,4,zillow
+2011-06-30,z_mean_FourBR,612730,mean,4,zillow
+2011-07-31,z_mean_FourBR,610986,mean,4,zillow
+2011-08-31,z_mean_FourBR,610149,mean,4,zillow
+2011-09-30,z_mean_FourBR,608840,mean,4,zillow
+2011-10-31,z_mean_FourBR,607081,mean,4,zillow
+2011-11-30,z_mean_FourBR,607259,mean,4,zillow
+2011-12-31,z_mean_FourBR,606272,mean,4,zillow
+2012-01-31,z_mean_FourBR,605617,mean,4,zillow
+2012-02-29,z_mean_FourBR,605853,mean,4,zillow
+2012-03-31,z_mean_FourBR,607444,mean,4,zillow
+2012-04-30,z_mean_FourBR,610270,mean,4,zillow
+2012-05-31,z_mean_FourBR,614957,mean,4,zillow
+2012-06-30,z_mean_FourBR,620636,mean,4,zillow
+2012-07-31,z_mean_FourBR,627080,mean,4,zillow
+2012-08-31,z_mean_FourBR,632980,mean,4,zillow
+2012-09-30,z_mean_FourBR,639036,mean,4,zillow
+2012-10-31,z_mean_FourBR,646471,mean,4,zillow
+2012-11-30,z_mean_FourBR,653847,mean,4,zillow
+2012-12-31,z_mean_FourBR,663554,mean,4,zillow
+2013-01-31,z_mean_FourBR,673131,mean,4,zillow
+2013-02-28,z_mean_FourBR,683726,mean,4,zillow
+2013-03-31,z_mean_FourBR,694979,mean,4,zillow
+2013-04-30,z_mean_FourBR,707583,mean,4,zillow
+2013-05-31,z_mean_FourBR,720281,mean,4,zillow
+2013-06-30,z_mean_FourBR,732334,mean,4,zillow
+2013-07-31,z_mean_FourBR,743213,mean,4,zillow
+2013-08-31,z_mean_FourBR,754497,mean,4,zillow
+2013-09-30,z_mean_FourBR,764552,mean,4,zillow
+2013-10-31,z_mean_FourBR,773123,mean,4,zillow
+2013-11-30,z_mean_FourBR,780779,mean,4,zillow
+2013-12-31,z_mean_FourBR,787934,mean,4,zillow
+2014-01-31,z_mean_FourBR,796037,mean,4,zillow
+2014-02-28,z_mean_FourBR,802550,mean,4,zillow
+2014-03-31,z_mean_FourBR,806366,mean,4,zillow
+2014-04-30,z_mean_FourBR,808221,mean,4,zillow
+2014-05-31,z_mean_FourBR,809416,mean,4,zillow
+2014-06-30,z_mean_FourBR,811203,mean,4,zillow
+2014-07-31,z_mean_FourBR,814965,mean,4,zillow
+2014-08-31,z_mean_FourBR,817238,mean,4,zillow
+2014-09-30,z_mean_FourBR,821262,mean,4,zillow
+2014-10-31,z_mean_FourBR,825426,mean,4,zillow
+2014-11-30,z_mean_FourBR,832856,mean,4,zillow
+2014-12-31,z_mean_FourBR,838568,mean,4,zillow
+2015-01-31,z_mean_FourBR,843747,mean,4,zillow
+2015-02-28,z_mean_FourBR,849766,mean,4,zillow
+2015-03-31,z_mean_FourBR,858807,mean,4,zillow
+2015-04-30,z_mean_FourBR,865972,mean,4,zillow
+2015-05-31,z_mean_FourBR,873800,mean,4,zillow
+2015-06-30,z_mean_FourBR,880231,mean,4,zillow
+2015-07-31,z_mean_FourBR,887467,mean,4,zillow
+2015-08-31,z_mean_FourBR,895109,mean,4,zillow
+2015-09-30,z_mean_FourBR,902836,mean,4,zillow
+2015-10-31,z_mean_FourBR,910519,mean,4,zillow
+2015-11-30,z_mean_FourBR,915974,mean,4,zillow
+2015-12-31,z_mean_FourBR,922970,mean,4,zillow
+2016-01-31,z_mean_FourBR,929722,mean,4,zillow
+2016-02-29,z_mean_FourBR,935406,mean,4,zillow
+2016-03-31,z_mean_FourBR,938342,mean,4,zillow
+2016-04-30,z_mean_FourBR,943846,mean,4,zillow
+2016-05-31,z_mean_FourBR,948264,mean,4,zillow
+2016-06-30,z_mean_FourBR,953592,mean,4,zillow
+2016-07-31,z_mean_FourBR,956072,mean,4,zillow
+2016-08-31,z_mean_FourBR,960877,mean,4,zillow
+2016-09-30,z_mean_FourBR,965642,mean,4,zillow
+2016-10-31,z_mean_FourBR,972031,mean,4,zillow
+2016-11-30,z_mean_FourBR,977114,mean,4,zillow
+2016-12-31,z_mean_FourBR,982467,mean,4,zillow
+2017-01-31,z_mean_FourBR,988079,mean,4,zillow
+2017-02-28,z_mean_FourBR,993971,mean,4,zillow
+2017-03-31,z_mean_FourBR,999866,mean,4,zillow
+2017-04-30,z_mean_FourBR,1005571,mean,4,zillow
+2017-05-31,z_mean_FourBR,1013247,mean,4,zillow
+2017-06-30,z_mean_FourBR,1021024,mean,4,zillow
+2017-07-31,z_mean_FourBR,1028535,mean,4,zillow
+2017-08-31,z_mean_FourBR,1035783,mean,4,zillow
+2017-09-30,z_mean_FourBR,1044504,mean,4,zillow
+2017-10-31,z_mean_FourBR,1054028,mean,4,zillow
+2017-11-30,z_mean_FourBR,1065905,mean,4,zillow
+2017-12-31,z_mean_FourBR,1077774,mean,4,zillow
+2018-01-31,z_mean_FourBR,1089470,mean,4,zillow
+2018-02-28,z_mean_FourBR,1100507,mean,4,zillow
+2018-03-31,z_mean_FourBR,1111891,mean,4,zillow
+2018-04-30,z_mean_FourBR,1121608,mean,4,zillow
+2018-05-31,z_mean_FourBR,1130732,mean,4,zillow
+2018-06-30,z_mean_FourBR,1139226,mean,4,zillow
+2018-07-31,z_mean_FourBR,1147076,mean,4,zillow
+2018-08-31,z_mean_FourBR,1151100,mean,4,zillow
+2018-09-30,z_mean_FourBR,1151667,mean,4,zillow
+2018-10-31,z_mean_FourBR,1151174,mean,4,zillow
+2018-11-30,z_mean_FourBR,1150382,mean,4,zillow
+2018-12-31,z_mean_FourBR,1147206,mean,4,zillow
+2019-01-31,z_mean_FourBR,1143944,mean,4,zillow
+2019-02-28,z_mean_FourBR,1139546,mean,4,zillow
+2019-03-31,z_mean_FourBR,1136440,mean,4,zillow
+2019-04-30,z_mean_FourBR,1137759,mean,4,zillow
+2019-05-31,z_mean_FourBR,1144830,mean,4,zillow
+2019-06-30,z_mean_FourBR,1152976,mean,4,zillow
+2019-07-31,z_mean_FourBR,1157092,mean,4,zillow
+2019-08-31,z_mean_FourBR,1157223,mean,4,zillow
+2019-09-30,z_mean_FourBR,1158906,mean,4,zillow
+2019-10-31,z_mean_FourBR,1161942,mean,4,zillow
+2019-11-30,z_mean_FourBR,1165874,mean,4,zillow
+2019-12-31,z_mean_FourBR,1171842,mean,4,zillow
+2020-01-31,z_mean_FourBR,1179014,mean,4,zillow
+2020-02-29,z_mean_FourBR,1187290,mean,4,zillow
+2020-03-31,z_mean_FourBR,1194888,mean,4,zillow
+2020-04-30,z_mean_FourBR,1200358,mean,4,zillow
+2020-05-31,z_mean_FourBR,1201844,mean,4,zillow
+2020-06-30,z_mean_FourBR,1203264,mean,4,zillow
+2020-07-31,z_mean_FourBR,1208862,mean,4,zillow
+2020-08-31,z_mean_FourBR,1219991,mean,4,zillow
+2020-09-30,z_mean_FourBR,1231936,mean,4,zillow
+2020-10-31,z_mean_FourBR,1243756,mean,4,zillow
+2020-11-30,z_mean_FourBR,1255089,mean,4,zillow
+2020-12-31,z_mean_FourBR,1266642,mean,4,zillow
+2015-12-31,p_median_OneBR,373819,median,1,HWES prediction
+2016-01-31,p_median_OneBR,375346,median,1,HWES prediction
+2016-02-29,p_median_OneBR,378120,median,1,HWES prediction
+2016-03-31,p_median_OneBR,379518,median,1,HWES prediction
+2016-04-30,p_median_OneBR,383240,median,1,HWES prediction
+2016-05-31,p_median_OneBR,384975,median,1,HWES prediction
+2016-06-30,p_median_OneBR,386461,median,1,HWES prediction
+2016-07-31,p_median_OneBR,389729,median,1,HWES prediction
+2016-08-31,p_median_OneBR,393412,median,1,HWES prediction
+2016-09-30,p_median_OneBR,396265,median,1,HWES prediction
+2016-10-31,p_median_OneBR,398702,median,1,HWES prediction
+2016-11-30,p_median_OneBR,401099,median,1,HWES prediction
+2016-12-31,p_median_OneBR,402538,median,1,HWES prediction
+2017-01-31,p_median_OneBR,403861,median,1,HWES prediction
+2017-02-28,p_median_OneBR,407296,median,1,HWES prediction
+2017-03-31,p_median_OneBR,410606,median,1,HWES prediction
+2017-04-30,p_median_OneBR,412241,median,1,HWES prediction
+2017-05-31,p_median_OneBR,415962,median,1,HWES prediction
+2017-06-30,p_median_OneBR,419682,median,1,HWES prediction
+2017-07-31,p_median_OneBR,423402,median,1,HWES prediction
+2017-08-31,p_median_OneBR,425887,median,1,HWES prediction
+2017-09-30,p_median_OneBR,427739,median,1,HWES prediction
+2017-10-31,p_median_OneBR,429668,median,1,HWES prediction
+2017-11-30,p_median_OneBR,431597,median,1,HWES prediction
+2017-12-31,p_median_OneBR,433198,median,1,HWES prediction
+2018-01-31,p_median_OneBR,434573,median,1,HWES prediction
+2018-02-28,p_median_OneBR,435948,median,1,HWES prediction
+2018-03-31,p_median_OneBR,437323,median,1,HWES prediction
+2018-04-30,p_median_OneBR,438705,median,1,HWES prediction
+2018-05-31,p_median_OneBR,442891,median,1,HWES prediction
+2018-06-30,p_median_OneBR,445103,median,1,HWES prediction
+2018-07-31,p_median_OneBR,447217,median,1,HWES prediction
+2018-08-31,p_median_OneBR,450162,median,1,HWES prediction
+2018-09-30,p_median_OneBR,454145,median,1,HWES prediction
+2018-10-31,p_median_OneBR,458129,median,1,HWES prediction
+2018-11-30,p_median_OneBR,462112,median,1,HWES prediction
+2018-12-31,p_median_OneBR,464350,median,1,HWES prediction
+2019-01-31,p_median_OneBR,468568,median,1,HWES prediction
+2019-02-28,p_median_OneBR,471247,median,1,HWES prediction
+2019-03-31,p_median_OneBR,473324,median,1,HWES prediction
+2019-04-30,p_median_OneBR,475401,median,1,HWES prediction
+2019-05-31,p_median_OneBR,477629,median,1,HWES prediction
+2019-06-30,p_median_OneBR,481152,median,1,HWES prediction
+2019-07-31,p_median_OneBR,484160,median,1,HWES prediction
+2019-08-31,p_median_OneBR,485200,median,1,HWES prediction
+2019-09-30,p_median_OneBR,486800,median,1,HWES prediction
+2019-10-31,p_median_OneBR,490249,median,1,HWES prediction
+2019-11-30,p_median_OneBR,492264,median,1,HWES prediction
+2019-12-31,p_median_OneBR,493699,median,1,HWES prediction
+2020-01-31,p_median_OneBR,495704,median,1,HWES prediction
+2020-02-29,p_median_OneBR,497421,median,1,HWES prediction
+2020-03-31,p_median_OneBR,498248,median,1,HWES prediction
+2020-04-30,p_median_OneBR,500908,median,1,HWES prediction
+2020-05-31,p_median_OneBR,504162,median,1,HWES prediction
+2020-06-30,p_median_OneBR,506715,median,1,HWES prediction
+2020-07-31,p_median_OneBR,509099,median,1,HWES prediction
+2020-08-31,p_median_OneBR,512771,median,1,HWES prediction
+2020-09-30,p_median_OneBR,517179,median,1,HWES prediction
+2020-10-31,p_median_OneBR,520434,median,1,HWES prediction
+2020-11-30,p_median_OneBR,523688,median,1,HWES prediction
+2020-12-31,p_median_OneBR,526768,median,1,HWES prediction
+2015-12-31,p_median_TwoBR,479811,median,2,HWES prediction
+2016-01-31,p_median_TwoBR,480820,median,2,HWES prediction
+2016-02-29,p_median_TwoBR,484138,median,2,HWES prediction
+2016-03-31,p_median_TwoBR,488222,median,2,HWES prediction
+2016-04-30,p_median_TwoBR,492306,median,2,HWES prediction
+2016-05-31,p_median_TwoBR,496144,median,2,HWES prediction
+2016-06-30,p_median_TwoBR,500475,median,2,HWES prediction
+2016-07-31,p_median_TwoBR,501416,median,2,HWES prediction
+2016-08-31,p_median_TwoBR,502684,median,2,HWES prediction
+2016-09-30,p_median_TwoBR,505878,median,2,HWES prediction
+2016-10-31,p_median_TwoBR,509071,median,2,HWES prediction
+2016-11-30,p_median_TwoBR,512202,median,2,HWES prediction
+2016-12-31,p_median_TwoBR,515458,median,2,HWES prediction
+2017-01-31,p_median_TwoBR,519291,median,2,HWES prediction
+2017-02-28,p_median_TwoBR,523480,median,2,HWES prediction
+2017-03-31,p_median_TwoBR,527569,median,2,HWES prediction
+2017-04-30,p_median_TwoBR,529416,median,2,HWES prediction
+2017-05-31,p_median_TwoBR,533530,median,2,HWES prediction
+2017-06-30,p_median_TwoBR,536251,median,2,HWES prediction
+2017-07-31,p_median_TwoBR,537812,median,2,HWES prediction
+2017-08-31,p_median_TwoBR,541006,median,2,HWES prediction
+2017-09-30,p_median_TwoBR,542890,median,2,HWES prediction
+2017-10-31,p_median_TwoBR,544146,median,2,HWES prediction
+2017-11-30,p_median_TwoBR,547928,median,2,HWES prediction
+2017-12-31,p_median_TwoBR,550036,median,2,HWES prediction
+2018-01-31,p_median_TwoBR,552931,median,2,HWES prediction
+2018-02-28,p_median_TwoBR,555001,median,2,HWES prediction
+2018-03-31,p_median_TwoBR,557300,median,2,HWES prediction
+2018-04-30,p_median_TwoBR,561360,median,2,HWES prediction
+2018-05-31,p_median_TwoBR,564381,median,2,HWES prediction
+2018-06-30,p_median_TwoBR,566941,median,2,HWES prediction
+2018-07-31,p_median_TwoBR,572333,median,2,HWES prediction
+2018-08-31,p_median_TwoBR,576686,median,2,HWES prediction
+2018-09-30,p_median_TwoBR,578537,median,2,HWES prediction
+2018-10-31,p_median_TwoBR,580500,median,2,HWES prediction
+2018-11-30,p_median_TwoBR,584091,median,2,HWES prediction
+2018-12-31,p_median_TwoBR,587683,median,2,HWES prediction
+2019-01-31,p_median_TwoBR,591274,median,2,HWES prediction
+2019-02-28,p_median_TwoBR,594540,median,2,HWES prediction
+2019-03-31,p_median_TwoBR,596803,median,2,HWES prediction
+2019-04-30,p_median_TwoBR,600513,median,2,HWES prediction
+2019-05-31,p_median_TwoBR,604222,median,2,HWES prediction
+2019-06-30,p_median_TwoBR,607932,median,2,HWES prediction
+2019-07-31,p_median_TwoBR,611642,median,2,HWES prediction
+2019-08-31,p_median_TwoBR,615352,median,2,HWES prediction
+2019-09-30,p_median_TwoBR,619061,median,2,HWES prediction
+2019-10-31,p_median_TwoBR,622942,median,2,HWES prediction
+2019-11-30,p_median_TwoBR,626481,median,2,HWES prediction
+2019-12-31,p_median_TwoBR,628787,median,2,HWES prediction
+2020-01-31,p_median_TwoBR,632479,median,2,HWES prediction
+2020-02-29,p_median_TwoBR,636809,median,2,HWES prediction
+2020-03-31,p_median_TwoBR,639906,median,2,HWES prediction
+2020-04-30,p_median_TwoBR,642522,median,2,HWES prediction
+2020-05-31,p_median_TwoBR,645788,median,2,HWES prediction
+2020-06-30,p_median_TwoBR,648075,median,2,HWES prediction
+2020-07-31,p_median_TwoBR,650362,median,2,HWES prediction
+2020-08-31,p_median_TwoBR,652649,median,2,HWES prediction
+2020-09-30,p_median_TwoBR,654937,median,2,HWES prediction
+2020-10-31,p_median_TwoBR,657224,median,2,HWES prediction
+2020-11-30,p_median_TwoBR,659511,median,2,HWES prediction
+2020-12-31,p_median_TwoBR,661798,median,2,HWES prediction
+2015-12-31,p_median_ThreeBR,640426,median,3,HWES prediction
+2016-01-31,p_median_ThreeBR,641981,median,3,HWES prediction
+2016-02-29,p_median_ThreeBR,646610,median,3,HWES prediction
+2016-03-31,p_median_ThreeBR,648375,median,3,HWES prediction
+2016-04-30,p_median_ThreeBR,650892,median,3,HWES prediction
+2016-05-31,p_median_ThreeBR,654027,median,3,HWES prediction
+2016-06-30,p_median_ThreeBR,657162,median,3,HWES prediction
+2016-07-31,p_median_ThreeBR,662715,median,3,HWES prediction
+2016-08-31,p_median_ThreeBR,665735,median,3,HWES prediction
+2016-09-30,p_median_ThreeBR,668756,median,3,HWES prediction
+2016-10-31,p_median_ThreeBR,671777,median,3,HWES prediction
+2016-11-30,p_median_ThreeBR,674798,median,3,HWES prediction
+2016-12-31,p_median_ThreeBR,678217,median,3,HWES prediction
+2017-01-31,p_median_ThreeBR,685739,median,3,HWES prediction
+2017-02-28,p_median_ThreeBR,692096,median,3,HWES prediction
+2017-03-31,p_median_ThreeBR,695017,median,3,HWES prediction
+2017-04-30,p_median_ThreeBR,699141,median,3,HWES prediction
+2017-05-31,p_median_ThreeBR,701856,median,3,HWES prediction
+2017-06-30,p_median_ThreeBR,704330,median,3,HWES prediction
+2017-07-31,p_median_ThreeBR,706803,median,3,HWES prediction
+2017-08-31,p_median_ThreeBR,709618,median,3,HWES prediction
+2017-09-30,p_median_ThreeBR,711904,median,3,HWES prediction
+2017-10-31,p_median_ThreeBR,714223,median,3,HWES prediction
+2017-11-30,p_median_ThreeBR,718378,median,3,HWES prediction
+2017-12-31,p_median_ThreeBR,721299,median,3,HWES prediction
+2018-01-31,p_median_ThreeBR,724219,median,3,HWES prediction
+2018-02-28,p_median_ThreeBR,727139,median,3,HWES prediction
+2018-03-31,p_median_ThreeBR,730059,median,3,HWES prediction
+2018-04-30,p_median_ThreeBR,733747,median,3,HWES prediction
+2018-05-31,p_median_ThreeBR,739285,median,3,HWES prediction
+2018-06-30,p_median_ThreeBR,744823,median,3,HWES prediction
+2018-07-31,p_median_ThreeBR,750361,median,3,HWES prediction
+2018-08-31,p_median_ThreeBR,755899,median,3,HWES prediction
+2018-09-30,p_median_ThreeBR,758193,median,3,HWES prediction
+2018-10-31,p_median_ThreeBR,764328,median,3,HWES prediction
+2018-11-30,p_median_ThreeBR,767647,median,3,HWES prediction
+2018-12-31,p_median_ThreeBR,770966,median,3,HWES prediction
+2019-01-31,p_median_ThreeBR,774285,median,3,HWES prediction
+2019-02-28,p_median_ThreeBR,777678,median,3,HWES prediction
+2019-03-31,p_median_ThreeBR,780923,median,3,HWES prediction
+2019-04-30,p_median_ThreeBR,783260,median,3,HWES prediction
+2019-05-31,p_median_ThreeBR,785362,median,3,HWES prediction
+2019-06-30,p_median_ThreeBR,788817,median,3,HWES prediction
+2019-07-31,p_median_ThreeBR,792837,median,3,HWES prediction
+2019-08-31,p_median_ThreeBR,796858,median,3,HWES prediction
+2019-09-30,p_median_ThreeBR,800837,median,3,HWES prediction
+2019-10-31,p_median_ThreeBR,803391,median,3,HWES prediction
+2019-11-30,p_median_ThreeBR,805396,median,3,HWES prediction
+2019-12-31,p_median_ThreeBR,810050,median,3,HWES prediction
+2020-01-31,p_median_ThreeBR,813320,median,3,HWES prediction
+2020-02-29,p_median_ThreeBR,815540,median,3,HWES prediction
+2020-03-31,p_median_ThreeBR,818594,median,3,HWES prediction
+2020-04-30,p_median_ThreeBR,822752,median,3,HWES prediction
+2020-05-31,p_median_ThreeBR,827390,median,3,HWES prediction
+2020-06-30,p_median_ThreeBR,830709,median,3,HWES prediction
+2020-07-31,p_median_ThreeBR,834623,median,3,HWES prediction
+2020-08-31,p_median_ThreeBR,837347,median,3,HWES prediction
+2020-09-30,p_median_ThreeBR,840666,median,3,HWES prediction
+2020-10-31,p_median_ThreeBR,843985,median,3,HWES prediction
+2020-11-30,p_median_ThreeBR,847304,median,3,HWES prediction
+2020-12-31,p_median_ThreeBR,850623,median,3,HWES prediction
+2015-12-31,p_median_FourBR,766723,median,4,HWES prediction
+2016-01-31,p_median_FourBR,770368,median,4,HWES prediction
+2016-02-29,p_median_FourBR,779392,median,4,HWES prediction
+2016-03-31,p_median_FourBR,787174,median,4,HWES prediction
+2016-04-30,p_median_FourBR,791862,median,4,HWES prediction
+2016-05-31,p_median_FourBR,796378,median,4,HWES prediction
+2016-06-30,p_median_FourBR,797554,median,4,HWES prediction
+2016-07-31,p_median_FourBR,804848,median,4,HWES prediction
+2016-08-31,p_median_FourBR,807743,median,4,HWES prediction
+2016-09-30,p_median_FourBR,810638,median,4,HWES prediction
+2016-10-31,p_median_FourBR,813700,median,4,HWES prediction
+2016-11-30,p_median_FourBR,818946,median,4,HWES prediction
+2016-12-31,p_median_FourBR,824191,median,4,HWES prediction
+2017-01-31,p_median_FourBR,829437,median,4,HWES prediction
+2017-02-28,p_median_FourBR,834683,median,4,HWES prediction
+2017-03-31,p_median_FourBR,839929,median,4,HWES prediction
+2017-04-30,p_median_FourBR,842521,median,4,HWES prediction
+2017-05-31,p_median_FourBR,843065,median,4,HWES prediction
+2017-06-30,p_median_FourBR,850977,median,4,HWES prediction
+2017-07-31,p_median_FourBR,858888,median,4,HWES prediction
+2017-08-31,p_median_FourBR,864128,median,4,HWES prediction
+2017-09-30,p_median_FourBR,868645,median,4,HWES prediction
+2017-10-31,p_median_FourBR,871625,median,4,HWES prediction
+2017-11-30,p_median_FourBR,875532,median,4,HWES prediction
+2017-12-31,p_median_FourBR,877395,median,4,HWES prediction
+2018-01-31,p_median_FourBR,881205,median,4,HWES prediction
+2018-02-28,p_median_FourBR,886260,median,4,HWES prediction
+2018-03-31,p_median_FourBR,889585,median,4,HWES prediction
+2018-04-30,p_median_FourBR,892909,median,4,HWES prediction
+2018-05-31,p_median_FourBR,896233,median,4,HWES prediction
+2018-06-30,p_median_FourBR,899557,median,4,HWES prediction
+2018-07-31,p_median_FourBR,904057,median,4,HWES prediction
+2018-08-31,p_median_FourBR,910884,median,4,HWES prediction
+2018-09-30,p_median_FourBR,918286,median,4,HWES prediction
+2018-10-31,p_median_FourBR,925688,median,4,HWES prediction
+2018-11-30,p_median_FourBR,931877,median,4,HWES prediction
+2018-12-31,p_median_FourBR,936394,median,4,HWES prediction
+2019-01-31,p_median_FourBR,941910,median,4,HWES prediction
+2019-02-28,p_median_FourBR,945857,median,4,HWES prediction
+2019-03-31,p_median_FourBR,949944,median,4,HWES prediction
+2019-04-30,p_median_FourBR,954461,median,4,HWES prediction
+2019-05-31,p_median_FourBR,958977,median,4,HWES prediction
+2019-06-30,p_median_FourBR,963494,median,4,HWES prediction
+2019-07-31,p_median_FourBR,968011,median,4,HWES prediction
+2019-08-31,p_median_FourBR,972093,median,4,HWES prediction
+2019-09-30,p_median_FourBR,976049,median,4,HWES prediction
+2019-10-31,p_median_FourBR,980005,median,4,HWES prediction
+2019-11-30,p_median_FourBR,983961,median,4,HWES prediction
+2019-12-31,p_median_FourBR,987917,median,4,HWES prediction
+2020-01-31,p_median_FourBR,991873,median,4,HWES prediction
+2020-02-29,p_median_FourBR,993883,median,4,HWES prediction
+2020-03-31,p_median_FourBR,994947,median,4,HWES prediction
+2020-04-30,p_median_FourBR,996010,median,4,HWES prediction
+2020-05-31,p_median_FourBR,997074,median,4,HWES prediction
+2020-06-30,p_median_FourBR,998137,median,4,HWES prediction
+2020-07-31,p_median_FourBR,999201,median,4,HWES prediction
+2020-08-31,p_median_FourBR,1001034,median,4,HWES prediction
+2020-09-30,p_median_FourBR,1004099,median,4,HWES prediction
+2020-10-31,p_median_FourBR,1007165,median,4,HWES prediction
+2020-11-30,p_median_FourBR,1009184,median,4,HWES prediction
+2020-12-31,p_median_FourBR,1013295,median,4,HWES prediction
+2015-12-31,p_mean_OneBR,420297,mean,1,HWES prediction
+2016-01-31,p_mean_OneBR,423232,mean,1,HWES prediction
+2016-02-29,p_mean_OneBR,426472,mean,1,HWES prediction
+2016-03-31,p_mean_OneBR,429711,mean,1,HWES prediction
+2016-04-30,p_mean_OneBR,432951,mean,1,HWES prediction
+2016-05-31,p_mean_OneBR,436191,mean,1,HWES prediction
+2016-06-30,p_mean_OneBR,439431,mean,1,HWES prediction
+2016-07-31,p_mean_OneBR,442670,mean,1,HWES prediction
+2016-08-31,p_mean_OneBR,445910,mean,1,HWES prediction
+2016-09-30,p_mean_OneBR,449150,mean,1,HWES prediction
+2016-10-31,p_mean_OneBR,452390,mean,1,HWES prediction
+2016-11-30,p_mean_OneBR,455629,mean,1,HWES prediction
+2016-12-31,p_mean_OneBR,458869,mean,1,HWES prediction
+2017-01-31,p_mean_OneBR,462109,mean,1,HWES prediction
+2017-02-28,p_mean_OneBR,465349,mean,1,HWES prediction
+2017-03-31,p_mean_OneBR,468588,mean,1,HWES prediction
+2017-04-30,p_mean_OneBR,471828,mean,1,HWES prediction
+2017-05-31,p_mean_OneBR,475068,mean,1,HWES prediction
+2017-06-30,p_mean_OneBR,478308,mean,1,HWES prediction
+2017-07-31,p_mean_OneBR,481547,mean,1,HWES prediction
+2017-08-31,p_mean_OneBR,484787,mean,1,HWES prediction
+2017-09-30,p_mean_OneBR,488027,mean,1,HWES prediction
+2017-10-31,p_mean_OneBR,491266,mean,1,HWES prediction
+2017-11-30,p_mean_OneBR,494506,mean,1,HWES prediction
+2017-12-31,p_mean_OneBR,497746,mean,1,HWES prediction
+2018-01-31,p_mean_OneBR,500986,mean,1,HWES prediction
+2018-02-28,p_mean_OneBR,504225,mean,1,HWES prediction
+2018-03-31,p_mean_OneBR,507465,mean,1,HWES prediction
+2018-04-30,p_mean_OneBR,510705,mean,1,HWES prediction
+2018-05-31,p_mean_OneBR,513945,mean,1,HWES prediction
+2018-06-30,p_mean_OneBR,517184,mean,1,HWES prediction
+2018-07-31,p_mean_OneBR,520424,mean,1,HWES prediction
+2018-08-31,p_mean_OneBR,523664,mean,1,HWES prediction
+2018-09-30,p_mean_OneBR,526904,mean,1,HWES prediction
+2018-10-31,p_mean_OneBR,530143,mean,1,HWES prediction
+2018-11-30,p_mean_OneBR,533383,mean,1,HWES prediction
+2018-12-31,p_mean_OneBR,536623,mean,1,HWES prediction
+2019-01-31,p_mean_OneBR,539863,mean,1,HWES prediction
+2019-02-28,p_mean_OneBR,543102,mean,1,HWES prediction
+2019-03-31,p_mean_OneBR,546342,mean,1,HWES prediction
+2019-04-30,p_mean_OneBR,549582,mean,1,HWES prediction
+2019-05-31,p_mean_OneBR,552822,mean,1,HWES prediction
+2019-06-30,p_mean_OneBR,556061,mean,1,HWES prediction
+2019-07-31,p_mean_OneBR,559301,mean,1,HWES prediction
+2019-08-31,p_mean_OneBR,562541,mean,1,HWES prediction
+2019-09-30,p_mean_OneBR,565780,mean,1,HWES prediction
+2019-10-31,p_mean_OneBR,569020,mean,1,HWES prediction
+2019-11-30,p_mean_OneBR,572260,mean,1,HWES prediction
+2019-12-31,p_mean_OneBR,575500,mean,1,HWES prediction
+2020-01-31,p_mean_OneBR,578739,mean,1,HWES prediction
+2020-02-29,p_mean_OneBR,581979,mean,1,HWES prediction
+2020-03-31,p_mean_OneBR,585219,mean,1,HWES prediction
+2020-04-30,p_mean_OneBR,588459,mean,1,HWES prediction
+2020-05-31,p_mean_OneBR,591698,mean,1,HWES prediction
+2020-06-30,p_mean_OneBR,594938,mean,1,HWES prediction
+2020-07-31,p_mean_OneBR,598178,mean,1,HWES prediction
+2020-08-31,p_mean_OneBR,601418,mean,1,HWES prediction
+2020-09-30,p_mean_OneBR,604657,mean,1,HWES prediction
+2020-10-31,p_mean_OneBR,607897,mean,1,HWES prediction
+2020-11-30,p_mean_OneBR,611137,mean,1,HWES prediction
+2020-12-31,p_mean_OneBR,614377,mean,1,HWES prediction
+2015-12-31,p_mean_TwoBR,547332,mean,2,HWES prediction
+2016-01-31,p_mean_TwoBR,551104,mean,2,HWES prediction
+2016-02-29,p_mean_TwoBR,555170,mean,2,HWES prediction
+2016-03-31,p_mean_TwoBR,559236,mean,2,HWES prediction
+2016-04-30,p_mean_TwoBR,563303,mean,2,HWES prediction
+2016-05-31,p_mean_TwoBR,567369,mean,2,HWES prediction
+2016-06-30,p_mean_TwoBR,571435,mean,2,HWES prediction
+2016-07-31,p_mean_TwoBR,575502,mean,2,HWES prediction
+2016-08-31,p_mean_TwoBR,579568,mean,2,HWES prediction
+2016-09-30,p_mean_TwoBR,583634,mean,2,HWES prediction
+2016-10-31,p_mean_TwoBR,587701,mean,2,HWES prediction
+2016-11-30,p_mean_TwoBR,591767,mean,2,HWES prediction
+2016-12-31,p_mean_TwoBR,595833,mean,2,HWES prediction
+2017-01-31,p_mean_TwoBR,599900,mean,2,HWES prediction
+2017-02-28,p_mean_TwoBR,603966,mean,2,HWES prediction
+2017-03-31,p_mean_TwoBR,608032,mean,2,HWES prediction
+2017-04-30,p_mean_TwoBR,612099,mean,2,HWES prediction
+2017-05-31,p_mean_TwoBR,616165,mean,2,HWES prediction
+2017-06-30,p_mean_TwoBR,620231,mean,2,HWES prediction
+2017-07-31,p_mean_TwoBR,624298,mean,2,HWES prediction
+2017-08-31,p_mean_TwoBR,628364,mean,2,HWES prediction
+2017-09-30,p_mean_TwoBR,632430,mean,2,HWES prediction
+2017-10-31,p_mean_TwoBR,636497,mean,2,HWES prediction
+2017-11-30,p_mean_TwoBR,640563,mean,2,HWES prediction
+2017-12-31,p_mean_TwoBR,644629,mean,2,HWES prediction
+2018-01-31,p_mean_TwoBR,648696,mean,2,HWES prediction
+2018-02-28,p_mean_TwoBR,652762,mean,2,HWES prediction
+2018-03-31,p_mean_TwoBR,656828,mean,2,HWES prediction
+2018-04-30,p_mean_TwoBR,660895,mean,2,HWES prediction
+2018-05-31,p_mean_TwoBR,664961,mean,2,HWES prediction
+2018-06-30,p_mean_TwoBR,669027,mean,2,HWES prediction
+2018-07-31,p_mean_TwoBR,673094,mean,2,HWES prediction
+2018-08-31,p_mean_TwoBR,677160,mean,2,HWES prediction
+2018-09-30,p_mean_TwoBR,681226,mean,2,HWES prediction
+2018-10-31,p_mean_TwoBR,685293,mean,2,HWES prediction
+2018-11-30,p_mean_TwoBR,689359,mean,2,HWES prediction
+2018-12-31,p_mean_TwoBR,693425,mean,2,HWES prediction
+2019-01-31,p_mean_TwoBR,697492,mean,2,HWES prediction
+2019-02-28,p_mean_TwoBR,701558,mean,2,HWES prediction
+2019-03-31,p_mean_TwoBR,705624,mean,2,HWES prediction
+2019-04-30,p_mean_TwoBR,709691,mean,2,HWES prediction
+2019-05-31,p_mean_TwoBR,713757,mean,2,HWES prediction
+2019-06-30,p_mean_TwoBR,717823,mean,2,HWES prediction
+2019-07-31,p_mean_TwoBR,721890,mean,2,HWES prediction
+2019-08-31,p_mean_TwoBR,725956,mean,2,HWES prediction
+2019-09-30,p_mean_TwoBR,730023,mean,2,HWES prediction
+2019-10-31,p_mean_TwoBR,734089,mean,2,HWES prediction
+2019-11-30,p_mean_TwoBR,738155,mean,2,HWES prediction
+2019-12-31,p_mean_TwoBR,742221,mean,2,HWES prediction
+2020-01-31,p_mean_TwoBR,746288,mean,2,HWES prediction
+2020-02-29,p_mean_TwoBR,750354,mean,2,HWES prediction
+2020-03-31,p_mean_TwoBR,754421,mean,2,HWES prediction
+2020-04-30,p_mean_TwoBR,758487,mean,2,HWES prediction
+2020-05-31,p_mean_TwoBR,762553,mean,2,HWES prediction
+2020-06-30,p_mean_TwoBR,766620,mean,2,HWES prediction
+2020-07-31,p_mean_TwoBR,770686,mean,2,HWES prediction
+2020-08-31,p_mean_TwoBR,774752,mean,2,HWES prediction
+2020-09-30,p_mean_TwoBR,778819,mean,2,HWES prediction
+2020-10-31,p_mean_TwoBR,782885,mean,2,HWES prediction
+2020-11-30,p_mean_TwoBR,786951,mean,2,HWES prediction
+2020-12-31,p_mean_TwoBR,791018,mean,2,HWES prediction
+2015-12-31,p_mean_ThreeBR,727469,mean,3,HWES prediction
+2016-01-31,p_mean_ThreeBR,732326,mean,3,HWES prediction
+2016-02-29,p_mean_ThreeBR,737658,mean,3,HWES prediction
+2016-03-31,p_mean_ThreeBR,742990,mean,3,HWES prediction
+2016-04-30,p_mean_ThreeBR,748323,mean,3,HWES prediction
+2016-05-31,p_mean_ThreeBR,753655,mean,3,HWES prediction
+2016-06-30,p_mean_ThreeBR,758987,mean,3,HWES prediction
+2016-07-31,p_mean_ThreeBR,764320,mean,3,HWES prediction
+2016-08-31,p_mean_ThreeBR,769652,mean,3,HWES prediction
+2016-09-30,p_mean_ThreeBR,774984,mean,3,HWES prediction
+2016-10-31,p_mean_ThreeBR,780317,mean,3,HWES prediction
+2016-11-30,p_mean_ThreeBR,785649,mean,3,HWES prediction
+2016-12-31,p_mean_ThreeBR,790981,mean,3,HWES prediction
+2017-01-31,p_mean_ThreeBR,796313,mean,3,HWES prediction
+2017-02-28,p_mean_ThreeBR,801646,mean,3,HWES prediction
+2017-03-31,p_mean_ThreeBR,806978,mean,3,HWES prediction
+2017-04-30,p_mean_ThreeBR,812310,mean,3,HWES prediction
+2017-05-31,p_mean_ThreeBR,817643,mean,3,HWES prediction
+2017-06-30,p_mean_ThreeBR,822975,mean,3,HWES prediction
+2017-07-31,p_mean_ThreeBR,828307,mean,3,HWES prediction
+2017-08-31,p_mean_ThreeBR,833640,mean,3,HWES prediction
+2017-09-30,p_mean_ThreeBR,838972,mean,3,HWES prediction
+2017-10-31,p_mean_ThreeBR,844304,mean,3,HWES prediction
+2017-11-30,p_mean_ThreeBR,849637,mean,3,HWES prediction
+2017-12-31,p_mean_ThreeBR,854969,mean,3,HWES prediction
+2018-01-31,p_mean_ThreeBR,860301,mean,3,HWES prediction
+2018-02-28,p_mean_ThreeBR,865634,mean,3,HWES prediction
+2018-03-31,p_mean_ThreeBR,870966,mean,3,HWES prediction
+2018-04-30,p_mean_ThreeBR,876298,mean,3,HWES prediction
+2018-05-31,p_mean_ThreeBR,881630,mean,3,HWES prediction
+2018-06-30,p_mean_ThreeBR,886963,mean,3,HWES prediction
+2018-07-31,p_mean_ThreeBR,892295,mean,3,HWES prediction
+2018-08-31,p_mean_ThreeBR,897627,mean,3,HWES prediction
+2018-09-30,p_mean_ThreeBR,902960,mean,3,HWES prediction
+2018-10-31,p_mean_ThreeBR,908292,mean,3,HWES prediction
+2018-11-30,p_mean_ThreeBR,913624,mean,3,HWES prediction
+2018-12-31,p_mean_ThreeBR,918957,mean,3,HWES prediction
+2019-01-31,p_mean_ThreeBR,924289,mean,3,HWES prediction
+2019-02-28,p_mean_ThreeBR,929621,mean,3,HWES prediction
+2019-03-31,p_mean_ThreeBR,934954,mean,3,HWES prediction
+2019-04-30,p_mean_ThreeBR,940286,mean,3,HWES prediction
+2019-05-31,p_mean_ThreeBR,945618,mean,3,HWES prediction
+2019-06-30,p_mean_ThreeBR,950951,mean,3,HWES prediction
+2019-07-31,p_mean_ThreeBR,956283,mean,3,HWES prediction
+2019-08-31,p_mean_ThreeBR,961615,mean,3,HWES prediction
+2019-09-30,p_mean_ThreeBR,966947,mean,3,HWES prediction
+2019-10-31,p_mean_ThreeBR,972280,mean,3,HWES prediction
+2019-11-30,p_mean_ThreeBR,977612,mean,3,HWES prediction
+2019-12-31,p_mean_ThreeBR,982944,mean,3,HWES prediction
+2020-01-31,p_mean_ThreeBR,988277,mean,3,HWES prediction
+2020-02-29,p_mean_ThreeBR,993609,mean,3,HWES prediction
+2020-03-31,p_mean_ThreeBR,998941,mean,3,HWES prediction
+2020-04-30,p_mean_ThreeBR,1004274,mean,3,HWES prediction
+2020-05-31,p_mean_ThreeBR,1009606,mean,3,HWES prediction
+2020-06-30,p_mean_ThreeBR,1014938,mean,3,HWES prediction
+2020-07-31,p_mean_ThreeBR,1020271,mean,3,HWES prediction
+2020-08-31,p_mean_ThreeBR,1025603,mean,3,HWES prediction
+2020-09-30,p_mean_ThreeBR,1030935,mean,3,HWES prediction
+2020-10-31,p_mean_ThreeBR,1036268,mean,3,HWES prediction
+2020-11-30,p_mean_ThreeBR,1041600,mean,3,HWES prediction
+2020-12-31,p_mean_ThreeBR,1046932,mean,3,HWES prediction
+2015-12-31,p_mean_FourBR,922970,mean,4,HWES prediction
+2016-01-31,p_mean_FourBR,929229,mean,4,HWES prediction
+2016-02-29,p_mean_FourBR,935879,mean,4,HWES prediction
+2016-03-31,p_mean_FourBR,942528,mean,4,HWES prediction
+2016-04-30,p_mean_FourBR,949178,mean,4,HWES prediction
+2016-05-31,p_mean_FourBR,955827,mean,4,HWES prediction
+2016-06-30,p_mean_FourBR,962477,mean,4,HWES prediction
+2016-07-31,p_mean_FourBR,969126,mean,4,HWES prediction
+2016-08-31,p_mean_FourBR,975776,mean,4,HWES prediction
+2016-09-30,p_mean_FourBR,982425,mean,4,HWES prediction
+2016-10-31,p_mean_FourBR,989075,mean,4,HWES prediction
+2016-11-30,p_mean_FourBR,995724,mean,4,HWES prediction
+2016-12-31,p_mean_FourBR,1002374,mean,4,HWES prediction
+2017-01-31,p_mean_FourBR,1009023,mean,4,HWES prediction
+2017-02-28,p_mean_FourBR,1015673,mean,4,HWES prediction
+2017-03-31,p_mean_FourBR,1022322,mean,4,HWES prediction
+2017-04-30,p_mean_FourBR,1028972,mean,4,HWES prediction
+2017-05-31,p_mean_FourBR,1035622,mean,4,HWES prediction
+2017-06-30,p_mean_FourBR,1042271,mean,4,HWES prediction
+2017-07-31,p_mean_FourBR,1048921,mean,4,HWES prediction
+2017-08-31,p_mean_FourBR,1055570,mean,4,HWES prediction
+2017-09-30,p_mean_FourBR,1062220,mean,4,HWES prediction
+2017-10-31,p_mean_FourBR,1068869,mean,4,HWES prediction
+2017-11-30,p_mean_FourBR,1075519,mean,4,HWES prediction
+2017-12-31,p_mean_FourBR,1082168,mean,4,HWES prediction
+2018-01-31,p_mean_FourBR,1088818,mean,4,HWES prediction
+2018-02-28,p_mean_FourBR,1095467,mean,4,HWES prediction
+2018-03-31,p_mean_FourBR,1102117,mean,4,HWES prediction
+2018-04-30,p_mean_FourBR,1108766,mean,4,HWES prediction
+2018-05-31,p_mean_FourBR,1115416,mean,4,HWES prediction
+2018-06-30,p_mean_FourBR,1122065,mean,4,HWES prediction
+2018-07-31,p_mean_FourBR,1128715,mean,4,HWES prediction
+2018-08-31,p_mean_FourBR,1135364,mean,4,HWES prediction
+2018-09-30,p_mean_FourBR,1142014,mean,4,HWES prediction
+2018-10-31,p_mean_FourBR,1148663,mean,4,HWES prediction
+2018-11-30,p_mean_FourBR,1155313,mean,4,HWES prediction
+2018-12-31,p_mean_FourBR,1161963,mean,4,HWES prediction
+2019-01-31,p_mean_FourBR,1168612,mean,4,HWES prediction
+2019-02-28,p_mean_FourBR,1175262,mean,4,HWES prediction
+2019-03-31,p_mean_FourBR,1181911,mean,4,HWES prediction
+2019-04-30,p_mean_FourBR,1188561,mean,4,HWES prediction
+2019-05-31,p_mean_FourBR,1195210,mean,4,HWES prediction
+2019-06-30,p_mean_FourBR,1201860,mean,4,HWES prediction
+2019-07-31,p_mean_FourBR,1208509,mean,4,HWES prediction
+2019-08-31,p_mean_FourBR,1215159,mean,4,HWES prediction
+2019-09-30,p_mean_FourBR,1221808,mean,4,HWES prediction
+2019-10-31,p_mean_FourBR,1228458,mean,4,HWES prediction
+2019-11-30,p_mean_FourBR,1235107,mean,4,HWES prediction
+2019-12-31,p_mean_FourBR,1241757,mean,4,HWES prediction
+2020-01-31,p_mean_FourBR,1248406,mean,4,HWES prediction
+2020-02-29,p_mean_FourBR,1255056,mean,4,HWES prediction
+2020-03-31,p_mean_FourBR,1261705,mean,4,HWES prediction
+2020-04-30,p_mean_FourBR,1268355,mean,4,HWES prediction
+2020-05-31,p_mean_FourBR,1275004,mean,4,HWES prediction
+2020-06-30,p_mean_FourBR,1281654,mean,4,HWES prediction
+2020-07-31,p_mean_FourBR,1288303,mean,4,HWES prediction
+2020-08-31,p_mean_FourBR,1294953,mean,4,HWES prediction
+2020-09-30,p_mean_FourBR,1301603,mean,4,HWES prediction
+2020-10-31,p_mean_FourBR,1308252,mean,4,HWES prediction
+2020-11-30,p_mean_FourBR,1314902,mean,4,HWES prediction
+2020-12-31,p_mean_FourBR,1321551,mean,4,HWES prediction
+2020-12-31,f_median_OneBR,493525,median,1,HWES forecast
+2021-01-31,f_median_OneBR,495162,median,1,HWES forecast
+2021-02-28,f_median_OneBR,497645,median,1,HWES forecast
+2021-03-31,f_median_OneBR,503831,median,1,HWES forecast
+2021-04-30,f_median_OneBR,504445,median,1,HWES forecast
+2021-05-31,f_median_OneBR,506906,median,1,HWES forecast
+2021-06-30,f_median_OneBR,509993,median,1,HWES forecast
+2021-07-31,f_median_OneBR,513080,median,1,HWES forecast
+2021-08-31,f_median_OneBR,516167,median,1,HWES forecast
+2021-09-30,f_median_OneBR,519254,median,1,HWES forecast
+2021-10-31,f_median_OneBR,524188,median,1,HWES forecast
+2021-11-30,f_median_OneBR,525695,median,1,HWES forecast
+2021-12-31,f_median_OneBR,529120,median,1,HWES forecast
+2022-01-31,f_median_OneBR,532123,median,1,HWES forecast
+2022-02-28,f_median_OneBR,536801,median,1,HWES forecast
+2022-03-31,f_median_OneBR,540503,median,1,HWES forecast
+2022-04-30,f_median_OneBR,544205,median,1,HWES forecast
+2022-05-31,f_median_OneBR,549833,median,1,HWES forecast
+2022-06-30,f_median_OneBR,551609,median,1,HWES forecast
+2022-07-31,f_median_OneBR,556213,median,1,HWES forecast
+2022-08-31,f_median_OneBR,559333,median,1,HWES forecast
+2022-09-30,f_median_OneBR,563928,median,1,HWES forecast
+2022-10-31,f_median_OneBR,568567,median,1,HWES forecast
+2022-11-30,f_median_OneBR,573196,median,1,HWES forecast
+2022-12-31,f_median_OneBR,577963,median,1,HWES forecast
+2023-01-31,f_median_OneBR,582730,median,1,HWES forecast
+2023-02-28,f_median_OneBR,586152,median,1,HWES forecast
+2023-03-31,f_median_OneBR,586769,median,1,HWES forecast
+2023-04-30,f_median_OneBR,589083,median,1,HWES forecast
+2023-05-31,f_median_OneBR,594406,median,1,HWES forecast
+2023-06-30,f_median_OneBR,599192,median,1,HWES forecast
+2023-07-31,f_median_OneBR,601438,median,1,HWES forecast
+2023-08-31,f_median_OneBR,603996,median,1,HWES forecast
+2023-09-30,f_median_OneBR,607140,median,1,HWES forecast
+2023-10-31,f_median_OneBR,608421,median,1,HWES forecast
+2023-11-30,f_median_OneBR,613178,median,1,HWES forecast
+2023-12-31,f_median_OneBR,618856,median,1,HWES forecast
+2024-01-31,f_median_OneBR,621964,median,1,HWES forecast
+2024-02-29,f_median_OneBR,624852,median,1,HWES forecast
+2024-03-31,f_median_OneBR,626825,median,1,HWES forecast
+2024-04-30,f_median_OneBR,627823,median,1,HWES forecast
+2024-05-31,f_median_OneBR,630361,median,1,HWES forecast
+2024-06-30,f_median_OneBR,635053,median,1,HWES forecast
+2024-07-31,f_median_OneBR,639293,median,1,HWES forecast
+2024-08-31,f_median_OneBR,642790,median,1,HWES forecast
+2024-09-30,f_median_OneBR,646230,median,1,HWES forecast
+2024-10-31,f_median_OneBR,650852,median,1,HWES forecast
+2024-11-30,f_median_OneBR,653587,median,1,HWES forecast
+2024-12-31,f_median_OneBR,658124,median,1,HWES forecast
+2025-01-31,f_median_OneBR,663149,median,1,HWES forecast
+2025-02-28,f_median_OneBR,666327,median,1,HWES forecast
+2025-03-31,f_median_OneBR,669046,median,1,HWES forecast
+2025-04-30,f_median_OneBR,671765,median,1,HWES forecast
+2025-05-31,f_median_OneBR,674712,median,1,HWES forecast
+2025-06-30,f_median_OneBR,677137,median,1,HWES forecast
+2025-07-31,f_median_OneBR,679145,median,1,HWES forecast
+2025-08-31,f_median_OneBR,681152,median,1,HWES forecast
+2025-09-30,f_median_OneBR,683298,median,1,HWES forecast
+2025-10-31,f_median_OneBR,686817,median,1,HWES forecast
+2025-11-30,f_median_OneBR,690575,median,1,HWES forecast
+2025-12-31,f_median_OneBR,693519,median,1,HWES forecast
+2020-12-31,f_median_TwoBR,639766,median,2,HWES forecast
+2021-01-31,f_median_TwoBR,643995,median,2,HWES forecast
+2021-02-28,f_median_TwoBR,651483,median,2,HWES forecast
+2021-03-31,f_median_TwoBR,654299,median,2,HWES forecast
+2021-04-30,f_median_TwoBR,656942,median,2,HWES forecast
+2021-05-31,f_median_TwoBR,661258,median,2,HWES forecast
+2021-06-30,f_median_TwoBR,665369,median,2,HWES forecast
+2021-07-31,f_median_TwoBR,668368,median,2,HWES forecast
+2021-08-31,f_median_TwoBR,671366,median,2,HWES forecast
+2021-09-30,f_median_TwoBR,675693,median,2,HWES forecast
+2021-10-31,f_median_TwoBR,681738,median,2,HWES forecast
+2021-11-30,f_median_TwoBR,687152,median,2,HWES forecast
+2021-12-31,f_median_TwoBR,691407,median,2,HWES forecast
+2022-01-31,f_median_TwoBR,693668,median,2,HWES forecast
+2022-02-28,f_median_TwoBR,700100,median,2,HWES forecast
+2022-03-31,f_median_TwoBR,706979,median,2,HWES forecast
+2022-04-30,f_median_TwoBR,714975,median,2,HWES forecast
+2022-05-31,f_median_TwoBR,720939,median,2,HWES forecast
+2022-06-30,f_median_TwoBR,726743,median,2,HWES forecast
+2022-07-31,f_median_TwoBR,735928,median,2,HWES forecast
+2022-08-31,f_median_TwoBR,743713,median,2,HWES forecast
+2022-09-30,f_median_TwoBR,747663,median,2,HWES forecast
+2022-10-31,f_median_TwoBR,751613,median,2,HWES forecast
+2022-11-30,f_median_TwoBR,755563,median,2,HWES forecast
+2022-12-31,f_median_TwoBR,759513,median,2,HWES forecast
+2023-01-31,f_median_TwoBR,763463,median,2,HWES forecast
+2023-02-28,f_median_TwoBR,767414,median,2,HWES forecast
+2023-03-31,f_median_TwoBR,771364,median,2,HWES forecast
+2023-04-30,f_median_TwoBR,780275,median,2,HWES forecast
+2023-05-31,f_median_TwoBR,784294,median,2,HWES forecast
+2023-06-30,f_median_TwoBR,790968,median,2,HWES forecast
+2023-07-31,f_median_TwoBR,798815,median,2,HWES forecast
+2023-08-31,f_median_TwoBR,803938,median,2,HWES forecast
+2023-09-30,f_median_TwoBR,807436,median,2,HWES forecast
+2023-10-31,f_median_TwoBR,811713,median,2,HWES forecast
+2023-11-30,f_median_TwoBR,818686,median,2,HWES forecast
+2023-12-31,f_median_TwoBR,825660,median,2,HWES forecast
+2024-01-31,f_median_TwoBR,833085,median,2,HWES forecast
+2024-02-29,f_median_TwoBR,839556,median,2,HWES forecast
+2024-03-31,f_median_TwoBR,844682,median,2,HWES forecast
+2024-04-30,f_median_TwoBR,853125,median,2,HWES forecast
+2024-05-31,f_median_TwoBR,860529,median,2,HWES forecast
+2024-06-30,f_median_TwoBR,867503,median,2,HWES forecast
+2024-07-31,f_median_TwoBR,874477,median,2,HWES forecast
+2024-08-31,f_median_TwoBR,877578,median,2,HWES forecast
+2024-09-30,f_median_TwoBR,881878,median,2,HWES forecast
+2024-10-31,f_median_TwoBR,889598,median,2,HWES forecast
+2024-11-30,f_median_TwoBR,895311,median,2,HWES forecast
+2024-12-31,f_median_TwoBR,900541,median,2,HWES forecast
+2025-01-31,f_median_TwoBR,904248,median,2,HWES forecast
+2025-02-28,f_median_TwoBR,910981,median,2,HWES forecast
+2025-03-31,f_median_TwoBR,917254,median,2,HWES forecast
+2025-04-30,f_median_TwoBR,921039,median,2,HWES forecast
+2025-05-31,f_median_TwoBR,924823,median,2,HWES forecast
+2025-06-30,f_median_TwoBR,931517,median,2,HWES forecast
+2025-07-31,f_median_TwoBR,937237,median,2,HWES forecast
+2025-08-31,f_median_TwoBR,944388,median,2,HWES forecast
+2025-09-30,f_median_TwoBR,951539,median,2,HWES forecast
+2025-10-31,f_median_TwoBR,958690,median,2,HWES forecast
+2025-11-30,f_median_TwoBR,964045,median,2,HWES forecast
+2025-12-31,f_median_TwoBR,968296,median,2,HWES forecast
+2020-12-31,f_median_ThreeBR,834104,median,3,HWES forecast
+2021-01-31,f_median_ThreeBR,838821,median,3,HWES forecast
+2021-02-28,f_median_ThreeBR,843807,median,3,HWES forecast
+2021-03-31,f_median_ThreeBR,849684,median,3,HWES forecast
+2021-04-30,f_median_ThreeBR,857933,median,3,HWES forecast
+2021-05-31,f_median_ThreeBR,871187,median,3,HWES forecast
+2021-06-30,f_median_ThreeBR,877442,median,3,HWES forecast
+2021-07-31,f_median_ThreeBR,883030,median,3,HWES forecast
+2021-08-31,f_median_ThreeBR,888556,median,3,HWES forecast
+2021-09-30,f_median_ThreeBR,896223,median,3,HWES forecast
+2021-10-31,f_median_ThreeBR,908391,median,3,HWES forecast
+2021-11-30,f_median_ThreeBR,912971,median,3,HWES forecast
+2021-12-31,f_median_ThreeBR,920889,median,3,HWES forecast
+2022-01-31,f_median_ThreeBR,930573,median,3,HWES forecast
+2022-02-28,f_median_ThreeBR,937510,median,3,HWES forecast
+2022-03-31,f_median_ThreeBR,944446,median,3,HWES forecast
+2022-04-30,f_median_ThreeBR,951383,median,3,HWES forecast
+2022-05-31,f_median_ThreeBR,959092,median,3,HWES forecast
+2022-06-30,f_median_ThreeBR,970760,median,3,HWES forecast
+2022-07-31,f_median_ThreeBR,982427,median,3,HWES forecast
+2022-08-31,f_median_ThreeBR,993749,median,3,HWES forecast
+2022-09-30,f_median_ThreeBR,999473,median,3,HWES forecast
+2022-10-31,f_median_ThreeBR,1009758,median,3,HWES forecast
+2022-11-30,f_median_ThreeBR,1020731,median,3,HWES forecast
+2022-12-31,f_median_ThreeBR,1031704,median,3,HWES forecast
+2023-01-31,f_median_ThreeBR,1037711,median,3,HWES forecast
+2023-02-28,f_median_ThreeBR,1044999,median,3,HWES forecast
+2023-03-31,f_median_ThreeBR,1054969,median,3,HWES forecast
+2023-04-30,f_median_ThreeBR,1062065,median,3,HWES forecast
+2023-05-31,f_median_ThreeBR,1067061,median,3,HWES forecast
+2023-06-30,f_median_ThreeBR,1077329,median,3,HWES forecast
+2023-07-31,f_median_ThreeBR,1086363,median,3,HWES forecast
+2023-08-31,f_median_ThreeBR,1096014,median,3,HWES forecast
+2023-09-30,f_median_ThreeBR,1105665,median,3,HWES forecast
+2023-10-31,f_median_ThreeBR,1115316,median,3,HWES forecast
+2023-11-30,f_median_ThreeBR,1126862,median,3,HWES forecast
+2023-12-31,f_median_ThreeBR,1139176,median,3,HWES forecast
+2024-01-31,f_median_ThreeBR,1145980,median,3,HWES forecast
+2024-02-29,f_median_ThreeBR,1155876,median,3,HWES forecast
+2024-03-31,f_median_ThreeBR,1163572,median,3,HWES forecast
+2024-04-30,f_median_ThreeBR,1173223,median,3,HWES forecast
+2024-05-31,f_median_ThreeBR,1181943,median,3,HWES forecast
+2024-06-30,f_median_ThreeBR,1191031,median,3,HWES forecast
+2024-07-31,f_median_ThreeBR,1200618,median,3,HWES forecast
+2024-08-31,f_median_ThreeBR,1210206,median,3,HWES forecast
+2024-09-30,f_median_ThreeBR,1219849,median,3,HWES forecast
+2024-10-31,f_median_ThreeBR,1229380,median,3,HWES forecast
+2024-11-30,f_median_ThreeBR,1237026,median,3,HWES forecast
+2024-12-31,f_median_ThreeBR,1248555,median,3,HWES forecast
+2025-01-31,f_median_ThreeBR,1257006,median,3,HWES forecast
+2025-02-28,f_median_ThreeBR,1257655,median,3,HWES forecast
+2025-03-31,f_median_ThreeBR,1258028,median,3,HWES forecast
+2025-04-30,f_median_ThreeBR,1267518,median,3,HWES forecast
+2025-05-31,f_median_ThreeBR,1277007,median,3,HWES forecast
+2025-06-30,f_median_ThreeBR,1285387,median,3,HWES forecast
+2025-07-31,f_median_ThreeBR,1295986,median,3,HWES forecast
+2025-08-31,f_median_ThreeBR,1305476,median,3,HWES forecast
+2025-09-30,f_median_ThreeBR,1314905,median,3,HWES forecast
+2025-10-31,f_median_ThreeBR,1323730,median,3,HWES forecast
+2025-11-30,f_median_ThreeBR,1333251,median,3,HWES forecast
+2025-12-31,f_median_ThreeBR,1336053,median,3,HWES forecast
+2020-12-31,f_median_FourBR,1013955,median,4,HWES forecast
+2021-01-31,f_median_FourBR,1022146,median,4,HWES forecast
+2021-02-28,f_median_FourBR,1029786,median,4,HWES forecast
+2021-03-31,f_median_FourBR,1037538,median,4,HWES forecast
+2021-04-30,f_median_FourBR,1045289,median,4,HWES forecast
+2021-05-31,f_median_FourBR,1053859,median,4,HWES forecast
+2021-06-30,f_median_FourBR,1064630,median,4,HWES forecast
+2021-07-31,f_median_FourBR,1081516,median,4,HWES forecast
+2021-08-31,f_median_FourBR,1091732,median,4,HWES forecast
+2021-09-30,f_median_FourBR,1097404,median,4,HWES forecast
+2021-10-31,f_median_FourBR,1103077,median,4,HWES forecast
+2021-11-30,f_median_FourBR,1111008,median,4,HWES forecast
+2021-12-31,f_median_FourBR,1120838,median,4,HWES forecast
+2022-01-31,f_median_FourBR,1132655,median,4,HWES forecast
+2022-02-28,f_median_FourBR,1143837,median,4,HWES forecast
+2022-03-31,f_median_FourBR,1149108,median,4,HWES forecast
+2022-04-30,f_median_FourBR,1158632,median,4,HWES forecast
+2022-05-31,f_median_FourBR,1166169,median,4,HWES forecast
+2022-06-30,f_median_FourBR,1176981,median,4,HWES forecast
+2022-07-31,f_median_FourBR,1187207,median,4,HWES forecast
+2022-08-31,f_median_FourBR,1196732,median,4,HWES forecast
+2022-09-30,f_median_FourBR,1206257,median,4,HWES forecast
+2022-10-31,f_median_FourBR,1216300,median,4,HWES forecast
+2022-11-30,f_median_FourBR,1235269,median,4,HWES forecast
+2022-12-31,f_median_FourBR,1251304,median,4,HWES forecast
+2023-01-31,f_median_FourBR,1255978,median,4,HWES forecast
+2023-02-28,f_median_FourBR,1261706,median,4,HWES forecast
+2023-03-31,f_median_FourBR,1273363,median,4,HWES forecast
+2023-04-30,f_median_FourBR,1280830,median,4,HWES forecast
+2023-05-31,f_median_FourBR,1294929,median,4,HWES forecast
+2023-06-30,f_median_FourBR,1306053,median,4,HWES forecast
+2023-07-31,f_median_FourBR,1319988,median,4,HWES forecast
+2023-08-31,f_median_FourBR,1331644,median,4,HWES forecast
+2023-09-30,f_median_FourBR,1343301,median,4,HWES forecast
+2023-10-31,f_median_FourBR,1354957,median,4,HWES forecast
+2023-11-30,f_median_FourBR,1366614,median,4,HWES forecast
+2023-12-31,f_median_FourBR,1373396,median,4,HWES forecast
+2024-01-31,f_median_FourBR,1376820,median,4,HWES forecast
+2024-02-29,f_median_FourBR,1380244,median,4,HWES forecast
+2024-03-31,f_median_FourBR,1386130,median,4,HWES forecast
+2024-04-30,f_median_FourBR,1395027,median,4,HWES forecast
+2024-05-31,f_median_FourBR,1405472,median,4,HWES forecast
+2024-06-30,f_median_FourBR,1417027,median,4,HWES forecast
+2024-07-31,f_median_FourBR,1428583,median,4,HWES forecast
+2024-08-31,f_median_FourBR,1438286,median,4,HWES forecast
+2024-09-30,f_median_FourBR,1447546,median,4,HWES forecast
+2024-10-31,f_median_FourBR,1459050,median,4,HWES forecast
+2024-11-30,f_median_FourBR,1470555,median,4,HWES forecast
+2024-12-31,f_median_FourBR,1482059,median,4,HWES forecast
+2025-01-31,f_median_FourBR,1493564,median,4,HWES forecast
+2025-02-28,f_median_FourBR,1505068,median,4,HWES forecast
+2025-03-31,f_median_FourBR,1516573,median,4,HWES forecast
+2025-04-30,f_median_FourBR,1528077,median,4,HWES forecast
+2025-05-31,f_median_FourBR,1538417,median,4,HWES forecast
+2025-06-30,f_median_FourBR,1550788,median,4,HWES forecast
+2025-07-31,f_median_FourBR,1562590,median,4,HWES forecast
+2025-08-31,f_median_FourBR,1574095,median,4,HWES forecast
+2025-09-30,f_median_FourBR,1585599,median,4,HWES forecast
+2025-10-31,f_median_FourBR,1598272,median,4,HWES forecast
+2025-11-30,f_median_FourBR,1609072,median,4,HWES forecast
+2025-12-31,f_median_FourBR,1620113,median,4,HWES forecast
+2020-12-31,f_mean_OneBR,564478,mean,1,HWES forecast
+2021-01-31,f_mean_OneBR,568721,mean,1,HWES forecast
+2021-02-28,f_mean_OneBR,573056,mean,1,HWES forecast
+2021-03-31,f_mean_OneBR,577391,mean,1,HWES forecast
+2021-04-30,f_mean_OneBR,581725,mean,1,HWES forecast
+2021-05-31,f_mean_OneBR,586060,mean,1,HWES forecast
+2021-06-30,f_mean_OneBR,590395,mean,1,HWES forecast
+2021-07-31,f_mean_OneBR,594730,mean,1,HWES forecast
+2021-08-31,f_mean_OneBR,599064,mean,1,HWES forecast
+2021-09-30,f_mean_OneBR,603399,mean,1,HWES forecast
+2021-10-31,f_mean_OneBR,607734,mean,1,HWES forecast
+2021-11-30,f_mean_OneBR,612069,mean,1,HWES forecast
+2021-12-31,f_mean_OneBR,616404,mean,1,HWES forecast
+2022-01-31,f_mean_OneBR,620738,mean,1,HWES forecast
+2022-02-28,f_mean_OneBR,625073,mean,1,HWES forecast
+2022-03-31,f_mean_OneBR,629408,mean,1,HWES forecast
+2022-04-30,f_mean_OneBR,633743,mean,1,HWES forecast
+2022-05-31,f_mean_OneBR,638077,mean,1,HWES forecast
+2022-06-30,f_mean_OneBR,642412,mean,1,HWES forecast
+2022-07-31,f_mean_OneBR,646747,mean,1,HWES forecast
+2022-08-31,f_mean_OneBR,651082,mean,1,HWES forecast
+2022-09-30,f_mean_OneBR,655417,mean,1,HWES forecast
+2022-10-31,f_mean_OneBR,659751,mean,1,HWES forecast
+2022-11-30,f_mean_OneBR,664086,mean,1,HWES forecast
+2022-12-31,f_mean_OneBR,668421,mean,1,HWES forecast
+2023-01-31,f_mean_OneBR,672756,mean,1,HWES forecast
+2023-02-28,f_mean_OneBR,677090,mean,1,HWES forecast
+2023-03-31,f_mean_OneBR,681425,mean,1,HWES forecast
+2023-04-30,f_mean_OneBR,685760,mean,1,HWES forecast
+2023-05-31,f_mean_OneBR,690095,mean,1,HWES forecast
+2023-06-30,f_mean_OneBR,694430,mean,1,HWES forecast
+2023-07-31,f_mean_OneBR,698764,mean,1,HWES forecast
+2023-08-31,f_mean_OneBR,703099,mean,1,HWES forecast
+2023-09-30,f_mean_OneBR,707434,mean,1,HWES forecast
+2023-10-31,f_mean_OneBR,711769,mean,1,HWES forecast
+2023-11-30,f_mean_OneBR,716103,mean,1,HWES forecast
+2023-12-31,f_mean_OneBR,720438,mean,1,HWES forecast
+2024-01-31,f_mean_OneBR,724773,mean,1,HWES forecast
+2024-02-29,f_mean_OneBR,729108,mean,1,HWES forecast
+2024-03-31,f_mean_OneBR,733442,mean,1,HWES forecast
+2024-04-30,f_mean_OneBR,737777,mean,1,HWES forecast
+2024-05-31,f_mean_OneBR,742112,mean,1,HWES forecast
+2024-06-30,f_mean_OneBR,746447,mean,1,HWES forecast
+2024-07-31,f_mean_OneBR,750782,mean,1,HWES forecast
+2024-08-31,f_mean_OneBR,755116,mean,1,HWES forecast
+2024-09-30,f_mean_OneBR,759451,mean,1,HWES forecast
+2024-10-31,f_mean_OneBR,763786,mean,1,HWES forecast
+2024-11-30,f_mean_OneBR,768121,mean,1,HWES forecast
+2024-12-31,f_mean_OneBR,772455,mean,1,HWES forecast
+2025-01-31,f_mean_OneBR,776790,mean,1,HWES forecast
+2025-02-28,f_mean_OneBR,781125,mean,1,HWES forecast
+2025-03-31,f_mean_OneBR,785460,mean,1,HWES forecast
+2025-04-30,f_mean_OneBR,789795,mean,1,HWES forecast
+2025-05-31,f_mean_OneBR,794129,mean,1,HWES forecast
+2025-06-30,f_mean_OneBR,798464,mean,1,HWES forecast
+2025-07-31,f_mean_OneBR,802799,mean,1,HWES forecast
+2025-08-31,f_mean_OneBR,807134,mean,1,HWES forecast
+2025-09-30,f_mean_OneBR,811468,mean,1,HWES forecast
+2025-10-31,f_mean_OneBR,815803,mean,1,HWES forecast
+2025-11-30,f_mean_OneBR,820138,mean,1,HWES forecast
+2025-12-31,f_mean_OneBR,824473,mean,1,HWES forecast
+2020-12-31,f_mean_TwoBR,736188,mean,2,HWES forecast
+2021-01-31,f_mean_TwoBR,741786,mean,2,HWES forecast
+2021-02-28,f_mean_TwoBR,747494,mean,2,HWES forecast
+2021-03-31,f_mean_TwoBR,753202,mean,2,HWES forecast
+2021-04-30,f_mean_TwoBR,758910,mean,2,HWES forecast
+2021-05-31,f_mean_TwoBR,764617,mean,2,HWES forecast
+2021-06-30,f_mean_TwoBR,770325,mean,2,HWES forecast
+2021-07-31,f_mean_TwoBR,776033,mean,2,HWES forecast
+2021-08-31,f_mean_TwoBR,781741,mean,2,HWES forecast
+2021-09-30,f_mean_TwoBR,787449,mean,2,HWES forecast
+2021-10-31,f_mean_TwoBR,793156,mean,2,HWES forecast
+2021-11-30,f_mean_TwoBR,798864,mean,2,HWES forecast
+2021-12-31,f_mean_TwoBR,804572,mean,2,HWES forecast
+2022-01-31,f_mean_TwoBR,810280,mean,2,HWES forecast
+2022-02-28,f_mean_TwoBR,815988,mean,2,HWES forecast
+2022-03-31,f_mean_TwoBR,821696,mean,2,HWES forecast
+2022-04-30,f_mean_TwoBR,827403,mean,2,HWES forecast
+2022-05-31,f_mean_TwoBR,833111,mean,2,HWES forecast
+2022-06-30,f_mean_TwoBR,838819,mean,2,HWES forecast
+2022-07-31,f_mean_TwoBR,844527,mean,2,HWES forecast
+2022-08-31,f_mean_TwoBR,850235,mean,2,HWES forecast
+2022-09-30,f_mean_TwoBR,855942,mean,2,HWES forecast
+2022-10-31,f_mean_TwoBR,861650,mean,2,HWES forecast
+2022-11-30,f_mean_TwoBR,867358,mean,2,HWES forecast
+2022-12-31,f_mean_TwoBR,873066,mean,2,HWES forecast
+2023-01-31,f_mean_TwoBR,878774,mean,2,HWES forecast
+2023-02-28,f_mean_TwoBR,884481,mean,2,HWES forecast
+2023-03-31,f_mean_TwoBR,890189,mean,2,HWES forecast
+2023-04-30,f_mean_TwoBR,895897,mean,2,HWES forecast
+2023-05-31,f_mean_TwoBR,901605,mean,2,HWES forecast
+2023-06-30,f_mean_TwoBR,907313,mean,2,HWES forecast
+2023-07-31,f_mean_TwoBR,913021,mean,2,HWES forecast
+2023-08-31,f_mean_TwoBR,918728,mean,2,HWES forecast
+2023-09-30,f_mean_TwoBR,924436,mean,2,HWES forecast
+2023-10-31,f_mean_TwoBR,930144,mean,2,HWES forecast
+2023-11-30,f_mean_TwoBR,935852,mean,2,HWES forecast
+2023-12-31,f_mean_TwoBR,941560,mean,2,HWES forecast
+2024-01-31,f_mean_TwoBR,947267,mean,2,HWES forecast
+2024-02-29,f_mean_TwoBR,952975,mean,2,HWES forecast
+2024-03-31,f_mean_TwoBR,958683,mean,2,HWES forecast
+2024-04-30,f_mean_TwoBR,964391,mean,2,HWES forecast
+2024-05-31,f_mean_TwoBR,970099,mean,2,HWES forecast
+2024-06-30,f_mean_TwoBR,975807,mean,2,HWES forecast
+2024-07-31,f_mean_TwoBR,981514,mean,2,HWES forecast
+2024-08-31,f_mean_TwoBR,987222,mean,2,HWES forecast
+2024-09-30,f_mean_TwoBR,992930,mean,2,HWES forecast
+2024-10-31,f_mean_TwoBR,998638,mean,2,HWES forecast
+2024-11-30,f_mean_TwoBR,1004346,mean,2,HWES forecast
+2024-12-31,f_mean_TwoBR,1010053,mean,2,HWES forecast
+2025-01-31,f_mean_TwoBR,1015761,mean,2,HWES forecast
+2025-02-28,f_mean_TwoBR,1021469,mean,2,HWES forecast
+2025-03-31,f_mean_TwoBR,1027177,mean,2,HWES forecast
+2025-04-30,f_mean_TwoBR,1032885,mean,2,HWES forecast
+2025-05-31,f_mean_TwoBR,1038592,mean,2,HWES forecast
+2025-06-30,f_mean_TwoBR,1044300,mean,2,HWES forecast
+2025-07-31,f_mean_TwoBR,1050008,mean,2,HWES forecast
+2025-08-31,f_mean_TwoBR,1055716,mean,2,HWES forecast
+2025-09-30,f_mean_TwoBR,1061424,mean,2,HWES forecast
+2025-10-31,f_mean_TwoBR,1067131,mean,2,HWES forecast
+2025-11-30,f_mean_TwoBR,1072839,mean,2,HWES forecast
+2025-12-31,f_mean_TwoBR,1078547,mean,2,HWES forecast
+2020-12-31,f_mean_ThreeBR,997908,mean,3,HWES forecast
+2021-01-31,f_mean_ThreeBR,1006950,mean,3,HWES forecast
+2021-02-28,f_mean_ThreeBR,1016159,mean,3,HWES forecast
+2021-03-31,f_mean_ThreeBR,1025368,mean,3,HWES forecast
+2021-04-30,f_mean_ThreeBR,1034577,mean,3,HWES forecast
+2021-05-31,f_mean_ThreeBR,1043786,mean,3,HWES forecast
+2021-06-30,f_mean_ThreeBR,1052995,mean,3,HWES forecast
+2021-07-31,f_mean_ThreeBR,1062204,mean,3,HWES forecast
+2021-08-31,f_mean_ThreeBR,1071413,mean,3,HWES forecast
+2021-09-30,f_mean_ThreeBR,1080622,mean,3,HWES forecast
+2021-10-31,f_mean_ThreeBR,1089831,mean,3,HWES forecast
+2021-11-30,f_mean_ThreeBR,1099040,mean,3,HWES forecast
+2021-12-31,f_mean_ThreeBR,1108249,mean,3,HWES forecast
+2022-01-31,f_mean_ThreeBR,1117458,mean,3,HWES forecast
+2022-02-28,f_mean_ThreeBR,1126667,mean,3,HWES forecast
+2022-03-31,f_mean_ThreeBR,1135876,mean,3,HWES forecast
+2022-04-30,f_mean_ThreeBR,1145085,mean,3,HWES forecast
+2022-05-31,f_mean_ThreeBR,1154294,mean,3,HWES forecast
+2022-06-30,f_mean_ThreeBR,1163503,mean,3,HWES forecast
+2022-07-31,f_mean_ThreeBR,1172712,mean,3,HWES forecast
+2022-08-31,f_mean_ThreeBR,1181921,mean,3,HWES forecast
+2022-09-30,f_mean_ThreeBR,1191130,mean,3,HWES forecast
+2022-10-31,f_mean_ThreeBR,1200339,mean,3,HWES forecast
+2022-11-30,f_mean_ThreeBR,1209548,mean,3,HWES forecast
+2022-12-31,f_mean_ThreeBR,1218757,mean,3,HWES forecast
+2023-01-31,f_mean_ThreeBR,1227966,mean,3,HWES forecast
+2023-02-28,f_mean_ThreeBR,1237175,mean,3,HWES forecast
+2023-03-31,f_mean_ThreeBR,1246384,mean,3,HWES forecast
+2023-04-30,f_mean_ThreeBR,1255593,mean,3,HWES forecast
+2023-05-31,f_mean_ThreeBR,1264802,mean,3,HWES forecast
+2023-06-30,f_mean_ThreeBR,1274011,mean,3,HWES forecast
+2023-07-31,f_mean_ThreeBR,1283220,mean,3,HWES forecast
+2023-08-31,f_mean_ThreeBR,1292429,mean,3,HWES forecast
+2023-09-30,f_mean_ThreeBR,1301638,mean,3,HWES forecast
+2023-10-31,f_mean_ThreeBR,1310847,mean,3,HWES forecast
+2023-11-30,f_mean_ThreeBR,1320056,mean,3,HWES forecast
+2023-12-31,f_mean_ThreeBR,1329265,mean,3,HWES forecast
+2024-01-31,f_mean_ThreeBR,1338474,mean,3,HWES forecast
+2024-02-29,f_mean_ThreeBR,1347683,mean,3,HWES forecast
+2024-03-31,f_mean_ThreeBR,1356892,mean,3,HWES forecast
+2024-04-30,f_mean_ThreeBR,1366101,mean,3,HWES forecast
+2024-05-31,f_mean_ThreeBR,1375310,mean,3,HWES forecast
+2024-06-30,f_mean_ThreeBR,1384519,mean,3,HWES forecast
+2024-07-31,f_mean_ThreeBR,1393728,mean,3,HWES forecast
+2024-08-31,f_mean_ThreeBR,1402937,mean,3,HWES forecast
+2024-09-30,f_mean_ThreeBR,1412146,mean,3,HWES forecast
+2024-10-31,f_mean_ThreeBR,1421355,mean,3,HWES forecast
+2024-11-30,f_mean_ThreeBR,1430564,mean,3,HWES forecast
+2024-12-31,f_mean_ThreeBR,1439773,mean,3,HWES forecast
+2025-01-31,f_mean_ThreeBR,1448982,mean,3,HWES forecast
+2025-02-28,f_mean_ThreeBR,1458191,mean,3,HWES forecast
+2025-03-31,f_mean_ThreeBR,1467400,mean,3,HWES forecast
+2025-04-30,f_mean_ThreeBR,1476609,mean,3,HWES forecast
+2025-05-31,f_mean_ThreeBR,1485818,mean,3,HWES forecast
+2025-06-30,f_mean_ThreeBR,1495027,mean,3,HWES forecast
+2025-07-31,f_mean_ThreeBR,1504236,mean,3,HWES forecast
+2025-08-31,f_mean_ThreeBR,1513445,mean,3,HWES forecast
+2025-09-30,f_mean_ThreeBR,1522654,mean,3,HWES forecast
+2025-10-31,f_mean_ThreeBR,1531863,mean,3,HWES forecast
+2025-11-30,f_mean_ThreeBR,1541072,mean,3,HWES forecast
+2025-12-31,f_mean_ThreeBR,1550281,mean,3,HWES forecast
+2020-12-31,f_mean_FourBR,1266642,mean,4,HWES forecast
+2021-01-31,f_mean_FourBR,1278473,mean,4,HWES forecast
+2021-02-28,f_mean_FourBR,1290745,mean,4,HWES forecast
+2021-03-31,f_mean_FourBR,1303017,mean,4,HWES forecast
+2021-04-30,f_mean_FourBR,1315289,mean,4,HWES forecast
+2021-05-31,f_mean_FourBR,1327561,mean,4,HWES forecast
+2021-06-30,f_mean_FourBR,1339833,mean,4,HWES forecast
+2021-07-31,f_mean_FourBR,1352105,mean,4,HWES forecast
+2021-08-31,f_mean_FourBR,1364377,mean,4,HWES forecast
+2021-09-30,f_mean_FourBR,1376650,mean,4,HWES forecast
+2021-10-31,f_mean_FourBR,1388922,mean,4,HWES forecast
+2021-11-30,f_mean_FourBR,1401194,mean,4,HWES forecast
+2021-12-31,f_mean_FourBR,1413466,mean,4,HWES forecast
+2022-01-31,f_mean_FourBR,1425738,mean,4,HWES forecast
+2022-02-28,f_mean_FourBR,1438010,mean,4,HWES forecast
+2022-03-31,f_mean_FourBR,1450282,mean,4,HWES forecast
+2022-04-30,f_mean_FourBR,1462554,mean,4,HWES forecast
+2022-05-31,f_mean_FourBR,1474826,mean,4,HWES forecast
+2022-06-30,f_mean_FourBR,1487098,mean,4,HWES forecast
+2022-07-31,f_mean_FourBR,1499370,mean,4,HWES forecast
+2022-08-31,f_mean_FourBR,1511642,mean,4,HWES forecast
+2022-09-30,f_mean_FourBR,1523914,mean,4,HWES forecast
+2022-10-31,f_mean_FourBR,1536186,mean,4,HWES forecast
+2022-11-30,f_mean_FourBR,1548459,mean,4,HWES forecast
+2022-12-31,f_mean_FourBR,1560731,mean,4,HWES forecast
+2023-01-31,f_mean_FourBR,1573003,mean,4,HWES forecast
+2023-02-28,f_mean_FourBR,1585275,mean,4,HWES forecast
+2023-03-31,f_mean_FourBR,1597547,mean,4,HWES forecast
+2023-04-30,f_mean_FourBR,1609819,mean,4,HWES forecast
+2023-05-31,f_mean_FourBR,1622091,mean,4,HWES forecast
+2023-06-30,f_mean_FourBR,1634363,mean,4,HWES forecast
+2023-07-31,f_mean_FourBR,1646635,mean,4,HWES forecast
+2023-08-31,f_mean_FourBR,1658907,mean,4,HWES forecast
+2023-09-30,f_mean_FourBR,1671179,mean,4,HWES forecast
+2023-10-31,f_mean_FourBR,1683451,mean,4,HWES forecast
+2023-11-30,f_mean_FourBR,1695723,mean,4,HWES forecast
+2023-12-31,f_mean_FourBR,1707995,mean,4,HWES forecast
+2024-01-31,f_mean_FourBR,1720267,mean,4,HWES forecast
+2024-02-29,f_mean_FourBR,1732540,mean,4,HWES forecast
+2024-03-31,f_mean_FourBR,1744812,mean,4,HWES forecast
+2024-04-30,f_mean_FourBR,1757084,mean,4,HWES forecast
+2024-05-31,f_mean_FourBR,1769356,mean,4,HWES forecast
+2024-06-30,f_mean_FourBR,1781628,mean,4,HWES forecast
+2024-07-31,f_mean_FourBR,1793900,mean,4,HWES forecast
+2024-08-31,f_mean_FourBR,1806172,mean,4,HWES forecast
+2024-09-30,f_mean_FourBR,1818444,mean,4,HWES forecast
+2024-10-31,f_mean_FourBR,1830716,mean,4,HWES forecast
+2024-11-30,f_mean_FourBR,1842988,mean,4,HWES forecast
+2024-12-31,f_mean_FourBR,1855260,mean,4,HWES forecast
+2025-01-31,f_mean_FourBR,1867532,mean,4,HWES forecast
+2025-02-28,f_mean_FourBR,1879804,mean,4,HWES forecast
+2025-03-31,f_mean_FourBR,1892076,mean,4,HWES forecast
+2025-04-30,f_mean_FourBR,1904349,mean,4,HWES forecast
+2025-05-31,f_mean_FourBR,1916621,mean,4,HWES forecast
+2025-06-30,f_mean_FourBR,1928893,mean,4,HWES forecast
+2025-07-31,f_mean_FourBR,1941165,mean,4,HWES forecast
+2025-08-31,f_mean_FourBR,1953437,mean,4,HWES forecast
+2025-09-30,f_mean_FourBR,1965709,mean,4,HWES forecast
+2025-10-31,f_mean_FourBR,1977981,mean,4,HWES forecast
+2025-11-30,f_mean_FourBR,1990253,mean,4,HWES forecast
+2025-12-31,f_mean_FourBR,2002525,mean,4,HWES forecast
